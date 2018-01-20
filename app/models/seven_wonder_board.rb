@@ -1,0 +1,2 @@
+class SevenWonderBoard < ApplicationRecord
+end
