@@ -1,0 +1,11 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.navbar{
+	background-color: #93b7f2;
+}
+
+.navbar .nav > li > a  {
+  color: white;
+  font-size: 16pt;
+}
