@@ -1,0 +1,15 @@
+<%=form_tag register_path do%>
+	<%= label_tag "Name" %>
+	<br>
+	<%= text_field_tag :name %>
+	<br>
+	<%= label_tag "Password" %>
+	<br>
+	<%= text_field_tag :password %>
+	<br>
+	<%= label_tag "Confirm Password" %>
+	<br>
+	<%= text_field_tag :password_confirmation %>
+	<br>
+	<%= submit_tag "Create" %>
+<% end %>
