@@ -1,3 +1,13 @@
+<div id = "error">
+	<% if @admin.errors.any? %>
+		<% @admin.errors.full_messages.each do |e| %>
+			<%= e %>
+			<br>
+		<% end %>
+	<% end %>
+</div>
+
+
 <%=form_tag register_path do%>
 	<%= label_tag "Name" %>
 	<br>
