@@ -3,4 +3,6 @@ Rails.application.routes.draw do
   get 'home', to: 'dashboard#home'
   get 'register', to: 'admin#new'
   post 'register', to: 'admin#create'
+  post 'login', to: 'sessions#new'
+  delete 'logout', to: 'sessions#destroy'
 end
