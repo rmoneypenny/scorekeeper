@@ -9,7 +9,7 @@ class AdminController < ApplicationController
 		if !@admin.save
 			render 'new'
 		else
-			redirect_to home_path
+			redirect_to root_path
 			flash[:notice] = "Account created!"
 		end
 	end

@@ -8,13 +8,13 @@ class SessionsController < ApplicationController
 		else
 			flash[:error] = "Invalid User/Pass"
 		end
-		redirect_to home_path
+		redirect_to root_path
 	end
 
 	def destroy
 		session.delete(:admin_id)
 		@current_admin = nil
-		redirect_to home_path
+		redirect_to root_path
 	end
 
 end

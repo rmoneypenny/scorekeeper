@@ -3,11 +3,24 @@
 
 .navbar{
 	background-color: #93b7f2;
+	margin-bottom: 0px;
+
+}
+
+.mainbar{
+	font-size: 16pt;
+	padding-left: 13%;
+}
+
+.sidebar{
+	font-size: 10pt;
+	background-color: #FFA07A;
+	margin-bottom: 0px;
+	width: 15%;
 }
 
 .navbar .nav > li > a  {
   color: white;
-  font-size: 16pt;
 }
 
 #notice{
