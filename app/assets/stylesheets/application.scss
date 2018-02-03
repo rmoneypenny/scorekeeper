@@ -13,10 +13,23 @@
 }
 
 .sidebar{
-	font-size: 10pt;
+	font-size: 12pt;
 	background-color: #FFA07A;
 	margin-bottom: 0px;
 	width: 15%;
+	height: 100%;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+	
+}
+
+.sidebar > .row{
+	padding-bottom: 20px;
+}
+
+.sidebar .row:hover{
+	color: black;
 }
 
 .navbar .nav > li > a  {
@@ -30,3 +43,4 @@
 #error{
 	color: red;
 }
+
