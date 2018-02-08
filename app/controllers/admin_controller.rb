@@ -14,6 +14,10 @@ class AdminController < ApplicationController
 		end
 	end
 
+	def changePassword
+		
+	end
+
 	private
 
 	def admin_params

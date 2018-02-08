@@ -6,4 +6,5 @@ Rails.application.routes.draw do
   post 'login', to: 'sessions#new'
   delete 'logout', to: 'sessions#destroy'
   get 'settings', to: 'dashboard#settings'
+  get 'settings/password', to: 'admin#changePassword'
 end
