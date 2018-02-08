@@ -22,3 +22,28 @@
   </ul>
   </div>
 </nav>
+
+<%if current_page?(settings_path) %>  
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-2 sidebar">
+      <div style="color: white; border-style: none none double; cursor: default;"> <br>Settings<br><br> </div>
+      <br>
+       <div class="row">
+        Update Players
+      </div>
+       <div class="row">
+        Update Groups
+      </div>
+       <div class="row">
+        Change Password
+      </div>
+       <div class="row">
+        Change Name
+      </div>      
+    </div>
+  </div>
+</div>
+
+<% end %>
