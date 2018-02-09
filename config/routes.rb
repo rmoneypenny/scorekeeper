@@ -7,4 +7,7 @@ Rails.application.routes.draw do
   delete 'logout', to: 'sessions#destroy'
   get 'settings', to: 'dashboard#settings'
   get 'settings/password', to: 'admin#changePassword'
+  get 'settings/name', to: 'admin#changeName'
+  get 'settings/players', to: 'players#show'
+  get 'settings/groups', to: 'groups#show'
 end

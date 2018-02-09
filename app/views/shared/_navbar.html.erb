@@ -24,28 +24,41 @@
 </nav>
 
 <%if current_page?(settings_path) ||
-     current_page?(settings_password_path)
+     current_page?(settings_password_path) ||
+     current_page?(settings_players_path) ||
+     current_page?(settings_name_path) ||
+     current_page?(settings_groups_path)
  %>  
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-sm-2 sidebar">
-      <div style="color: white; border-style: none none double; cursor: default;"> <br>Settings<br><br> </div>
-      <br>
-       <div class="row">
-        Update Players
-      </div>
-       <div class="row">
-        Update Groups
-      </div>
-       <div class="row">
-        Change Password
-      </div>
-       <div class="row">
-        Change Name
-      </div>      
+  <div class="col-sm-2 sidebar">
+   <br>
+   <div class="row">
+        <div id="settings">
+          Settings
+        </div>
     </div>
-  </div>
-</div>
+    <div style="border-style: none none double;"> </div>
+    <br>
+    <div class="row">
+        <div id="update_players">
+          Update Players
+        </div>
+    </div>
+     <div class="row">
+        <div id="update_groups">
+          Update Groups
+        </div>
+    </div>
+     <div class="row">
+        <div id="update_name">
+          Change Name
+        </div>
+    </div>
+     <div class="row">
+        <div id="update_password">
+          Change Password
+        </div>
+    </div>   
+  </div>    
 
 <% end %>

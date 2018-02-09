@@ -18,6 +18,10 @@ class AdminController < ApplicationController
 		
 	end
 
+	def changeName
+
+	end
+
 	private
 
 	def admin_params
