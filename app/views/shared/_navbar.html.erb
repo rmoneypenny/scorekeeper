@@ -24,7 +24,7 @@
 </nav>
 
 <%if current_page?(settings_path) ||
-     current_page?(settings_password_path) ||
+     request.path == '/settings/password' ||
      current_page?(settings_players_path) ||
      current_page?(settings_name_path) ||
      current_page?(settings_groups_path)
