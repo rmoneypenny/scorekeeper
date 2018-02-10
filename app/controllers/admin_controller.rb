@@ -22,6 +22,15 @@ class AdminController < ApplicationController
 
 	end
 
+	def updatePassword
+		admin = Admin.where(id: params[:admin_id]).first
+		if admin.authenticate(params[:password]) && params[:new_password]==params[:new_password_confirmation]
+			puts "SUCCESS"
+		else
+			puts "FAIIILLLL"
+		end
+	end
+
 	private
 
 	def admin_params

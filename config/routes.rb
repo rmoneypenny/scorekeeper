@@ -10,4 +10,5 @@ Rails.application.routes.draw do
   get 'settings/name', to: 'admin#changeName'
   get 'settings/players', to: 'players#show'
   get 'settings/groups', to: 'groups#show'
+  patch 'settings/password', to: 'admin#updatePassword'
 end
