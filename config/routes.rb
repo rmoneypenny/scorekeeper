@@ -7,8 +7,10 @@ Rails.application.routes.draw do
   delete 'logout', to: 'sessions#destroy'
   get 'settings', to: 'dashboard#settings'
   get 'settings/password', to: 'admin#changePassword'
-  get 'settings/name', to: 'admin#changeName'
-  get 'settings/players', to: 'players#show'
-  get 'settings/groups', to: 'groups#show'
   patch 'settings/password', to: 'admin#updatePassword'
+  get 'settings/name', to: 'admin#changeName'
+  patch 'settings/name', to: 'admin#updateName'
+  get 'settings/players', to: 'players#show'
+  post 'settings/players', to: 'players#create'
+  get 'settings/groups', to: 'groups#show'
 end

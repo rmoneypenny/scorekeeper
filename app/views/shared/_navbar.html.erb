@@ -25,8 +25,8 @@
 
 <%if current_page?(settings_path) ||
      request.path == '/settings/password' ||
-     current_page?(settings_players_path) ||
-     current_page?(settings_name_path) ||
+     request.path == '/settings/players' ||
+     request.path == '/settings/name' ||
      current_page?(settings_groups_path)
  %>  
 

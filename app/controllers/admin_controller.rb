@@ -19,12 +19,11 @@ class AdminController < ApplicationController
 	end
 
 	def changeName
-			
+		@admin = Admin.new	
 	end
 
 	def updatePassword
 		@admin = Admin.where(name: params[:name]).first
-		puts @admin.id
 		if !@admin.authenticate(params[:current_password])
 			flash[:error] = "Password is not correct"
 			redirect_to settings_password_path
@@ -36,6 +35,22 @@ class AdminController < ApplicationController
 			else
 				render 'changePassword'
 			end
+		end
+	end
+
+	def updateName
+		@admin = Admin.where(name: params[:old_name]).first
+		if !@admin.authenticate(params[:password])
+			flash[:error] = "Password is not correct"
+			redirect_to settings_name_path
+		else
+			@admin.update(admin_params)
+				if @admin.errors.messages.empty?
+					flash[:notice] = "Name Changed!"
+					redirect_to settings_name_path
+				else
+					render 'changeName'
+				end
 		end
 	end
 

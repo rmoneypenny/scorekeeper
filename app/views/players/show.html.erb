@@ -1,1 +1,40 @@
-show players
+ 
+<div class="col-sm-1">
+ 	
+ </div>
+ <div class="col-sm-2">
+ 	<br>
+ 	<br>
+ 	<% @allPlayers.each do |p| %>
+ 		<%= p.name %>
+ 		<br>
+ 	<% end %>
+ 	<br>
+ 	<br>
+ 	make user inactive button next to name. JQuery? React?
+ 	<br>
+ 	<br>
+ 	show inactive players button
+ </div>
+
+ <div class="col-sm-2">
+	<br>
+	<br>
+ 	<div id = "error">
+		<% if @player.errors.any? %>
+			<% @player.errors.full_messages.each do |e| %>
+				<%= e %>
+				<br>
+			<% end %>
+		<% end %>
+	</div>
+	<%= form_tag settings_players_path do %>
+      <%= hidden_field_tag(:name, current_admin.name) %>
+	  <br>
+	  <%= label_tag "Name" %>
+      <br>
+	  <%= text_field_tag :name %>
+	  <br>
+	  <%= submit_tag "Add Player" %>
+	  <% end %>
+ </div>
