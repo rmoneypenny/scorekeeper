@@ -36,6 +36,49 @@
   color: white;
 }
 
+.left{
+	float: left;
+}
+
+.right{
+	color: black;
+	float: right;
+}
+
+.remove_player:hover{
+	color: red;
+	cursor: pointer;
+}
+
+.add_player:hover{
+	color: green;
+	cursor: pointer;
+}
+
+.show-inactive:hover{
+	color: #FFA07A;
+	cursor: pointer;
+}
+
+.player{
+	padding-left: 10px;	
+	padding-right: 10px;	
+}
+
+#player_list{
+	padding-left: 10px;
+}
+
+#active_player_list .row:hover{
+	background-color: #93b7f2;
+	color: white;
+}
+
+#inactive_player_list .row:hover{
+	background-color: #FFA07A;
+	color: white;
+}
+
 #notice{
 	color: green;
 }

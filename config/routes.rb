@@ -12,5 +12,7 @@ Rails.application.routes.draw do
   patch 'settings/name', to: 'admin#updateName'
   get 'settings/players', to: 'players#show'
   post 'settings/players', to: 'players#create'
+  patch 'settings/players', to: 'players#update'
   get 'settings/groups', to: 'groups#show'
+
 end

@@ -1,20 +1,8 @@
- 
-<div class="col-sm-1">
- 	
- </div>
- <div class="col-sm-2">
+<div class = "row">
+<div class="col-sm-2">
  	<br>
  	<br>
- 	<% @allPlayers.each do |p| %>
- 		<%= p.name %>
- 		<br>
- 	<% end %>
- 	<br>
- 	<br>
- 	make user inactive button next to name. JQuery? React?
- 	<br>
- 	<br>
- 	show inactive players button
+ 	<%= render 'shared/players' %>
  </div>
 
  <div class="col-sm-2">
@@ -38,3 +26,5 @@
 	  <%= submit_tag "Add Player" %>
 	  <% end %>
  </div>
+</div>
+

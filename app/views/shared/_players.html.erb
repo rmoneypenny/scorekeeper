@@ -1,0 +1,28 @@
+<div id="active_player_list">
+	<% @allPlayers.each do |p| %>
+		<% if p.active %>	 				
+	 		<div class="row player" style="outline: 1px solid #93b7f2; padding-left: 10px">
+	 			<div class="left">
+	 					<%= p.name %> 
+	 			</div>
+	 			<div class="right"> <span class="glyphicon glyphicon-remove remove_player"> </span> </div>
+			</div>
+		<% end %>	 			
+	<% end %>
+</div>
+	<br>
+	<br>
+	Show inactive players
+<span class="glyphicon glyphicon-chevron-down show-inactive"></span>
+<div id="inactive_player_list" style="display: none;">
+	<% @allPlayers.each do |p| %>
+		<% if !p.active %>	 				
+	 		<div class="row player" style="outline: 1px solid #93b7f2; padding-left: 10px">
+	 			<div class="left">
+	 					<%= p.name %> 
+	 			</div>
+	 			<div class="right"> <span class="glyphicon glyphicon-plus add_player"> </span> </div>
+			</div>
+		<% end %>	 			
+	<% end %>
+</div>
