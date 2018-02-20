@@ -26,7 +26,9 @@ $(document).on("click", ".remove_player", function(){
     	$.ajax({
             url : "/settings/players",
             type : "patch",
-            data : { name: player
+            data : { 
+                name: player,
+                active: false
             }
         });
         $(location).attr('href', "/settings/players");
@@ -36,9 +38,33 @@ $(document).on("click", ".remove_player", function(){
 	}
 });
 
-//fix this
+$(document).on("click", ".add_player", function(){
+    var player = ($.trim($(this).parent().siblings().text()));
+    $.ajax({
+        url : "/settings/players",
+        type : "patch",
+        data : { 
+            name: player,
+            active: true
+        }
+    });
+    $(location).attr('href', "/settings/players");
+});
+
+
 $(document).on("click", ".show-inactive", function(){
-    $("inactive-player_list").toggle());
+    var seeDiv = $("#inactive_player_list").is(":visible");
+    var expand = "Show inactive players <span class=\"glyphicon glyphicon-chevron-down show-inactive\"></span>";
+    var contract = "Show inactive players <span class=\"glyphicon glyphicon-chevron-right show-inactive\"></span>";
+
+    if(seeDiv){
+        $("#show_inactive_message").html(contract);    
+    }
+    else{
+        $("#show_inactive_message").html(expand);   
+    }
+    $("#inactive_player_list").slideToggle();
+    
 });
 
 

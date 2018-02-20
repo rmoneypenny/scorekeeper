@@ -12,8 +12,10 @@
 </div>
 	<br>
 	<br>
+<div id="show_inactive_message">	
 	Show inactive players
-<span class="glyphicon glyphicon-chevron-down show-inactive"></span>
+	<span class="glyphicon glyphicon-chevron-right show-inactive"></span>
+</div>
 <div id="inactive_player_list" style="display: none;">
 	<% @allPlayers.each do |p| %>
 		<% if !p.active %>	 				
