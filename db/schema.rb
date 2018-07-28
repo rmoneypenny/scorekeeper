@@ -10,65 +10,65 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180220015331) do
+ActiveRecord::Schema.define(version: 2018_02_20_015331) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "admins", force: :cascade do |t|
-    t.string   "name"
-    t.string   "password_digest"
-    t.datetime "created_at",      null: false
-    t.datetime "updated_at",      null: false
-  end
-
-  create_table "group_players", force: :cascade do |t|
-    t.integer  "player_id"
-    t.integer  "group_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["group_id"], name: "index_group_players_on_group_id", using: :btree
-    t.index ["player_id"], name: "index_group_players_on_player_id", using: :btree
-  end
-
-  create_table "groups", force: :cascade do |t|
-    t.string   "name"
-    t.integer  "admin_id"
+  create_table "admins", id: :serial, force: :cascade do |t|
+    t.string "name"
+    t.string "password_digest"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
-  create_table "groups_players", force: :cascade do |t|
+  create_table "group_players", id: :serial, force: :cascade do |t|
     t.integer "player_id"
     t.integer "group_id"
-    t.index ["group_id"], name: "index_groups_players_on_group_id", using: :btree
-    t.index ["player_id"], name: "index_groups_players_on_player_id", using: :btree
-  end
-
-  create_table "players", force: :cascade do |t|
-    t.string   "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.boolean  "active"
-    t.integer  "admin_id"
+    t.index ["group_id"], name: "index_group_players_on_group_id"
+    t.index ["player_id"], name: "index_group_players_on_player_id"
   end
 
-  create_table "seven_wonder_boards", force: :cascade do |t|
-    t.string   "name"
-    t.string   "expansion"
+  create_table "groups", id: :serial, force: :cascade do |t|
+    t.string "name"
+    t.integer "admin_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
-  create_table "seven_wonders", force: :cascade do |t|
-    t.integer  "game_number"
-    t.integer  "player_id"
-    t.integer  "board_id"
-    t.boolean  "win"
-    t.integer  "score"
+  create_table "groups_players", id: :serial, force: :cascade do |t|
+    t.integer "player_id"
+    t.integer "group_id"
+    t.index ["group_id"], name: "index_groups_players_on_group_id"
+    t.index ["player_id"], name: "index_groups_players_on_player_id"
+  end
+
+  create_table "players", id: :serial, force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.boolean "active"
+    t.integer "admin_id"
+  end
+
+  create_table "seven_wonder_boards", id: :serial, force: :cascade do |t|
+    t.string "name"
+    t.string "expansion"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "seven_wonders", id: :serial, force: :cascade do |t|
+    t.integer "game_number"
+    t.integer "player_id"
+    t.integer "board_id"
+    t.boolean "win"
+    t.integer "score"
     t.datetime "datetime"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   add_foreign_key "group_players", "groups"
