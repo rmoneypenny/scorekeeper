@@ -14,5 +14,6 @@ Rails.application.routes.draw do
   post 'settings/players', to: 'players#create'
   patch 'settings/players', to: 'players#update'
   get 'settings/groups', to: 'groups#show'
-
+  post 'settings/groups', to: 'groups#create'
+  delete 'settings/groups', to: 'groups#delete'
 end

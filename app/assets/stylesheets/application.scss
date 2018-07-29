@@ -45,14 +45,19 @@
 	float: right;
 }
 
-.remove_player:hover{
+.remove_item_icon:hover{
 	color: red;
 	cursor: pointer;
 }
 
-.add_player:hover{
+.add_item_icon:hover{
 	color: green;
 	cursor: pointer;
+}
+
+.edit_item_icon:hover{
+	color: gold;
+	cursor: pointer;	
 }
 
 .show-inactive:hover{
@@ -63,6 +68,11 @@
 .player{
 	padding-left: 10px;	
 	padding-right: 10px;	
+}
+
+.highlight-blue:hover{
+	background-color: #93b7f2;
+	color: white;
 }
 
 #player_list{

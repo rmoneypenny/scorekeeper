@@ -3,7 +3,6 @@ class PlayersController < ApplicationController
 	def create
 		@player = Player.new(player_params)
 		@allPlayers = Player.where(admin_id: current_admin.id)
-		@allPlayers = Player.where(admin_id: current_admin.id)
 		if !@player.save
 			render 'show'
 		else

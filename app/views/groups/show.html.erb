@@ -1,6 +1,44 @@
-<div class = "row">
-	<div class="col-sm-2">
-			col
-	</div>
-</div>
+<div class="container">
+	<div class = "col">
+		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
+			<div id = "error">
+				<% if @group.errors.any? %>
+					<% @group.errors.full_messages.each do |e| %>
+						<%= e %>
+						<br>
+					<% end %>
+				<% end %>
+			</div>
+			select/create group	
+			<br>
+			<% @allGroups.each do |g| %>
+				<div class="highlight-blue" style="outline: 1px solid #93b7f2; padding-left: 10px">
+					<div class="left">
+						<%= g.name %>
+					</div>
+					<div class="right"> 
+						<span class="glyphicon glyphicon-edit edit_item_icon"> </span> 
+						<span class="glyphicon glyphicon-remove remove_item_icon remove_group"> </span>
+					</div>
+					<br>
+				</div>
+			<% end %>	
+			<br>
+			<%= form_tag settings_groups_path do %>
+		      <%= label_tag "New Group" %>
+		      <br>
+			  <%= text_field_tag :name %>
+			  <br>
+			  <%= submit_tag "Add Group" %>
+			 <% end %>
+		</div>
+		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
+			edit group
+		</div>
+		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
+			select player
+		</div>
 
+	</div>
+	
+</div>

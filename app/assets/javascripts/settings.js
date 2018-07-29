@@ -67,7 +67,23 @@ $(document).on("click", ".show-inactive", function(){
     
 });
 
+$(document).on("click", ".remove_group", function(){
+    
+    var group = ($.trim($(this).parent().siblings().text()));
+    if (confirm('Are you sure you want to remove ' + group + '?')) {
+        $.ajax({
+            url : "/settings/groups",
+            type : "delete",
+            data : { 
+                name: group
+            }
+        });
+        $(location).attr('href', "/settings/groups");
 
+    } else {
+    // Do nothing!
+    }
+});
 
 
 
