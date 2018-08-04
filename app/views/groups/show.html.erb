@@ -1,3 +1,6 @@
+<%= content_tag :div, class: "temp_information", data: {temp: @gpArray} do %>
+<% end %>
+
 <div class="container">
 	<div class = "col">
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
@@ -34,6 +37,8 @@
 		</div>
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
 			show/remove players
+			<br>
+			<%= @gpArray %>
 		</div>
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
 			add players

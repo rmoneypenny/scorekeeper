@@ -4,6 +4,9 @@ class GroupsController < ApplicationController
 		@group = Group.new
 		@allPlayers = Player.where(admin_id: current_admin.id)
 		@allGroups = Group.where(admin_id: current_admin.id)
+		playerGroups = GroupPlayer.new
+		@gpArray = playerGroups.getGroupPlayers(current_admin.id, @allGroups, @allPlayers)
+
 		respond_to do |format|
 		  format.js
 		  format.html
@@ -11,6 +14,8 @@ class GroupsController < ApplicationController
 	end
 
 	def create
+		@allGroups = Group.where(admin_id: current_admin.id)
+		@allPlayers = Player.where(admin_id: current_admin.id)
 		@group = Group.new(group_params)
 		if !@group.save
 			render 'show'

@@ -88,7 +88,9 @@ $(document).on("click", ".remove_group", function(){
 $(document).on("click", ".edit_group", function(){
     
     var group = ($.trim($(this).parent().siblings().text()));
-    $(alert(group));
+    var temp = $('.temp_information').data('temp')
+    $(alert(temp[0][2]));
+    //$(alert(group));
     // if (confirm('Are you sure you want to remove ' + group + '?')) {
     //     $.ajax({
     //         url : "/settings/groups",
@@ -103,6 +105,8 @@ $(document).on("click", ".edit_group", function(){
     // // Do nothing!
     // }
 });
+
+
 
 
 
