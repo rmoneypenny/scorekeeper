@@ -2,6 +2,7 @@ class GroupsController < ApplicationController
 
 	def show
 		@group = Group.new
+		@allPlayers = Player.where(admin_id: current_admin.id)
 		@allGroups = Group.where(admin_id: current_admin.id)
 		respond_to do |format|
 		  format.js

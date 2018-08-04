@@ -85,6 +85,24 @@ $(document).on("click", ".remove_group", function(){
     }
 });
 
+$(document).on("click", ".edit_group", function(){
+    
+    var group = ($.trim($(this).parent().siblings().text()));
+    $(alert(group));
+    // if (confirm('Are you sure you want to remove ' + group + '?')) {
+    //     $.ajax({
+    //         url : "/settings/groups",
+    //         type : "delete",
+    //         data : { 
+    //             name: group
+    //         }
+    //     });
+    //     $(location).attr('href', "/settings/groups");
+
+    // } else {
+    // // Do nothing!
+    // }
+});
 
 
 

@@ -12,12 +12,12 @@
 			select/create group	
 			<br>
 			<% @allGroups.each do |g| %>
-				<div class="highlight-blue" style="outline: 1px solid #93b7f2; padding-left: 10px">
+				<div class="highlight-blue blue-bordered">
 					<div class="left">
 						<%= g.name %>
 					</div>
 					<div class="right"> 
-						<span class="glyphicon glyphicon-edit edit_item_icon"> </span> 
+						<span class="glyphicon glyphicon-edit edit_item_icon edit_group"> </span> 
 						<span class="glyphicon glyphicon-remove remove_item_icon remove_group"> </span>
 					</div>
 					<br>
@@ -33,10 +33,22 @@
 			 <% end %>
 		</div>
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
-			edit group
+			show/remove players
 		</div>
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
-			select player
+			add players
+			<br>
+			<% @allPlayers.each do |p| %>
+				<div class="highlight-blue blue-bordered">
+					<div class="left">
+						<%= p.name %>
+					</div>
+					<div class="right">
+						<span class="glyphicon glyphicon-plus add_item_icon"></span>
+					</div>
+					<br>
+				</div>
+			<%end%>
 		</div>
 
 	</div>
