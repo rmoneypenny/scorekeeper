@@ -85,11 +85,28 @@ $(document).on("click", ".remove_group", function(){
     }
 });
 
+var currentPlayers = [];
+var availablePlayers = [];
+var groupName = "";
+
 $(document).on("click", ".edit_group", function(){
     
-    var group = ($.trim($(this).parent().siblings().text()));
-    var temp = $('.temp_information').data('temp')
-    $(alert(temp[0][2]));
+    var groupName = ($.trim($(this).parent().siblings().text()));
+    var groups = $('.temp_information').data('temp')
+    var groupSize = groups.length;
+
+    for(var i=0; i<groupSize; i++){
+        if(groupName == groups[i][0]){
+            currentPlayers = groups[i][1];
+            availablePlayers = groups[i][2];
+        }
+    
+    generateCurrentPlayersHTML(currentPlayers);
+    generateAvailablePlayersHTML(availablePlayers);
+
+    }
+
+    //$(alert(generateCurrentPlayersHTML(currentPlayers)));
     //$(alert(group));
     // if (confirm('Are you sure you want to remove ' + group + '?')) {
     //     $.ajax({
@@ -106,13 +123,38 @@ $(document).on("click", ".edit_group", function(){
     // }
 });
 
+function generateCurrentPlayersHTML(currentPlayers) {
+    var htmlString = "";
+    for(var i=0; i<currentPlayers.length; i++){
+        htmlString += "<div class=\"highlight-blue blue-bordered\">";
+        htmlString += "<div class=\"left\">";
+        htmlString += currentPlayers[i];
+        htmlString += "</div>";
+        htmlString += "<div class=\"right\">";
+        htmlString += "<span class=\"glyphicon glyphicon-remove remove_item_icon\"> </span>";
+        htmlString += "</div>"; 
+        htmlString += "<br>";
+        htmlString += "</div>";
+        
+    }
+    document.getElementById("current-players").innerHTML = htmlString;
+ }
 
-
-
-
-
-
-
+function generateAvailablePlayersHTML(availablePlayers) {
+    var htmlString = "";
+    for(var i=0; i<availablePlayers.length; i++){
+        htmlString += "<div class=\"highlight-blue blue-bordered\">";
+        htmlString += "<div class=\"left\">";
+        htmlString += availablePlayers[i];
+        htmlString += "</div>";
+        htmlString += "<div class=\"right\">";
+        htmlString += "<span class=\"glyphicon glyphicon-plus add_item_icon\"> </span>";
+        htmlString += "</div>"; 
+        htmlString += "<br>";
+        htmlString += "</div>";
+    }
+    document.getElementById("available-players").innerHTML = htmlString;
+ }
 
 
 

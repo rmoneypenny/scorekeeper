@@ -36,24 +36,17 @@
 			 <% end %>
 		</div>
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
-			show/remove players
-			<br>
-			<%= @gpArray %>
+			Current Players
+			<div id="current-players">
+
+			</div>
 		</div>
 		<div class="col-sm-3 select-group" style="height: 260px; border: solid;">
-			add players
+			Add players
 			<br>
-			<% @allPlayers.each do |p| %>
-				<div class="highlight-blue blue-bordered">
-					<div class="left">
-						<%= p.name %>
-					</div>
-					<div class="right">
-						<span class="glyphicon glyphicon-plus add_item_icon"></span>
-					</div>
-					<br>
-				</div>
-			<%end%>
+			<div id="available-players">
+
+			</div>
 		</div>
 
 	</div>
