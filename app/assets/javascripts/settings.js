@@ -87,12 +87,12 @@ $(document).on("click", ".remove_group", function(){
 
 var currentPlayers = [];
 var availablePlayers = [];
+var groups = [];
 var groupName = "";
 
 $(document).on("click", ".edit_group", function(){
-    
-    var groupName = ($.trim($(this).parent().siblings().text()));
-    var groups = $('.temp_information').data('temp')
+    groupName = ($.trim($(this).parent().siblings().text()));
+    groups = $('.temp_information').data('temp')
     var groupSize = groups.length;
 
     for(var i=0; i<groupSize; i++){
@@ -100,38 +100,50 @@ $(document).on("click", ".edit_group", function(){
             currentPlayers = groups[i][1];
             availablePlayers = groups[i][2];
         }
-    
+    }
     generateCurrentPlayersHTML(currentPlayers);
     generateAvailablePlayersHTML(availablePlayers);
 
+});
+
+$(document).on("click", ".save_group", function(){
+    groupName = ($.trim($(this).parent().siblings().text()));
+    if (confirm('Are you sure you want to save changes to ' + groupName + '?')) {
+        $.ajax({
+            url : "/settings/groups",
+            type : "patch",
+            data : { 
+                name: groupName,
+                players: currentPlayers
+            }
+        });
+        generateCurrentPlayersHTML(currentPlayers);
+        generateAvailablePlayersHTML(availablePlayers);
+
+    } else {
+    // Do nothing!
     }
+});
 
-    //$(alert(generateCurrentPlayersHTML(currentPlayers)));
-    //$(alert(group));
-    // if (confirm('Are you sure you want to remove ' + group + '?')) {
-    //     $.ajax({
-    //         url : "/settings/groups",
-    //         type : "delete",
-    //         data : { 
-    //             name: group
-    //         }
-    //     });
-    //     $(location).attr('href', "/settings/groups");
+$(document).on("click", ".remove-player-from-group", function(){
+    var playerName = ($.trim($(this).parent().siblings().text()));
+    updatePlayer(playerName, "remove");
+});
 
-    // } else {
-    // // Do nothing!
-    // }
+$(document).on("click", ".add-player-to-group", function(){
+    var playerName = ($.trim($(this).parent().siblings().text()));
+    updatePlayer(playerName, "add");
 });
 
 function generateCurrentPlayersHTML(currentPlayers) {
-    var htmlString = "";
+    var htmlString = "Group: <b>" + groupName + "</b>";
     for(var i=0; i<currentPlayers.length; i++){
         htmlString += "<div class=\"highlight-blue blue-bordered\">";
         htmlString += "<div class=\"left\">";
         htmlString += currentPlayers[i];
         htmlString += "</div>";
         htmlString += "<div class=\"right\">";
-        htmlString += "<span class=\"glyphicon glyphicon-remove remove_item_icon\"> </span>";
+        htmlString += "<span class=\"glyphicon glyphicon-remove remove_item_icon remove-player-from-group\"> </span>";
         htmlString += "</div>"; 
         htmlString += "<br>";
         htmlString += "</div>";
@@ -148,7 +160,7 @@ function generateAvailablePlayersHTML(availablePlayers) {
         htmlString += availablePlayers[i];
         htmlString += "</div>";
         htmlString += "<div class=\"right\">";
-        htmlString += "<span class=\"glyphicon glyphicon-plus add_item_icon\"> </span>";
+        htmlString += "<span class=\"glyphicon glyphicon-plus add_item_icon add-player-to-group\"> </span>";
         htmlString += "</div>"; 
         htmlString += "<br>";
         htmlString += "</div>";
@@ -156,9 +168,43 @@ function generateAvailablePlayersHTML(availablePlayers) {
     document.getElementById("available-players").innerHTML = htmlString;
  }
 
+function updatePlayer(player, status) {
+
+    var i = -1;
+
+    if(status == "remove"){
+        i = (currentPlayers.indexOf(player));
+        currentPlayers.splice(i,1);
+        availablePlayers.push(player);
+        generateCurrentPlayersHTML(currentPlayers);
+        generateAvailablePlayersHTML(availablePlayers);       
+    }
+    else if(status == "add"){
+        i = (availablePlayers.indexOf(player));
+        availablePlayers.splice(i,1);
+        currentPlayers.push(player);
+        generateCurrentPlayersHTML(currentPlayers);
+        generateAvailablePlayersHTML(availablePlayers);  
+    }
+
+}
 
 
 
 
 
+    //$(alert(generateCurrentPlayersHTML(currentPlayers)));
+    //$(alert(group));
+    // if (confirm('Are you sure you want to remove ' + group + '?')) {
+    //     $.ajax({
+    //         url : "/settings/groups",
+    //         type : "delete",
+    //         data : { 
+    //             name: group
+    //         }
+    //     });
+    //     $(location).attr('href', "/settings/groups");
 
+    // } else {
+    // // Do nothing!
+    // }

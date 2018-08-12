@@ -16,4 +16,5 @@ Rails.application.routes.draw do
   get 'settings/groups', to: 'groups#show'
   post 'settings/groups', to: 'groups#create'
   delete 'settings/groups', to: 'groups#delete'
+  patch 'settings/groups', to: 'groups#update'
 end

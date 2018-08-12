@@ -27,9 +27,18 @@ class GroupsController < ApplicationController
 
 	def delete
 		@group = Group.where(admin_id: current_admin, name: params[:name]).first
+		gp = GroupPlayer.where(group_id: @group.id)
+  		gp.destroy_all  	
 		@group.destroy
 		redirect_to settings_groups_path
 		flash[:notice] = "Group Deleted"
+	end
+
+	def update
+		@groupPlayer = GroupPlayer.new
+		@groupPlayer.save_changes(params[:name], params[:players], current_admin)
+		redirect_to settings_groups_path
+		flash[:notice] = "Group Updated"
 	end
 
 	private 
