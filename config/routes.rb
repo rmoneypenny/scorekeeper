@@ -17,4 +17,5 @@ Rails.application.routes.draw do
   post 'settings/groups', to: 'groups#create'
   delete 'settings/groups', to: 'groups#delete'
   patch 'settings/groups', to: 'groups#update'
+  get 'games/seven_wonders', to: 'game#seven_wonders'
 end
