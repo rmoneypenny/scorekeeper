@@ -107,7 +107,6 @@ $(document).on("click", ".edit_group", function(){
 });
 
 $(document).on("click", ".save_group", function(){
-    groupName = ($.trim($(this).parent().siblings().text()));
     if (confirm('Are you sure you want to save changes to ' + groupName + '?')) {
         $.ajax({
             url : "/settings/groups",
@@ -133,6 +132,19 @@ $(document).on("click", ".remove-player-from-group", function(){
 $(document).on("click", ".add-player-to-group", function(){
     var playerName = ($.trim($(this).parent().siblings().text()));
     updatePlayer(playerName, "add");
+});
+
+$(document).on("click", ".select-group", function(){
+    groups = $('.temp_information').data('temp')
+    groupName = ($.trim($(this).text()));
+    groupSize = groups.length
+    for(var i=0; i<groupSize; i++){
+        if(groupName == groups[i][0]){
+            currentPlayers = groups[i][1];
+        }
+    }
+    $(alert(currentPlayers));
+    //add a conditional to generateCurrentPlayersHTML to remove the icons
 });
 
 function generateCurrentPlayersHTML(currentPlayers) {

@@ -23,6 +23,8 @@ class PlayersController < ApplicationController
 	def update
 		player = Player.where(name: params[:name]).first
 		player.update(active: params[:active])
+		puts params[:active]
+		GroupPlayer.where(player_id: player.id).destroy_all
 	end
 
 	private 

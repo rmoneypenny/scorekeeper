@@ -23,12 +23,12 @@ class GroupPlayer < ApplicationRecord
   end
 
   def playersNotInGroup(allPlayers, groupPlayers)
-  	playerNames = []
-  	allPlayers.each do |p|
-		playerNames.push(p.name)
-	end
-	players = playerNames-groupPlayers
-	players
+    playerNames = []
+    allPlayers.each do |p|
+      p.active ? (playerNames.push(p.name)) : (nil)
+    end
+    players = playerNames-groupPlayers
+    players
   end
 
   def GroupsWithNoPlayers(allGroups, gp, allPlayers)

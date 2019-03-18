@@ -1,1 +1,23 @@
-sevennnn
+<%= content_tag :div, class: "temp_information", data: {temp: @gpArray} do %>
+<% end %>
+<div class="container">
+	<div class = "col">
+		<div class="col-sm-4" style="height: 260px; border: solid;">
+			<div style="text-align: center">Select a group</div>
+			<% @allGroups.each do |g| %>
+				<div class="highlight-blue blue-bordered">
+					<div class="highlight-blue select-group" style="text-align: center">
+						<%= g.name %>
+						<br>
+					</div>
+				</div>
+			<% end %>
+		</div>
+		<div class="col-sm-4 select-players" style="height: 260px; border: solid;">
+			Select Players
+		</div>
+		<div class="col-sm-4 select-rules" style="height: 260px; border: solid;">
+			Select Rules
+		</div>
+	</div>
+</div>
