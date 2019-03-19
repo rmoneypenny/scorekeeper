@@ -1,0 +1,32 @@
+<div class="container">
+	<div class = "col" style="text-align: center">
+		<div class="col-sm-4" style="height: 260px; border: solid;">
+			Select Group
+			<% @allGroups.each do |g| %>
+				<div class="blue-bordered highlight-blue select-group">
+					<%= g.name %>
+					<br>
+				</div>
+			<% end %>
+		</div>
+		<div class="col-sm-4" style="height: 260px; border: solid;">
+			Select Players
+			<div id= "current-players">
+
+			</div>
+		</div>
+		<div class="col-sm-4" style="height: 260px; border: solid;">
+			Select Expansions
+			<br>
+			<div id = "all-expansions" style="display: none;">
+				<% @expansions.each do |x| %>
+					<div class="highlight-blue blue-bordered select-expansion">
+						<%= x %>
+						<br>
+					</div>
+				<% end %>
+				<span class="glyphicon glyphicon-ok add_item_icon confirm-expansions" style="display: none;"> </span>
+			</div>
+		</div>
+	</div>
+</div>

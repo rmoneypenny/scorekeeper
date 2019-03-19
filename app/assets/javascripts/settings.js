@@ -89,6 +89,8 @@ var currentPlayers = [];
 var availablePlayers = [];
 var groups = [];
 var groupName = "";
+var selectedPlayers = [];
+var selectedExpansions = [];
 
 $(document).on("click", ".edit_group", function(){
     groupName = ($.trim($(this).parent().siblings().text()));
@@ -101,11 +103,12 @@ $(document).on("click", ".edit_group", function(){
             availablePlayers = groups[i][2];
         }
     }
-    generateCurrentPlayersHTML(currentPlayers);
+    generateCurrentPlayersHTML(currentPlayers, "edit");
     generateAvailablePlayersHTML(availablePlayers);
 
 });
 
+//send the edited group to the controller to be saved to the db
 $(document).on("click", ".save_group", function(){
     if (confirm('Are you sure you want to save changes to ' + groupName + '?')) {
         $.ajax({
@@ -116,7 +119,7 @@ $(document).on("click", ".save_group", function(){
                 players: currentPlayers
             }
         });
-        generateCurrentPlayersHTML(currentPlayers);
+        generateCurrentPlayersHTML(currentPlayers, "edit");
         generateAvailablePlayersHTML(availablePlayers);
 
     } else {
@@ -134,29 +137,103 @@ $(document).on("click", ".add-player-to-group", function(){
     updatePlayer(playerName, "add");
 });
 
+//selects a group on the player select screen
 $(document).on("click", ".select-group", function(){
+    $("#all-expansions").hide();
+    selectedPlayers = [];
     groups = $('.temp_information').data('temp')
     groupName = ($.trim($(this).text()));
-    groupSize = groups.length
+    groupSize = groups.length;
+    selectedExpansions = [];
     for(var i=0; i<groupSize; i++){
         if(groupName == groups[i][0]){
             currentPlayers = groups[i][1];
         }
     }
-    $(alert(currentPlayers));
-    //add a conditional to generateCurrentPlayersHTML to remove the icons
+    generateCurrentPlayersHTML(currentPlayers, "select")
 });
 
-function generateCurrentPlayersHTML(currentPlayers) {
+//moves selected players to the selectedPlayers array for games and highlights accordingly
+$(document).on("click", ".individual-player",function(){
+    player = $.trim($(this).text());
+    if ($(this).hasClass('orange-background')){
+        $(this).removeClass('orange-background');
+        $(this).addClass('highlight-blue');
+        i = (selectedPlayers.indexOf(player));
+        selectedPlayers.splice(i,1);
+    }
+    else{
+        $(this).addClass('orange-background');
+        $(this).removeClass('highlight-blue');
+        selectedPlayers.push(player);
+    }
+    var seeDiv = $("#all-expansions").is(":visible");
+    if(selectedPlayers.length > 1){
+         if(!seeDiv){
+            $("#all-expansions").slideToggle();
+        }
+    }
+    else if(selectedPlayers.length < 2){
+        if(seeDiv){
+            $("#all-expansions").slideToggle();
+        }
+    }
+});
+
+$(document).on("click", ".select-expansion", function(){
+    var expansion = $.trim($(this).text());
+    if ($(this).hasClass('orange-background')){
+        $(this).removeClass('orange-background');
+        $(this).addClass('highlight-blue');
+        i = (selectedExpansions.indexOf(expansion));
+        selectedExpansions.splice(i,1);
+    }
+    else{
+        $(this).addClass('orange-background');
+        $(this).removeClass('highlight-blue');
+        selectedExpansions.push(expansion);
+    }
+    if(selectedExpansions.length < 1){
+        $(".confirm-expansions").hide();
+    }
+    else{
+        $(".confirm-expansions").show();   
+    }
+});
+
+$(document).on("click", ".confirm-expansions", function(){
+    var gameName = $('.temp_information').data('game');
+    $.ajax({
+        url : "/games/setup",
+        type : "post",
+        data : { 
+            game: gameName,
+            players: selectedPlayers,
+            finalExpansions: selectedExpansions
+        }
+    });
+});
+
+//used to show the players assigned to a group
+//status "edit" is used on the settings screen to add or remove players from groups
+//status "select" is used on the players select screen of the games, does not add the edit buttons
+function generateCurrentPlayersHTML(currentPlayers, status) {
     var htmlString = "Group: <b>" + groupName + "</b>";
     for(var i=0; i<currentPlayers.length; i++){
-        htmlString += "<div class=\"highlight-blue blue-bordered\">";
+        if (status == "edit"){
+            htmlString += "<div class=\"highlight-blue blue-bordered\">";
+        }
+        else if(status == "select"){
+            htmlString += "<div class=\"highlight-blue blue-bordered individual-player\">";
+        }
         htmlString += "<div class=\"left\">";
         htmlString += currentPlayers[i];
         htmlString += "</div>";
-        htmlString += "<div class=\"right\">";
-        htmlString += "<span class=\"glyphicon glyphicon-remove remove_item_icon remove-player-from-group\"> </span>";
-        htmlString += "</div>"; 
+        if (status == "edit"){
+            htmlString += "<div class=\"right\">";
+            htmlString += "<span class=\"glyphicon glyphicon-remove remove_item_icon remove-player-from-group\"> </span>";
+            htmlString += "</div>";
+        } 
         htmlString += "<br>";
         htmlString += "</div>";
         
@@ -164,6 +241,9 @@ function generateCurrentPlayersHTML(currentPlayers) {
     document.getElementById("current-players").innerHTML = htmlString;
  }
 
+
+
+//used to show the available players not currently assigned to a group
 function generateAvailablePlayersHTML(availablePlayers) {
     var htmlString = "";
     for(var i=0; i<availablePlayers.length; i++){
@@ -180,6 +260,7 @@ function generateAvailablePlayersHTML(availablePlayers) {
     document.getElementById("available-players").innerHTML = htmlString;
  }
 
+//remove or add a player to the current players array
 function updatePlayer(player, status) {
 
     var i = -1;
@@ -188,35 +269,16 @@ function updatePlayer(player, status) {
         i = (currentPlayers.indexOf(player));
         currentPlayers.splice(i,1);
         availablePlayers.push(player);
-        generateCurrentPlayersHTML(currentPlayers);
+        generateCurrentPlayersHTML(currentPlayers, "edit");
         generateAvailablePlayersHTML(availablePlayers);       
     }
     else if(status == "add"){
         i = (availablePlayers.indexOf(player));
         availablePlayers.splice(i,1);
         currentPlayers.push(player);
-        generateCurrentPlayersHTML(currentPlayers);
+        generateCurrentPlayersHTML(currentPlayers, "edit");
         generateAvailablePlayersHTML(availablePlayers);  
     }
 
 }
 
-
-
-
-
-    //$(alert(generateCurrentPlayersHTML(currentPlayers)));
-    //$(alert(group));
-    // if (confirm('Are you sure you want to remove ' + group + '?')) {
-    //     $.ajax({
-    //         url : "/settings/groups",
-    //         type : "delete",
-    //         data : { 
-    //             name: group
-    //         }
-    //     });
-    //     $(location).attr('href', "/settings/groups");
-
-    // } else {
-    // // Do nothing!
-    // }

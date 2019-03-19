@@ -10,4 +10,12 @@ class SevenWonderBoard < ApplicationRecord
 		end
 	end
 
+	def getExpansions
+		allExpansions = SevenWonderBoard.pluck(:expansion).uniq
+		swb = []
+		swb.push("All")
+		(allExpansions - ["Unknown"]).each {|a| swb << a}
+		swb
+	end
+
 end
