@@ -282,3 +282,7 @@ function updatePlayer(player, status) {
 
 }
 
+//SevenWonders
+
+
+

@@ -2,3 +2,38 @@
 <% end %>
 
 <%= render 'shared/game_setup' %>
+
+<div class="container">
+	<div class = "col" style="text-align: center">
+		<div class="col-sm-6" style="height: 260px; border: solid;">
+			<div id="scores">
+				Scores - form-for?
+				<br>
+				<div class = "col-sm-4" style="height: 235px; border: solid;">
+					<% @playerBoards.each do |b| %>
+						<%= b[0] %>
+						<br>
+					<% end %>
+				</div>
+				<div class = "col-sm-4" style="height: 235px; border: solid;">
+					<% @playerBoards.each do |b| %>
+						<% if b[1] == "Pick your board" %>
+						  <select>
+								<% @allBoards.each do |a| %>
+									<option value= <%= a %> > <%= a %> </option>								
+								<% end %>
+							</select>
+						<% else %>
+							<%= b[1] %>
+						<% end %>
+						<br>
+					<% end %>					
+				</div>
+
+			</div>
+		</div>
+		<div class="col-sm-6" style="height: 260px; border: solid;">
+			<%= @playerBoards %>
+		</div>
+	</div>
+</div>
