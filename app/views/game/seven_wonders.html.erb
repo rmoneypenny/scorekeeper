@@ -4,36 +4,35 @@
 <%= render 'shared/game_setup' %>
 
 <div class="container">
-	<div class = "col" style="text-align: center">
+	<div class = "col" style="text-align: left">
 		<div class="col-sm-6" style="height: 260px; border: solid;">
-			<div id="scores">
-				Scores - form-for?
-				<br>
-				<div class = "col-sm-4" style="height: 235px; border: solid;">
-					<% @playerBoards.each do |b| %>
-						<%= b[0] %>
+			Scores - form-for?
+			<br>
+
+			<%= form_tag(games_seven_wonders_path, method: "post") do  %>
+				<% @playerBoards.each do |b| %>
+					<%=label_tag "Score: " %>
+					<%= number_field_tag "scores[]", 10 %>
+					<%= label_tag b[0] %>
+					<%= text_field_tag "name[]", b[0], readonly: true, hidden: true %>
+					<% if b[1] == "Pick your board" %>
+						<%= select_tag "boardname[]", options_for_select(@allBoards) %>
+						<br>
+					<% else %>
+						<%= text_field_tag "boardname[]", b[1], readonly: true %>
 						<br>
 					<% end %>
-				</div>
-				<div class = "col-sm-4" style="height: 235px; border: solid;">
-					<% @playerBoards.each do |b| %>
-						<% if b[1] == "Pick your board" %>
-						  <select>
-								<% @allBoards.each do |a| %>
-									<option value= <%= a %> > <%= a %> </option>								
-								<% end %>
-							</select>
-						<% else %>
-							<%= b[1] %>
-						<% end %>
-						<br>
-					<% end %>					
-				</div>
+				<% end %>
+				<%= submit_tag("Submit", :name => 'submit') %>
+			<% end %>
+				
 
-			</div>
 		</div>
 		<div class="col-sm-6" style="height: 260px; border: solid;">
 			<%= @playerBoards %>
 		</div>
 	</div>
 </div>
+
+
+

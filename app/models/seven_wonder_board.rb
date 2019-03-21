@@ -54,4 +54,13 @@ class SevenWonderBoard < ApplicationRecord
 		swbNames
 	end
 
+	def getBoardIDs(boards)
+		ids = []
+		boards.each do |b|
+			nameSideSplit = b.split(" - ") 
+			ids.push(SevenWonderBoard.find_by(name: nameSideSplit[0]).id)
+		end
+		ids
+	end
+
 end
