@@ -5,31 +5,47 @@
 
 <div class="container">
 	<div class = "col" style="text-align: left">
-		<div class="col-sm-6" style="height: 260px; border: solid;">
-			Scores - form-for?
+		<div class="col-sm-6" style="min-height: 260px; height: auto; border: solid">
 			<br>
-
-			<%= form_tag(games_seven_wonders_path, method: "post") do  %>
-				<% @playerBoards.each do |b| %>
-					<%=label_tag "Score: " %>
-					<%= number_field_tag "scores[]", 10 %>
-					<%= label_tag b[0] %>
-					<%= text_field_tag "name[]", b[0], readonly: true, hidden: true %>
-					<% if b[1] == "Pick your board" %>
-						<%= select_tag "boardname[]", options_for_select(@allBoards) %>
-						<br>
-					<% else %>
-						<%= text_field_tag "boardname[]", b[1], readonly: true %>
-						<br>
+			
+			<% if @playerBoards.size > 0 %>
+				<%= form_tag(games_seven_wonders_path, method: "post") do  %>
+					<% @playerBoards.each do |b| %>
+						<%= label_tag "#{b[0]}: " %>
+						<%= text_field_tag "name[]", b[0], readonly: true, hidden: true %>
+						<%= number_field_tag "scores[]", 10 %>
+						<% if b[1] == "Pick your board" %>
+							<%= select_tag "boardname[]", options_for_select(@allBoards) %>
+							<br>
+						<% else %>
+							<%= text_field_tag "boardname[]", b[1], readonly: true %>
+							<br>
+						<% end %>
 					<% end %>
-				<% end %>
-				<%= submit_tag("Submit", :name => 'submit') %>
+					<%= submit_tag("Submit", :name => 'submit') %>
+				<% end %>				
 			<% end %>
-				
-
+			<br>				
 		</div>
-		<div class="col-sm-6" style="height: 260px; border: solid;">
-			<%= @playerBoards %>
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
+			<br>
+			Results
+			<br>
+			<% @pastGames[0].each do |p| %>
+				<%= "#{p[2]} - #{p[0]} - #{p[1]}" %>
+				<br>
+			<% end %>
+			<br>
+		</div>
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
+			<br>
+			Winners
+			<br>
+			<% @pastGames[1].each do |key, value| %>
+				<%= "#{key}: #{value}" %>
+				<br>
+			<% end %>
+			<br>
 		</div>
 	</div>
 </div>

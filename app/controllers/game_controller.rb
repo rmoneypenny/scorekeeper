@@ -22,11 +22,13 @@ class GameController < ApplicationController
 		@expansions = swb.getExpansions
 		session[:playerBoards] ? (@playerBoards = session[:playerBoards]) : (@playerBoards = [])
 		@allBoards = swb.getAllBoards
+		@pastGames = @sevenWonder.getPastGames(current_admin.id)
 	end
 
 	def seven_wonders_create
 		sw = SevenWonder.new
-		sw.submitScores(params[:name], params[:boardname], params[:scores])
+		sw.submitScores(params[:name], params[:boardname], params[:scores], current_admin.id)
+		session.delete(:playerBoards)
 		redirect_to controller: 'game', action: 'seven_wonders'
 	end
 

@@ -3,7 +3,7 @@
 
 <div class="container">
 	<div class = "col">
-		<div class="col-sm-3" style="height: 260px; border: solid;">
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
 			<div id = "error">
 				<% if @group.errors.any? %>
 					<% @group.errors.full_messages.each do |e| %>
@@ -35,19 +35,22 @@
 			  <br>
 			  <%= submit_tag "Add Group" %>
 			 <% end %>
+			 <br>
 		</div>
-		<div class="col-sm-3" style="height: 260px; border: solid;">
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
 			Current Players
 			<div id="current-players">
 
 			</div>
+			<br>
 		</div>
-		<div class="col-sm-3" style="height: 260px; border: solid;">
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
 			Add players
 			<br>
 			<div id="available-players">
 
 			</div>
+			<br>
 		</div>
 
 	</div>
