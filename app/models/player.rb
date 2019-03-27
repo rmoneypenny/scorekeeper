@@ -13,5 +13,9 @@ class Player < ApplicationRecord
 		ids
 	end
 
+	#check if player has played any games
+	def gameCheck
+		SevenWonder.where(player_id: self.id).count
+	end
 
 end

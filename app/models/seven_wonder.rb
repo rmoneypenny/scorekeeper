@@ -1,11 +1,7 @@
 class SevenWonder < ApplicationRecord
 
-    # t.integer "game_number"
-    # t.integer "player_id"
-    # t.integer "board_id"
-    # t.boolean "win"
-    # t.integer "score"
-    # t.datetime "datetime"
+require 'csv'
+
 
 	def submitScores(names, boards, scores, admin)
 		#add group id
@@ -70,4 +66,24 @@ class SevenWonder < ApplicationRecord
 		[pastGamesData, totalWins]
 	end
 
+	#data from an older version of the app
+    def convertOldData(admin)
+		file = File.join('lib', 'seeds', 'oldData.csv')
+		CSV.foreach(file) do |line|
+			gameNumber = line[0].to_i
+			playerID = Player.find_by(name: line[1]).id
+			score = line[2].to_i
+			wins = false
+			line[3] == "true" ? (wins = true) : (nil)
+			datetime = DateTime.parse(line[4])
+			boardname = line[5].split(" - ")
+			boardID = 0
+			line[5] == "Unknown" ? (nil) : (boardID = SevenWonderBoard.find_by(name: boardname[0]).id)
+			SevenWonder.create(game_number: gameNumber, player_id: playerID, board_id: boardID, win: wins, score: score, datetime: datetime, admin_id: admin)
+		end
+
+
+	end
+
 end
+

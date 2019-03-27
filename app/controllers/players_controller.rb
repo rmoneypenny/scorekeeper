@@ -23,8 +23,13 @@ class PlayersController < ApplicationController
 	def update
 		player = Player.where(name: params[:name]).first
 		player.update(active: params[:active])
-		puts params[:active]
-		GroupPlayer.where(player_id: player.id).destroy_all
+		if params[:active] == "false"
+			GroupPlayer.where(player_id: player.id).destroy_all
+			if player.gameCheck == 0
+				player.destroy
+			end
+			redirect_to "/settings/players"
+		end
 	end
 
 	private 

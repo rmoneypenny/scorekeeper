@@ -1,0 +1,3484 @@
+1,Randy,39,true,2011-12-09 20:00:00 UTC,Unknown
+1,Ashley,36,false,2011-12-09 20:00:00 UTC,Abu Simbel - A
+1,Dad,34,false,2011-12-09 20:00:00 UTC,Babylon - A
+2,Randy,40,true,2011-12-09 21:00:00 UTC,Unknown
+2,Ashley,39,false,2011-12-09 21:00:00 UTC,Babylon - A
+2,Dad,37,false,2011-12-09 21:00:00 UTC,Ephesos - B
+3,Randy,40,false,2011-12-09 22:00:00 UTC,Unknown
+3,Ashley,59,true,2011-12-09 22:00:00 UTC,Ephesos - B
+3,Dad,26,false,2011-12-09 22:00:00 UTC,Halikarnassos - A
+4,Randy,35,false,2011-12-09 23:00:00 UTC,Unknown
+4,Ashley,30,false,2011-12-09 23:00:00 UTC,Halikarnassos - A
+4,Dad,53,true,2011-12-09 23:00:00 UTC,Olympia - B
+5,Randy,48,true,2011-12-10 00:00:00 UTC,Unknown
+5,Ashley,33,false,2011-12-10 00:00:00 UTC,Olympia - B
+5,Dad,37,false,2011-12-10 00:00:00 UTC,Stonehenge - A
+6,Randy,51,true,2011-12-10 01:00:00 UTC,Unknown
+6,Ashley,34,false,2011-12-10 01:00:00 UTC,Stonehenge - A
+6,Dad,24,false,2011-12-10 01:00:00 UTC,Abu Simbel - B
+7,Randy,42,true,2011-12-12 21:00:00 UTC,Unknown
+7,Ashley,39,false,2011-12-12 21:00:00 UTC,Alexandria - A
+7,Dad,40,false,2011-12-12 21:00:00 UTC,Byzantium - B
+8,Randy,31,false,2011-12-12 21:30:00 UTC,Unknown
+8,Ashley,41,true,2011-12-12 21:30:00 UTC,Ephesos - A
+8,Dad,38,false,2011-12-12 21:30:00 UTC,The Great Wall - B
+9,Randy,43,true,2011-12-12 22:00:00 UTC,Unknown
+9,Ashley,34,false,2011-12-12 22:00:00 UTC,Halikarnassos - B
+9,Dad,42,false,2011-12-12 22:00:00 UTC,Petra - A
+10,Randy,46,false,2011-12-12 22:30:00 UTC,Unknown
+10,Ashley,54,true,2011-12-12 22:30:00 UTC,Petra - B
+10,Dad,51,false,2011-12-12 22:30:00 UTC,Roma - A
+11,Randy,29,false,2011-12-12 23:00:00 UTC,Unknown
+11,Ashley,30,false,2011-12-12 23:00:00 UTC,Roma - B
+11,Dad,37,true,2011-12-12 23:00:00 UTC,Babylon - B
+12,Randy,46,true,2011-12-12 23:30:00 UTC,Unknown
+12,Ashley,45,false,2011-12-12 23:30:00 UTC,Byzantium - B
+12,Dad,39,false,2011-12-12 23:30:00 UTC,The Great Wall - A
+13,Randy,49,true,2011-12-13 00:00:00 UTC,Unknown
+13,Ashley,48,false,2011-12-13 00:00:00 UTC,Manneken Pis - A
+13,Dad,44,false,2011-12-13 00:00:00 UTC,Petra - B
+13,Dottie,23,false,2011-12-13 00:00:00 UTC,Babylon - A
+14,Randy,43,false,2011-12-13 00:30:00 UTC,Unknown
+14,Ashley,58,true,2011-12-13 00:30:00 UTC,Rhodos - B
+14,Dad,31,false,2011-12-13 00:30:00 UTC,Abu Simbel - A
+14,Dottie,32,false,2011-12-13 00:30:00 UTC,Ephesos - B
+15,Randy,49,true,2011-12-13 01:00:00 UTC,Unknown
+15,Ashley,48,false,2011-12-13 01:00:00 UTC,Babylon - B
+15,Dad,34,false,2011-12-13 01:00:00 UTC,Gizah - A
+15,Dottie,43,false,2011-12-13 01:00:00 UTC,Babylon - B
+16,Randy,52,true,2011-12-13 01:30:00 UTC,Unknown
+16,Ashley,50,false,2011-12-13 01:30:00 UTC,The Great Wall - B
+16,Dad,38,false,2011-12-13 01:30:00 UTC,Olympia - A
+16,Dottie,47,false,2011-12-13 01:30:00 UTC,Gizah - B
+17,Randy,49,true,2011-12-13 02:00:00 UTC,Unknown
+17,Ashley,47,false,2011-12-13 02:00:00 UTC,Stonehenge - B
+17,Dad,46,false,2011-12-13 02:00:00 UTC,Alexandria - A
+17,Dottie,24,false,2011-12-13 02:00:00 UTC,Manneken Pis - A
+18,Randy,49,true,2011-12-13 02:30:00 UTC,Unknown
+18,Ashley,32,false,2011-12-13 02:30:00 UTC,Gizah - A
+18,Dad,46,false,2011-12-13 02:30:00 UTC,Halikarnassos - B
+18,Dottie,41,false,2011-12-13 02:30:00 UTC,Petra - B
+19,Randy,54,true,2011-12-13 03:00:00 UTC,Unknown
+19,Ashley,46,false,2011-12-13 03:00:00 UTC,Petra - A
+19,Dad,35,false,2011-12-13 03:00:00 UTC,Stonehenge - B
+19,Dottie,52,false,2011-12-13 03:00:00 UTC,Roma - A
+20,Randy,26,false,2011-12-13 03:30:00 UTC,Unknown
+20,Ashley,57,false,2011-12-13 03:30:00 UTC,Byzantium - A
+20,Dad,29,false,2011-12-13 03:30:00 UTC,Gizah - B
+20,Dottie,61,true,2011-12-13 03:30:00 UTC,Alexandria - B
+21,Randy,36,false,2011-12-16 22:00:00 UTC,Unknown
+21,Ashley,61,true,2011-12-16 22:00:00 UTC,Manneken Pis - B
+21,Dad,22,false,2011-12-16 22:00:00 UTC,Roma - B
+21,Tausha,51,false,2011-12-16 22:00:00 UTC,Babylon - A
+21,Jarrod,50,false,2011-12-16 22:00:00 UTC,Babylon - A
+22,Randy,45,false,2011-12-16 23:00:00 UTC,Unknown
+22,Ashley,31,false,2011-12-16 23:00:00 UTC,Alexandria - B
+22,Dad,37,false,2011-12-16 23:00:00 UTC,Manneken Pis - B
+22,Tausha,56,true,2011-12-16 23:00:00 UTC,Ephesos - B
+22,Jarrod,42,false,2011-12-16 23:00:00 UTC,Ephesos - B
+23,Randy,48,false,2011-12-17 00:00:00 UTC,Unknown
+23,Ashley,38,false,2011-12-17 00:00:00 UTC,Roma - A
+23,Dad,35,false,2011-12-17 00:00:00 UTC,Ephesos - A
+23,Tausha,49,true,2011-12-17 00:00:00 UTC,Halikarnassos - A
+23,Jarrod,46,false,2011-12-17 00:00:00 UTC,Halikarnassos - A
+24,Randy,41,false,2011-12-17 01:00:00 UTC,Unknown
+24,Ashley,35,false,2011-12-17 01:00:00 UTC,Rhodos - A
+24,Dad,37,false,2011-12-17 01:00:00 UTC,Byzantium - A
+24,Tausha,52,true,2011-12-17 01:00:00 UTC,Olympia - B
+24,Jarrod,48,false,2011-12-17 01:00:00 UTC,Olympia - B
+25,Randy,44,false,2011-12-17 02:00:00 UTC,Unknown
+25,Ashley,40,false,2011-12-17 02:00:00 UTC,Abu Simbel - B
+25,Dad,42,false,2011-12-17 02:00:00 UTC,Manneken Pis - A
+25,Tausha,57,true,2011-12-17 02:00:00 UTC,Stonehenge - A
+25,Jarrod,52,false,2011-12-17 02:00:00 UTC,Stonehenge - A
+26,Randy,48,false,2011-12-17 21:30:00 UTC,Unknown
+26,Ashley,57,false,2011-12-17 21:30:00 UTC,The Great Wall - A
+26,Dad,58,true,2011-12-17 21:30:00 UTC,Rhodos - A
+27,Randy,41,false,2011-12-17 22:00:00 UTC,Unknown
+27,Ashley,47,false,2011-12-17 22:00:00 UTC,Gizah - B
+27,Dad,52,true,2011-12-17 22:00:00 UTC,Rhodos - B
+28,Randy,47,true,2011-12-17 22:30:00 UTC,Unknown
+28,Ashley,29,false,2011-12-17 22:30:00 UTC,Olympia - A
+28,Dad,44,false,2011-12-17 22:30:00 UTC,Alexandria - B
+29,Randy,46,false,2011-12-17 23:00:00 UTC,Unknown
+29,Ashley,57,true,2011-12-17 23:00:00 UTC,Unknown
+29,Dad,33,false,2011-12-17 23:00:00 UTC,Unknown
+30,Randy,36,false,2011-12-17 23:30:00 UTC,Unknown
+30,Ashley,43,false,2011-12-17 23:30:00 UTC,Unknown
+30,Dad,44,true,2011-12-17 23:30:00 UTC,Unknown
+31,Randy,52,true,2011-12-18 00:00:00 UTC,Unknown
+31,Ashley,43,false,2011-12-18 00:00:00 UTC,Unknown
+31,Dad,34,false,2011-12-18 00:00:00 UTC,Unknown
+32,Randy,33,false,2011-12-18 00:30:00 UTC,Unknown
+32,Ashley,53,true,2011-12-18 00:30:00 UTC,Unknown
+32,Dad,52,false,2011-12-18 00:30:00 UTC,Unknown
+33,Randy,47,false,2011-12-18 01:00:00 UTC,Unknown
+33,Ashley,57,true,2011-12-18 01:00:00 UTC,Unknown
+33,Dad,48,false,2011-12-18 01:00:00 UTC,Unknown
+34,Randy,41,true,2011-12-26 23:00:00 UTC,Unknown
+34,Dad,39,false,2011-12-26 23:00:00 UTC,Unknown
+35,Randy,44,true,2011-12-27 00:00:00 UTC,Unknown
+35,Dad,43,false,2011-12-27 00:00:00 UTC,Unknown
+36,Randy,49,false,2011-12-27 01:00:00 UTC,Unknown
+36,Dad,64,true,2011-12-27 01:00:00 UTC,Unknown
+37,Randy,46,false,2011-12-27 03:00:00 UTC,Unknown
+37,Dad,53,true,2011-12-27 03:00:00 UTC,Unknown
+38,Randy,52,true,2011-12-27 02:30:00 UTC,Unknown
+38,Dad,41,false,2011-12-27 02:30:00 UTC,Unknown
+39,Randy,44,false,2011-12-30 21:00:00 UTC,Unknown
+39,Aaron,47,false,2011-12-30 21:00:00 UTC,Unknown
+39,Elizabeth,51,true,2011-12-30 21:00:00 UTC,Unknown
+40,Aaron,67,true,2011-12-30 21:30:00 UTC,Unknown
+40,Logan,26,false,2011-12-30 21:30:00 UTC,Unknown
+40,Kelly,39,false,2011-12-30 21:30:00 UTC,Unknown
+41,Randy,30,false,2011-12-30 22:00:00 UTC,Unknown
+41,Aaron,53,true,2011-12-30 22:00:00 UTC,Unknown
+41,Elizabeth,43,false,2011-12-30 22:00:00 UTC,Unknown
+42,Randy,54,false,2011-12-30 22:30:00 UTC,Unknown
+42,Aaron,60,true,2011-12-30 22:30:00 UTC,Unknown
+43,Randy,46,false,2011-12-30 23:00:00 UTC,Unknown
+43,Aaron,60,true,2011-12-30 23:00:00 UTC,Unknown
+44,Randy,51,true,2011-12-30 23:30:00 UTC,Unknown
+44,Aaron,40,false,2011-12-30 23:30:00 UTC,Unknown
+45,Randy,50,true,2011-12-31 00:00:00 UTC,Unknown
+45,Aaron,48,false,2011-12-31 00:00:00 UTC,Unknown
+45,Sandy,47,false,2011-12-31 00:00:00 UTC,Unknown
+46,Randy,45,false,2011-12-31 00:30:00 UTC,Unknown
+46,Aaron,67,true,2011-12-31 00:30:00 UTC,Unknown
+46,Sandy,54,false,2011-12-31 00:30:00 UTC,Unknown
+47,Randy,51,true,2011-12-31 01:00:00 UTC,Unknown
+47,Aaron,34,false,2011-12-31 01:00:00 UTC,Unknown
+47,Sandy,47,false,2011-12-31 01:00:00 UTC,Unknown
+48,Randy,44,true,2011-12-31 01:30:00 UTC,Unknown
+48,Aaron,44,true,2011-12-31 01:30:00 UTC,Unknown
+48,Sandy,44,true,2011-12-31 01:30:00 UTC,Unknown
+49,Randy,44,false,2011-12-31 02:00:00 UTC,Unknown
+49,Aaron,60,true,2011-12-31 02:00:00 UTC,Unknown
+50,Randy,38,false,2011-12-31 02:30:00 UTC,Unknown
+50,Aaron,50,true,2011-12-31 02:30:00 UTC,Unknown
+51,Randy,42,false,2011-12-31 15:00:00 UTC,Unknown
+51,Aaron,46,true,2011-12-31 15:00:00 UTC,Unknown
+51,Logan,43,false,2011-12-31 15:00:00 UTC,Unknown
+51,Kelly,31,false,2011-12-31 15:00:00 UTC,Unknown
+52,Randy,36,false,2011-12-31 16:00:00 UTC,Unknown
+52,Aaron,50,true,2011-12-31 16:00:00 UTC,Unknown
+52,Logan,42,false,2011-12-31 16:00:00 UTC,Unknown
+52,Kelly,43,false,2011-12-31 16:00:00 UTC,Unknown
+52,Randy,37,false,2011-12-31 17:00:00 UTC,Unknown
+52,Aaron,50,true,2011-12-31 17:00:00 UTC,Unknown
+52,Logan,39,false,2011-12-31 17:00:00 UTC,Unknown
+52,Kelly,37,false,2011-12-31 17:00:00 UTC,Unknown
+53,Randy,43,true,2012-01-02 05:00:00 UTC,Unknown
+53,Jarrod,29,false,2012-01-02 05:00:00 UTC,Abu Simbel - B
+54,Randy,42,false,2012-01-18 17:00:00 UTC,Unknown
+54,Ashley,51,false,2012-01-18 17:00:00 UTC,Unknown
+54,Dad,39,false,2012-01-18 05:00:00 UTC,Unknown
+54,Dottie,65,true,2012-01-18 05:00:00 UTC,The Great Wall - A
+55,Randy,63,true,2012-01-18 17:00:00 UTC,Unknown
+55,Ashley,54,false,2012-01-18 17:00:00 UTC,Unknown
+55,Dad,43,false,2012-01-18 05:00:00 UTC,Unknown
+55,Dottie,44,false,2012-01-18 05:00:00 UTC,Olympia - A
+56,Randy,53,true,2012-01-21 21:30:00 UTC,Unknown
+56,Ashley,54,false,2012-01-21 21:30:00 UTC,Unknown
+56,Dad,48,false,2012-01-21 21:30:00 UTC,Unknown
+57,Randy,45,true,2012-01-21 22:00:00 UTC,Unknown
+57,Ashley,42,false,2012-01-21 22:00:00 UTC,Unknown
+57,Dad,42,false,2012-01-21 22:00:00 UTC,Unknown
+58,Randy,40,false,2012-01-21 22:30:00 UTC,Unknown
+58,Ashley,52,true,2012-01-21 22:30:00 UTC,Unknown
+58,Dad,50,false,2012-01-21 22:30:00 UTC,Unknown
+59,Randy,43,true,2012-01-21 23:00:00 UTC,Unknown
+59,Ashley,35,false,2012-01-21 23:00:00 UTC,Unknown
+59,Dad,36,false,2012-01-21 23:00:00 UTC,Unknown
+60,Randy,42,false,2012-01-21 23:30:00 UTC,Unknown
+60,Ashley,43,true,2012-01-21 23:30:00 UTC,Unknown
+60,Dad,36,false,2012-01-21 23:30:00 UTC,Unknown
+61,Randy,42,false,2012-01-22 00:00:00 UTC,Unknown
+61,Ashley,45,true,2012-01-22 00:00:00 UTC,Unknown
+61,Dad,42,false,2012-01-22 00:00:00 UTC,Unknown
+62,Randy,42,true,2012-01-22 00:30:00 UTC,Unknown
+62,Ashley,37,false,2012-01-22 00:30:00 UTC,Unknown
+62,Dad,36,false,2012-01-22 00:30:00 UTC,Unknown
+63,Randy,44,false,2012-01-22 01:00:00 UTC,Unknown
+63,Ashley,58,true,2012-01-22 01:00:00 UTC,Unknown
+63,Dad,44,false,2012-01-22 01:00:00 UTC,Unknown
+64,Randy,39,false,2012-01-27 22:30:00 UTC,Unknown
+64,Ashley,49,true,2012-01-27 22:30:00 UTC,Unknown
+64,Dad,43,false,2012-01-27 22:30:00 UTC,Unknown
+65,Randy,33,false,2012-01-27 23:00:00 UTC,Unknown
+65,Ashley,44,false,2012-01-27 23:00:00 UTC,Unknown
+65,Dad,54,true,2012-01-27 23:00:00 UTC,Unknown
+66,Randy,55,false,2012-01-27 23:30:00 UTC,Unknown
+66,Ashley,56,true,2012-01-27 23:30:00 UTC,Unknown
+66,Dad,38,false,2012-01-27 23:30:00 UTC,Unknown
+67,Randy,40,false,2012-01-28 00:00:00 UTC,Unknown
+67,Ashley,43,true,2012-01-28 00:00:00 UTC,Unknown
+67,Dad,34,false,2012-01-28 00:00:00 UTC,Unknown
+68,Randy,38,false,2012-01-28 00:30:00 UTC,Unknown
+68,Ashley,42,false,2012-01-28 00:30:00 UTC,Unknown
+68,Dad,55,true,2012-01-28 00:30:00 UTC,Unknown
+69,Randy,42,false,2012-01-28 01:00:00 UTC,Unknown
+69,Ashley,51,true,2012-01-28 01:00:00 UTC,Unknown
+69,Dad,27,false,2012-01-28 01:00:00 UTC,Unknown
+70,Randy,54,true,2012-01-28 01:30:00 UTC,Unknown
+70,Ashley,37,false,2012-01-28 01:30:00 UTC,Unknown
+70,Dad,34,false,2012-01-28 01:30:00 UTC,Unknown
+71,Randy,38,false,2012-01-28 01:45:00 UTC,Unknown
+71,Ashley,39,false,2012-01-28 01:45:00 UTC,Unknown
+71,Dad,45,true,2012-01-28 01:45:00 UTC,Unknown
+72,Randy,50,true,2012-01-28 02:00:00 UTC,Unknown
+72,Ashley,40,false,2012-01-28 02:00:00 UTC,Unknown
+72,Dad,28,false,2012-01-28 02:00:00 UTC,Unknown
+73,Randy,45,false,2012-01-28 02:15:00 UTC,Unknown
+73,Ashley,45,false,2012-01-28 02:15:00 UTC,Unknown
+73,Dad,48,true,2012-01-28 02:15:00 UTC,Unknown
+74,Randy,46,false,2012-02-03 22:30:00 UTC,Unknown
+74,Ashley,49,true,2012-02-03 22:30:00 UTC,Unknown
+74,Dad,39,false,2012-02-03 22:30:00 UTC,Unknown
+75,Randy,38,false,2012-02-03 23:00:00 UTC,Unknown
+75,Jarrod,29,false,2012-02-03 23:00:00 UTC,Byzantium - B
+75,Dad,44,true,2012-02-03 23:00:00 UTC,Unknown
+76,Randy,37,false,2012-02-03 23:30:00 UTC,Unknown
+76,Jarrod,46,false,2012-02-03 23:30:00 UTC,The Great Wall - B
+76,Dad,60,true,2012-02-03 23:30:00 UTC,Unknown
+77,Randy,51,false,2012-02-04 00:00:00 UTC,Unknown
+77,Jarrod,65,true,2012-02-04 00:00:00 UTC,Petra - A
+77,Dad,55,false,2012-02-04 00:00:00 UTC,Unknown
+78,Randy,47,false,2012-02-04 00:30:00 UTC,Unknown
+78,Jarrod,63,true,2012-02-04 00:30:00 UTC,Roma - A
+78,Dad,47,false,2012-02-04 00:30:00 UTC,Unknown
+79,Randy,32,false,2012-02-04 01:30:00 UTC,Unknown
+79,Jarrod,41,false,2012-02-04 01:30:00 UTC,Babylon - B
+79,Dad,62,true,2012-02-04 01:30:00 UTC,Unknown
+80,Randy,47,false,2012-02-04 02:00:00 UTC,Unknown
+80,Jarrod,46,false,2012-02-04 02:00:00 UTC,The Great Wall - A
+80,Dad,60,true,2012-02-04 02:00:00 UTC,Unknown
+81,Randy,41,true,2012-02-04 02:15:00 UTC,Unknown
+81,Ashley,37,false,2012-02-04 02:15:00 UTC,Unknown
+81,Dad,37,false,2012-02-04 02:15:00 UTC,Unknown
+82,Randy,66,true,2012-02-11 00:00:00 UTC,Unknown
+82,Ashley,63,false,2012-02-11 00:00:00 UTC,Unknown
+82,Dad,52,false,2012-02-11 00:00:00 UTC,Unknown
+83,Randy,32,false,2012-02-11 00:30:00 UTC,Unknown
+83,Ashley,72,true,2012-02-11 00:30:00 UTC,Unknown
+83,Dad,31,false,2012-02-11 00:30:00 UTC,Unknown
+84,Randy,44,false,2012-02-11 01:00:00 UTC,Unknown
+84,Ashley,42,false,2012-02-11 01:00:00 UTC,Unknown
+84,Dad,45,true,2012-02-11 01:00:00 UTC,Unknown
+85,Randy,38,true,2012-02-11 01:30:00 UTC,Unknown
+85,Ashley,35,false,2012-02-11 01:30:00 UTC,Unknown
+85,Dad,28,false,2012-02-11 01:30:00 UTC,Unknown
+86,Randy,48,true,2012-02-17 22:00:00 UTC,Unknown
+86,Ashley,42,false,2012-02-17 22:00:00 UTC,Unknown
+86,Dad,46,false,2012-02-17 22:00:00 UTC,Unknown
+86,Dottie,32,false,2012-02-17 22:00:00 UTC,Byzantium - B
+87,Randy,50,true,2012-02-17 22:30:00 UTC,Unknown
+87,Ashley,37,false,2012-02-17 22:30:00 UTC,Unknown
+87,Dad,39,false,2012-02-17 22:30:00 UTC,Unknown
+87,Dottie,25,false,2012-02-17 22:30:00 UTC,Halikarnassos - B
+88,Randy,27,false,2012-02-17 23:00:00 UTC,Unknown
+88,Ashley,50,true,2012-02-17 23:00:00 UTC,Unknown
+88,Dad,30,false,2012-02-17 23:00:00 UTC,Unknown
+89,Randy,57,true,2012-02-17 23:30:00 UTC,Unknown
+89,Ashley,52,false,2012-02-17 23:30:00 UTC,Unknown
+89,Dad,40,false,2012-02-17 23:30:00 UTC,Unknown
+90,Randy,41,false,2012-02-18 00:00:00 UTC,Unknown
+90,Ashley,48,true,2012-02-18 00:00:00 UTC,Unknown
+90,Dad,39,false,2012-02-18 00:00:00 UTC,Unknown
+91,Randy,44,false,2012-02-18 00:30:00 UTC,Unknown
+91,Ashley,52,true,2012-02-18 00:30:00 UTC,Unknown
+91,Dad,26,false,2012-02-18 00:30:00 UTC,Unknown
+91,Dottie,50,false,2012-02-18 00:30:00 UTC,Byzantium - A
+92,Randy,43,false,2012-02-18 01:00:00 UTC,Unknown
+92,Ashley,46,true,2012-02-18 01:00:00 UTC,Unknown
+92,Dad,37,false,2012-02-18 01:00:00 UTC,Unknown
+92,Dottie,33,false,2012-02-18 01:00:00 UTC,Manneken Pis - B
+93,Randy,61,true,2012-02-18 01:30:00 UTC,Unknown
+93,Ashley,43,false,2012-02-18 01:30:00 UTC,Unknown
+93,Dad,42,false,2012-02-18 01:30:00 UTC,Unknown
+93,Dottie,39,false,2012-02-18 01:30:00 UTC,Gizah - A
+94,Randy,47,true,2012-02-18 02:00:00 UTC,Unknown
+94,Ashley,47,true,2012-02-18 02:00:00 UTC,Unknown
+94,Dad,24,false,2012-02-18 02:00:00 UTC,Unknown
+94,Dottie,37,false,2012-02-18 02:00:00 UTC,Alexandria - A
+95,Randy,43,false,2012-02-24 22:30:00 UTC,Unknown
+95,Ashley,54,true,2012-02-24 22:30:00 UTC,Unknown
+95,Dad,49,false,2012-02-24 22:30:00 UTC,Unknown
+96,Randy,70,true,2012-02-24 23:00:00 UTC,Unknown
+96,Ashley,48,false,2012-02-24 23:00:00 UTC,Unknown
+96,Dad,37,false,2012-02-24 23:00:00 UTC,Unknown
+97,Randy,49,true,2012-02-24 23:30:00 UTC,Unknown
+97,Ashley,42,false,2012-02-24 23:30:00 UTC,Unknown
+97,Dad,41,false,2012-02-24 23:30:00 UTC,Unknown
+98,Randy,46,false,2012-02-25 00:00:00 UTC,Unknown
+98,Ashley,53,true,2012-02-25 00:00:00 UTC,Unknown
+98,Dad,42,false,2012-02-25 00:00:00 UTC,Unknown
+99,Randy,63,true,2012-02-25 00:30:00 UTC,Unknown
+99,Ashley,32,false,2012-02-25 00:30:00 UTC,Unknown
+99,Dad,38,false,2012-02-25 00:30:00 UTC,Unknown
+100,Randy,45,false,2012-02-25 00:45:00 UTC,Unknown
+100,Ashley,36,false,2012-02-25 00:45:00 UTC,Unknown
+100,Dad,56,true,2012-02-25 00:45:00 UTC,Unknown
+101,Randy,42,false,2012-03-03 00:00:00 UTC,Unknown
+101,Ashley,53,true,2012-03-03 00:00:00 UTC,Unknown
+101,Dad,39,false,2012-03-03 00:00:00 UTC,Unknown
+102,Randy,42,false,2012-03-03 00:30:00 UTC,Unknown
+102,Ashley,49,true,2012-03-03 00:30:00 UTC,Unknown
+102,Dad,36,false,2012-03-03 00:30:00 UTC,Unknown
+103,Randy,51,true,2012-03-09 22:00:00 UTC,Unknown
+103,Ashley,39,false,2012-03-09 22:00:00 UTC,Unknown
+103,Dad,42,false,2012-03-09 22:00:00 UTC,Unknown
+104,Randy,50,true,2012-03-09 22:30:00 UTC,Unknown
+104,Ashley,43,false,2012-03-09 22:30:00 UTC,Unknown
+104,Dad,33,false,2012-03-09 22:30:00 UTC,Unknown
+105,Randy,49,false,2012-03-09 23:00:00 UTC,Unknown
+105,Ashley,61,true,2012-03-09 23:00:00 UTC,Unknown
+105,Dad,47,false,2012-03-09 23:00:00 UTC,Unknown
+106,Randy,50,true,2012-03-09 23:30:00 UTC,Unknown
+106,Ashley,49,false,2012-03-09 23:30:00 UTC,Unknown
+106,Dad,38,false,2012-03-09 23:30:00 UTC,Unknown
+107,Randy,47,false,2012-03-10 00:00:00 UTC,Unknown
+107,Ashley,57,true,2012-03-10 00:00:00 UTC,Unknown
+107,Dad,37,false,2012-03-10 00:00:00 UTC,Unknown
+108,Randy,33,false,2012-03-10 00:30:00 UTC,Unknown
+108,Ashley,53,true,2012-03-10 00:30:00 UTC,Unknown
+108,Dad,40,false,2012-03-10 00:30:00 UTC,Unknown
+109,Randy,46,false,2012-03-16 22:00:00 UTC,Unknown
+109,Ashley,52,false,2012-03-16 22:00:00 UTC,Unknown
+109,Dad,62,true,2012-03-16 22:00:00 UTC,Unknown
+110,Randy,40,false,2012-03-16 22:30:00 UTC,Unknown
+110,Ashley,41,false,2012-03-16 22:30:00 UTC,Unknown
+110,Dad,53,true,2012-03-16 22:30:00 UTC,Unknown
+111,Randy,43,false,2012-03-16 23:00:00 UTC,Unknown
+111,Ashley,60,true,2012-03-16 23:00:00 UTC,Unknown
+111,Dad,53,false,2012-03-16 23:00:00 UTC,Unknown
+112,Randy,56,false,2012-03-16 23:30:00 UTC,Unknown
+112,Ashley,53,false,2012-03-16 23:30:00 UTC,Unknown
+112,Dad,58,true,2012-03-16 23:30:00 UTC,Unknown
+113,Randy,46,false,2012-03-23 23:00:00 UTC,Unknown
+113,Ashley,56,true,2012-03-23 23:00:00 UTC,Unknown
+113,Dad,41,false,2012-03-23 23:00:00 UTC,Unknown
+114,Randy,47,false,2012-03-23 23:30:00 UTC,Unknown
+114,Ashley,48,true,2012-03-23 23:30:00 UTC,Unknown
+114,Dad,24,false,2012-03-23 23:30:00 UTC,Unknown
+115,Randy,43,false,2012-03-30 23:00:00 UTC,Unknown
+115,Ashley,61,true,2012-03-30 23:00:00 UTC,Unknown
+115,Dad,42,false,2012-03-30 23:00:00 UTC,Unknown
+116,Randy,47,false,2012-03-30 23:30:00 UTC,Unknown
+116,Ashley,60,true,2012-03-30 23:30:00 UTC,Unknown
+116,Dad,28,false,2012-03-30 23:30:00 UTC,Unknown
+117,Randy,48,false,2012-03-31 00:00:00 UTC,Unknown
+117,Ashley,44,false,2012-03-31 00:00:00 UTC,Unknown
+117,Dad,49,true,2012-03-31 00:00:00 UTC,Unknown
+118,Randy,48,false,2012-03-31 00:30:00 UTC,Unknown
+118,Ashley,36,false,2012-03-31 00:30:00 UTC,Unknown
+118,Dad,49,true,2012-03-31 00:30:00 UTC,Unknown
+119,Randy,52,true,2012-04-06 23:00:00 UTC,Unknown
+119,Ashley,39,false,2012-04-06 23:00:00 UTC,Unknown
+119,Dad,44,false,2012-04-06 23:00:00 UTC,Unknown
+119,Dottie,40,false,2012-04-06 23:00:00 UTC,Abu Simbel - B
+119,Becky,30,true,2012-04-06 23:00:00 UTC,Unknown
+120,Randy,61,true,2012-04-07 00:00:00 UTC,Unknown
+120,Ashley,50,false,2012-04-07 00:00:00 UTC,Unknown
+120,Dad,38,false,2012-04-07 00:00:00 UTC,Unknown
+120,Dottie,51,false,2012-04-07 00:00:00 UTC,Ephesos - A
+120,Becky,24,true,2012-04-07 00:00:00 UTC,Babylon - A
+121,Randy,47,false,2012-04-20 22:30:00 UTC,Unknown
+121,Dad,40,false,2012-04-20 22:30:00 UTC,Unknown
+121,Dottie,49,true,2012-04-20 22:30:00 UTC,The Great Wall - B
+121,Becky,34,false,2012-04-20 22:30:00 UTC,Ephesos - B
+122,Randy,43,false,2012-04-20 23:00:00 UTC,Unknown
+122,Dottie,43,false,2012-04-20 23:00:00 UTC,Rhodos - A
+122,Dad,27,false,2012-04-20 23:00:00 UTC,Unknown
+122,Becky,45,true,2012-04-20 23:00:00 UTC,Halikarnassos - A
+123,Randy,44,false,2012-04-20 23:30:00 UTC,Unknown
+123,Dottie,46,false,2012-04-20 23:30:00 UTC,Abu Simbel - A
+123,Dad,59,true,2012-04-20 23:30:00 UTC,Unknown
+123,Becky,47,false,2012-04-20 23:30:00 UTC,Olympia - B
+124,Randy,50,false,2012-04-21 00:00:00 UTC,Unknown
+124,Dottie,56,false,2012-04-21 00:00:00 UTC,Stonehenge - A
+124,Dad,46,false,2012-04-21 00:00:00 UTC,Unknown
+124,Becky,61,true,2012-04-21 00:00:00 UTC,Stonehenge - A
+125,Randy,35,false,2012-05-11 22:00:00 UTC,Unknown
+125,Ashley,39,false,2012-05-11 22:00:00 UTC,Unknown
+125,Dad,54,true,2012-05-11 22:00:00 UTC,Unknown
+125,Becky,49,false,2012-05-11 22:00:00 UTC,Abu Simbel - B
+125,Dottie,53,false,2012-05-11 22:00:00 UTC,Petra - A
+126,Randy,37,false,2012-05-11 23:00:00 UTC,Unknown
+126,Ashley,54,false,2012-05-11 23:00:00 UTC,Unknown
+126,Dad,70,true,2012-05-11 23:00:00 UTC,Unknown
+126,Becky,36,false,2012-05-11 23:00:00 UTC,Byzantium - B
+126,Dottie,57,false,2012-05-11 23:00:00 UTC,Olympia - B
+127,Randy,72,false,2012-05-25 22:00:00 UTC,Unknown
+127,Ashley,62,false,2012-05-25 22:00:00 UTC,Unknown
+127,Dad,75,true,2012-05-25 22:00:00 UTC,Unknown
+128,Randy,42,false,2012-05-25 23:00:00 UTC,Unknown
+128,Ashley,64,true,2012-05-25 23:00:00 UTC,Unknown
+128,Dad,44,false,2012-05-25 23:00:00 UTC,Unknown
+129,Randy,57,false,2012-06-08 22:00:00 UTC,Unknown
+129,Ashley,63,true,2012-06-08 22:00:00 UTC,Unknown
+129,Dad,56,false,2012-06-08 22:00:00 UTC,Unknown
+130,Randy,45,false,2012-06-08 23:00:00 UTC,Unknown
+130,Ashley,58,true,2012-06-08 23:00:00 UTC,Unknown
+130,Dad,40,false,2012-06-08 23:00:00 UTC,Unknown
+131,Randy,55,false,2012-06-08 23:30:00 UTC,Unknown
+131,Ashley,62,true,2012-06-08 23:30:00 UTC,Unknown
+131,Dad,48,false,2012-06-08 23:30:00 UTC,Unknown
+131,Randy,58,false,2012-07-27 22:00:00 UTC,Unknown
+131,Ashley,60,true,2012-07-27 22:00:00 UTC,Unknown
+131,Dad,55,false,2012-07-27 22:00:00 UTC,Unknown
+132,Randy,44,false,2012-07-27 23:00:00 UTC,Unknown
+132,Ashley,58,true,2012-07-27 23:00:00 UTC,Unknown
+132,Dad,53,false,2012-07-27 23:00:00 UTC,Unknown
+133,Randy,39,false,2012-07-28 00:00:00 UTC,Unknown
+133,Ashley,46,false,2012-07-28 00:00:00 UTC,Unknown
+133,Dad,51,true,2012-07-28 00:00:00 UTC,Unknown
+134,Randy,50,true,2012-07-28 01:00:00 UTC,Unknown
+134,Ashley,50,true,2012-07-28 01:00:00 UTC,Unknown
+134,Dad,36,false,2012-07-28 01:00:00 UTC,Unknown
+135,Randy,60,true,2012-08-17 22:00:00 UTC,Unknown
+135,Dad,53,false,2012-08-17 22:00:00 UTC,Unknown
+135,Dottie,52,false,2012-08-17 22:00:00 UTC,Halikarnassos - A
+136,Randy,42,false,2012-08-17 23:00:00 UTC,Unknown
+136,Dad,50,false,2012-08-17 23:00:00 UTC,Unknown
+136,Dottie,58,true,2012-08-17 23:00:00 UTC,Stonehenge - B
+137,Randy,48,false,2012-08-18 00:00:00 UTC,Unknown
+137,Dad,63,true,2012-08-18 00:00:00 UTC,Unknown
+137,Dottie,48,false,2012-08-18 00:00:00 UTC,Roma - B
+138,Randy,45,false,2012-08-18 00:30:00 UTC,Unknown
+138,Dad,46,false,2012-08-18 00:30:00 UTC,Unknown
+138,Dottie,49,true,2012-08-18 00:30:00 UTC,Rhodos - B
+139,Randy,55,true,2012-08-18 01:00:00 UTC,Unknown
+139,Dad,39,false,2012-08-18 01:00:00 UTC,Unknown
+139,Dottie,51,false,2012-08-18 01:00:00 UTC,Unknown
+140,Randy,62,true,2012-08-18 01:30:00 UTC,Unknown
+140,Dad,40,false,2012-08-18 01:30:00 UTC,Unknown
+140,Dottie,56,false,2012-08-18 01:30:00 UTC,Unknown
+141,Randy,53,true,2012-08-24 21:00:00 UTC,Unknown
+141,Ashley,46,false,2012-08-24 21:00:00 UTC,Unknown
+141,Dad,48,false,2012-08-24 21:00:00 UTC,Unknown
+141,Dottie,36,false,2012-08-24 21:00:00 UTC,Unknown
+141,Becky,32,false,2012-08-24 21:00:00 UTC,The Great Wall - B
+141,Damien,42,false,2012-08-24 21:00:00 UTC,Unknown
+142,Randy,57,false,2012-09-19 21:30:00 UTC,Unknown
+142,Ashley,60,true,2012-09-19 21:30:00 UTC,Unknown
+142,Dad,41,false,2012-09-19 21:30:00 UTC,Unknown
+142,Tausha,44,false,2012-09-19 21:30:00 UTC,Abu Simbel - B
+142,Jarrod,56,false,2012-09-19 21:30:00 UTC,Petra - B
+143,Randy,56,true,2012-09-19 22:00:00 UTC,Unknown
+143,Ashley,49,false,2012-09-19 22:00:00 UTC,Unknown
+143,Dad,42,false,2012-09-19 22:00:00 UTC,Unknown
+144,Randy,38,false,2012-09-19 23:00:00 UTC,Unknown
+144,Ashley,60,true,2012-09-19 23:00:00 UTC,Unknown
+144,Dad,59,false,2012-09-19 23:00:00 UTC,Unknown
+145,Randy,46,false,2012-09-20 00:00:00 UTC,Unknown
+145,Ashley,66,false,2012-09-20 00:00:00 UTC,Unknown
+145,Dad,69,true,2012-09-20 00:00:00 UTC,Unknown
+146,Randy,59,true,2012-09-21 22:30:00 UTC,Unknown
+146,Dad,49,false,2012-09-21 22:30:00 UTC,Unknown
+147,Randy,53,false,2012-09-21 23:00:00 UTC,Unknown
+147,Dad,61,true,2012-09-21 23:00:00 UTC,Unknown
+148,Randy,47,false,2012-09-21 23:30:00 UTC,Unknown
+148,Dad,50,true,2012-09-21 23:30:00 UTC,Unknown
+149,Randy,45,false,2012-09-22 00:00:00 UTC,Unknown
+149,Dad,60,true,2012-09-22 00:00:00 UTC,Unknown
+150,Randy,64,true,2012-09-22 00:30:00 UTC,Unknown
+150,Dad,52,false,2012-09-22 00:30:00 UTC,Unknown
+151,Randy,67,true,2012-10-19 23:00:00 UTC,Unknown
+151,Dad,60,false,2012-10-19 23:00:00 UTC,Unknown
+151,Dottie,35,false,2012-10-19 23:00:00 UTC,Unknown
+152,Randy,39,false,2012-10-19 23:30:00 UTC,Unknown
+152,Dad,59,false,2012-10-19 23:30:00 UTC,Unknown
+152,Dottie,61,true,2012-10-19 23:30:00 UTC,Unknown
+153,Randy,55,false,2012-10-20 00:00:00 UTC,Unknown
+153,Dad,63,true,2012-10-20 00:00:00 UTC,Unknown
+153,Dottie,54,false,2012-10-20 00:00:00 UTC,Unknown
+154,Randy,43,false,2012-10-20 00:30:00 UTC,Unknown
+154,Dad,63,false,2012-10-20 00:30:00 UTC,Unknown
+154,Dottie,64,true,2012-10-20 00:30:00 UTC,Unknown
+155,Randy,57,false,2012-11-09 21:30:00 UTC,Unknown
+155,Tausha,40,false,2012-11-09 21:30:00 UTC,Byzantium - B
+155,Dad,59,true,2012-11-09 21:30:00 UTC,Unknown
+156,Randy,42,false,2012-11-09 22:30:00 UTC,Unknown
+156,Tausha,62,true,2012-11-09 22:30:00 UTC,The Great Wall - B
+156,Dad,53,false,2012-11-09 22:30:00 UTC,Unknown
+157,Randy,51,false,2012-11-09 23:30:00 UTC,Unknown
+157,Jarrod,49,false,2012-11-09 23:30:00 UTC,Abu Simbel - A
+157,Dad,72,true,2012-11-09 23:30:00 UTC,Unknown
+158,Randy,40,false,2012-11-10 00:30:00 UTC,Unknown
+158,Jarrod,60,true,2012-11-10 00:30:00 UTC,Gizah - A
+158,Dad,52,false,2012-11-10 00:30:00 UTC,Unknown
+159,Randy,49,false,2012-12-22 23:00:00 UTC,Unknown
+159,Dad,57,true,2012-12-22 23:00:00 UTC,Unknown
+160,Randy,66,true,2012-12-23 00:00:00 UTC,Unknown
+160,Dad,60,false,2012-12-23 00:00:00 UTC,Unknown
+161,Randy,63,false,2012-12-23 01:00:00 UTC,Unknown
+161,Dad,73,true,2012-12-23 01:00:00 UTC,Unknown
+162,Randy,53,true,2012-12-23 01:30:00 UTC,Unknown
+162,Dad,40,false,2012-12-23 01:30:00 UTC,Unknown
+163,Randy,56,false,2012-12-28 21:30:00 UTC,Unknown
+163,Aaron,59,true,2012-12-28 21:30:00 UTC,Unknown
+164,Randy,59,false,2013-01-12 22:00:00 UTC,Unknown
+164,Tausha,46,false,2013-01-12 22:00:00 UTC,Petra - A
+164,Dad,61,true,2013-01-12 22:00:00 UTC,Unknown
+165,Randy,48,false,2013-01-12 23:00:00 UTC,Unknown
+165,Tausha,61,true,2013-01-12 23:00:00 UTC,Roma - A
+165,Dottie,44,false,2013-01-12 23:00:00 UTC,Unknown
+165,Dad,54,false,2013-01-12 23:00:00 UTC,Unknown
+166,Randy,59,false,2013-01-13 00:00:00 UTC,Unknown
+166,Tausha,64,true,2013-01-13 00:00:00 UTC,Babylon - B
+166,Dottie,45,false,2013-01-13 00:00:00 UTC,Unknown
+166,Dad,49,false,2013-01-13 00:00:00 UTC,Unknown
+167,Randy,55,false,2013-01-13 01:00:00 UTC,Unknown
+167,Tausha,36,false,2013-01-13 01:00:00 UTC,The Great Wall - A
+167,Dottie,49,false,2013-01-13 01:00:00 UTC,Unknown
+167,Dad,66,true,2013-01-13 01:00:00 UTC,Unknown
+168,Randy,71,true,2013-01-26 23:00:00 UTC,Unknown
+168,Dad,71,true,2013-01-26 23:00:00 UTC,Unknown
+168,Dottie,57,false,2013-01-26 23:00:00 UTC,Unknown
+169,Randy,47,false,2013-01-27 00:00:00 UTC,Unknown
+169,Dad,57,true,2013-01-27 00:00:00 UTC,Unknown
+169,Dottie,42,false,2013-01-27 00:00:00 UTC,Unknown
+170,Randy,83,true,2013-01-27 01:00:00 UTC,Unknown
+170,Dad,72,false,2013-01-27 01:00:00 UTC,Unknown
+170,Dottie,63,false,2013-01-27 01:00:00 UTC,Unknown
+171,Randy,56,false,2013-01-27 02:00:00 UTC,Unknown
+171,Dad,68,true,2013-01-27 02:00:00 UTC,Unknown
+171,Dottie,52,false,2013-01-27 02:00:00 UTC,Unknown
+172,Randy,62,false,2013-02-16 22:00:00 UTC,Unknown
+172,Dad,67,true,2013-02-16 22:00:00 UTC,Unknown
+172,Dottie,63,false,2013-02-16 22:00:00 UTC,Unknown
+173,Randy,59,false,2013-02-16 23:00:00 UTC,Unknown
+173,Dad,59,false,2013-02-16 23:00:00 UTC,Unknown
+173,Dottie,71,true,2013-02-16 23:00:00 UTC,Unknown
+174,Dad,77,true,2013-02-17 00:00:00 UTC,Unknown
+174,Dottie,67,false,2013-02-17 00:00:00 UTC,Unknown
+174,Randy,63,false,2013-02-17 00:00:00 UTC,Unknown
+175,Randy,64,false,2013-02-22 22:30:00 UTC,Unknown
+175,Dottie,71,true,2013-02-22 22:30:00 UTC,Unknown
+175,Dad,61,false,2013-02-22 22:30:00 UTC,Unknown
+176,Randy,61,false,2013-02-22 23:30:00 UTC,Unknown
+176,Dottie,66,true,2013-02-22 23:30:00 UTC,Unknown
+176,Dad,62,false,2013-02-22 23:30:00 UTC,Unknown
+177,Randy,75,true,2013-03-02 23:00:00 UTC,Unknown
+177,Becky,43,false,2013-03-02 23:00:00 UTC,Petra - A
+177,Dad,45,false,2013-03-02 23:00:00 UTC,Unknown
+177,Dottie,45,false,2013-03-02 23:00:00 UTC,Unknown
+178,Randy,72,true,2013-03-03 00:00:00 UTC,Unknown
+178,Dad,64,false,2013-03-03 00:00:00 UTC,Unknown
+179,Randy,65,true,2013-03-03 01:00:00 UTC,Unknown
+179,Dad,58,false,2013-03-03 01:00:00 UTC,Unknown
+180,Randy,64,true,2013-03-09 23:00:00 UTC,Unknown
+180,Dad,63,false,2013-03-09 23:00:00 UTC,Unknown
+180,Dottie,54,false,2013-03-09 23:00:00 UTC,Unknown
+181,Randy,70,false,2013-03-10 00:00:00 UTC,Unknown
+181,Dad,72,true,2013-03-10 00:00:00 UTC,Unknown
+181,Dottie,62,false,2013-03-10 00:00:00 UTC,Unknown
+182,Randy,57,false,2013-03-10 01:00:00 UTC,Unknown
+182,Dad,60,false,2013-03-10 01:00:00 UTC,Unknown
+182,Dottie,75,true,2013-03-10 01:00:00 UTC,Unknown
+183,Randy,75,false,2013-03-10 02:00:00 UTC,Unknown
+183,Dad,71,false,2013-03-10 02:00:00 UTC,Unknown
+183,Dottie,78,true,2013-03-10 02:00:00 UTC,Unknown
+184,Randy,71,true,2013-03-16 23:00:00 UTC,Unknown
+184,Dad,64,false,2013-03-16 23:00:00 UTC,Unknown
+184,Dottie,51,false,2013-03-16 23:00:00 UTC,Unknown
+185,Randy,61,false,2013-03-17 00:00:00 UTC,Unknown
+185,Dad,77,true,2013-03-17 00:00:00 UTC,Unknown
+185,Dottie,72,false,2013-03-17 00:00:00 UTC,Unknown
+186,Randy,62,false,2013-03-17 01:00:00 UTC,Unknown
+186,Dad,70,false,2013-03-17 01:00:00 UTC,Unknown
+186,Dottie,72,true,2013-03-17 01:00:00 UTC,Unknown
+187,Randy,63,false,2013-03-17 02:00:00 UTC,Unknown
+187,Dad,60,false,2013-03-17 02:00:00 UTC,Unknown
+187,Dottie,72,true,2013-03-17 02:00:00 UTC,Unknown
+188,Randy,70,true,2013-03-23 23:30:00 UTC,Unknown
+188,Dad,58,false,2013-03-23 23:30:00 UTC,Unknown
+188,Dottie,51,false,2013-03-23 23:30:00 UTC,Unknown
+189,Randy,52,false,2013-03-24 00:30:00 UTC,Unknown
+189,Dad,51,false,2013-03-24 00:30:00 UTC,Unknown
+189,Dottie,59,true,2013-03-24 00:30:00 UTC,Unknown
+190,Randy,61,false,2013-03-24 01:30:00 UTC,Unknown
+190,Dad,65,false,2013-03-24 01:30:00 UTC,Unknown
+190,Dottie,90,true,2013-03-24 01:30:00 UTC,Unknown
+191,Randy,54,false,2013-03-24 02:00:00 UTC,Unknown
+191,Dad,51,false,2013-03-24 02:00:00 UTC,Unknown
+191,Dottie,57,true,2013-03-24 02:00:00 UTC,Unknown
+192,Randy,67,true,2013-03-30 23:00:00 UTC,Unknown
+192,Dad,35,false,2013-03-30 23:00:00 UTC,Unknown
+192,Dottie,54,false,2013-03-30 23:00:00 UTC,Unknown
+193,Randy,55,false,2013-03-31 00:00:00 UTC,Unknown
+193,Dad,54,false,2013-03-31 00:00:00 UTC,Unknown
+193,Dottie,63,true,2013-03-31 00:00:00 UTC,Unknown
+194,Randy,63,false,2013-03-31 01:00:00 UTC,Unknown
+194,Dad,45,false,2013-03-31 01:00:00 UTC,Unknown
+194,Dottie,69,true,2013-03-31 01:00:00 UTC,Unknown
+195,Randy,67,true,2013-03-31 02:00:00 UTC,Unknown
+195,Dad,61,false,2013-03-31 02:00:00 UTC,Unknown
+195,Dottie,61,false,2013-03-31 02:00:00 UTC,Unknown
+196,Randy,62,false,2013-04-06 23:30:00 UTC,Unknown
+196,Dad,69,true,2013-04-06 23:30:00 UTC,Unknown
+196,Dottie,57,false,2013-04-06 23:30:00 UTC,Unknown
+197,Randy,60,false,2013-04-07 00:30:00 UTC,Unknown
+197,Dad,57,false,2013-04-07 00:30:00 UTC,Unknown
+197,Dottie,63,true,2013-04-07 00:30:00 UTC,Unknown
+198,Randy,58,false,2013-04-07 01:30:00 UTC,Unknown
+198,Dad,68,false,2013-04-07 01:30:00 UTC,Unknown
+198,Dottie,70,true,2013-04-07 01:30:00 UTC,Unknown
+199,Randy,53,false,2013-04-07 02:00:00 UTC,Unknown
+199,Dad,51,false,2013-04-07 02:00:00 UTC,Unknown
+199,Dottie,61,true,2013-04-07 02:00:00 UTC,Unknown
+200,Randy,51,false,2013-04-14 00:00:00 UTC,Unknown
+200,Dad,63,true,2013-04-14 00:00:00 UTC,Unknown
+200,Dottie,60,false,2013-04-14 00:00:00 UTC,Unknown
+201,Randy,69,false,2013-04-14 00:30:00 UTC,Unknown
+201,Dad,65,false,2013-04-14 00:30:00 UTC,Unknown
+201,Dottie,73,true,2013-04-14 00:30:00 UTC,Unknown
+202,Randy,62,false,2013-04-14 01:00:00 UTC,Unknown
+202,Dad,54,false,2013-04-14 01:00:00 UTC,Unknown
+202,Dottie,64,true,2013-04-14 01:00:00 UTC,Unknown
+203,Randy,63,true,2013-04-14 01:30:00 UTC,Unknown
+203,Dad,63,true,2013-04-14 01:30:00 UTC,Unknown
+203,Dottie,59,false,2013-04-14 01:30:00 UTC,Unknown
+204,Randy,57,false,2013-04-20 23:00:00 UTC,Unknown
+204,Dad,58,true,2013-04-20 23:00:00 UTC,Unknown
+204,Dottie,55,false,2013-04-20 23:00:00 UTC,Unknown
+205,Randy,66,false,2013-04-21 00:00:00 UTC,Unknown
+205,Dad,69,false,2013-04-21 00:00:00 UTC,Unknown
+205,Dottie,70,true,2013-04-21 00:00:00 UTC,Unknown
+206,Randy,72,true,2013-04-21 01:00:00 UTC,Unknown
+206,Dad,66,false,2013-04-21 01:00:00 UTC,Unknown
+206,Dottie,68,false,2013-04-21 01:00:00 UTC,Unknown
+206,Randy,37,false,2013-04-21 02:00:00 UTC,Unknown
+206,Dad,66,true,2013-04-21 02:00:00 UTC,Unknown
+206,Dottie,54,false,2013-04-21 02:00:00 UTC,Unknown
+207,Randy,61,false,2013-04-28 23:00:00 UTC,Unknown
+207,Dad,65,true,2013-04-28 23:00:00 UTC,Unknown
+207,Dottie,64,false,2013-04-28 23:00:00 UTC,Unknown
+208,Randy,60,false,2013-04-29 00:00:00 UTC,Unknown
+208,Dad,52,false,2013-04-29 00:00:00 UTC,Unknown
+208,Dottie,70,true,2013-04-29 00:00:00 UTC,Unknown
+209,Randy,64,true,2013-04-29 01:00:00 UTC,Unknown
+209,Dad,55,false,2013-04-29 01:00:00 UTC,Unknown
+209,Dottie,55,false,2013-04-29 01:00:00 UTC,Unknown
+210,Randy,60,false,2013-04-29 02:00:00 UTC,Unknown
+210,Dad,58,false,2013-04-29 02:00:00 UTC,Unknown
+210,Dottie,68,true,2013-04-29 02:00:00 UTC,Unknown
+211,Randy,61,false,2013-05-04 23:30:00 UTC,Unknown
+211,Dad,65,false,2013-05-04 23:30:00 UTC,Unknown
+211,Dottie,68,true,2013-05-04 23:30:00 UTC,Unknown
+212,Randy,75,true,2013-05-05 00:30:00 UTC,Unknown
+212,Dad,65,false,2013-05-05 00:30:00 UTC,Unknown
+212,Dottie,52,false,2013-05-05 00:30:00 UTC,Unknown
+213,Randy,63,true,2013-05-05 01:30:00 UTC,Unknown
+213,Dad,60,false,2013-05-05 01:30:00 UTC,Unknown
+213,Dottie,41,false,2013-05-05 01:30:00 UTC,Unknown
+214,Randy,57,false,2013-05-05 02:00:00 UTC,Unknown
+214,Dad,58,false,2013-05-05 02:00:00 UTC,Unknown
+214,Dottie,59,true,2013-05-05 02:00:00 UTC,Unknown
+215,Randy,66,false,2013-05-18 23:30:00 UTC,Unknown
+215,Dad,77,true,2013-05-18 23:30:00 UTC,Unknown
+216,Randy,78,true,2013-05-19 00:30:00 UTC,Unknown
+216,Dad,57,false,2013-05-19 00:30:00 UTC,Unknown
+217,Randy,68,false,2013-05-19 01:30:00 UTC,Unknown
+217,Dad,78,true,2013-05-19 01:30:00 UTC,Unknown
+218,Randy,37,false,2013-05-19 02:00:00 UTC,Unknown
+218,Dad,76,true,2013-05-19 02:00:00 UTC,Unknown
+219,Randy,62,false,2013-05-25 23:00:00 UTC,Unknown
+219,Dad,67,true,2013-05-25 23:00:00 UTC,Unknown
+219,Dottie,56,false,2013-05-25 23:00:00 UTC,Unknown
+220,Randy,51,false,2013-05-26 00:00:00 UTC,Unknown
+220,Dad,61,false,2013-05-26 00:00:00 UTC,Unknown
+220,Dottie,62,true,2013-05-26 00:00:00 UTC,Unknown
+221,Randy,56,false,2013-05-26 01:00:00 UTC,Unknown
+221,Dad,48,false,2013-05-26 01:00:00 UTC,Unknown
+221,Dottie,70,true,2013-05-26 01:00:00 UTC,Unknown
+222,Randy,65,false,2013-05-26 01:30:00 UTC,Unknown
+222,Dad,84,true,2013-05-26 01:30:00 UTC,Unknown
+222,Dottie,70,false,2013-05-26 01:30:00 UTC,Unknown
+223,Randy,48,true,2013-06-08 23:30:00 UTC,Unknown
+223,Dad,35,false,2013-06-08 23:30:00 UTC,Unknown
+224,Randy,66,false,2013-06-09 00:30:00 UTC,Unknown
+224,Dad,71,true,2013-06-09 00:30:00 UTC,Unknown
+225,Randy,68,true,2013-06-09 01:30:00 UTC,Unknown
+225,Dad,67,false,2013-06-09 01:30:00 UTC,Unknown
+225,Dottie,55,false,2013-06-09 01:30:00 UTC,Unknown
+226,Randy,61,false,2013-06-09 02:00:00 UTC,Unknown
+226,Dad,64,false,2013-06-09 02:00:00 UTC,Unknown
+226,Dottie,66,true,2013-06-09 02:00:00 UTC,Unknown
+227,Randy,55,false,2013-06-15 23:00:00 UTC,Unknown
+227,Dad,62,true,2013-06-15 23:00:00 UTC,Unknown
+227,Dottie,48,false,2013-06-15 23:00:00 UTC,Unknown
+228,Randy,63,false,2013-06-16 00:00:00 UTC,Unknown
+228,Dad,57,false,2013-06-16 00:00:00 UTC,Unknown
+228,Dottie,69,true,2013-06-16 00:00:00 UTC,Unknown
+229,Randy,65,false,2013-06-16 01:00:00 UTC,Unknown
+229,Dad,69,true,2013-06-16 01:00:00 UTC,Unknown
+229,Dottie,69,true,2013-06-16 01:00:00 UTC,Unknown
+230,Randy,65,true,2013-06-16 01:30:00 UTC,Unknown
+230,Dad,56,false,2013-06-16 01:30:00 UTC,Unknown
+230,Dottie,58,false,2013-06-16 01:30:00 UTC,Unknown
+231,Randy,70,false,2013-06-22 23:00:00 UTC,Unknown
+231,Dad,57,false,2013-06-22 23:00:00 UTC,Unknown
+231,Dottie,72,true,2013-06-22 23:00:00 UTC,Unknown
+232,Randy,72,true,2013-06-23 00:00:00 UTC,Unknown
+232,Dad,56,false,2013-06-23 00:00:00 UTC,Unknown
+232,Dottie,47,false,2013-06-23 00:00:00 UTC,Unknown
+233,Randy,50,false,2013-06-23 01:00:00 UTC,Unknown
+233,Dad,63,false,2013-06-23 01:00:00 UTC,Unknown
+233,Dottie,73,true,2013-06-23 01:00:00 UTC,Unknown
+234,Randy,49,false,2013-06-23 01:30:00 UTC,Unknown
+234,Dad,66,true,2013-06-23 01:30:00 UTC,Unknown
+234,Dottie,63,false,2013-06-23 01:30:00 UTC,Unknown
+235,Randy,67,false,2013-06-29 23:30:00 UTC,Unknown
+235,Dad,68,true,2013-06-29 23:30:00 UTC,Unknown
+235,Dottie,66,false,2013-06-29 23:30:00 UTC,Unknown
+236,Randy,46,false,2013-06-30 00:30:00 UTC,Unknown
+236,Dad,53,false,2013-06-30 00:30:00 UTC,Unknown
+236,Dottie,58,true,2013-06-30 00:30:00 UTC,Unknown
+237,Randy,61,false,2013-06-30 01:00:00 UTC,Unknown
+237,Dad,44,false,2013-06-30 01:00:00 UTC,Unknown
+237,Dottie,64,true,2013-06-30 01:00:00 UTC,Unknown
+238,Randy,70,false,2013-06-30 01:30:00 UTC,Unknown
+238,Dad,59,false,2013-06-30 01:30:00 UTC,Unknown
+238,Dottie,79,true,2013-06-30 01:30:00 UTC,Unknown
+239,Randy,60,false,2013-07-20 23:30:00 UTC,Unknown
+239,Dad,61,false,2013-07-20 23:30:00 UTC,Unknown
+239,Dottie,68,true,2013-07-20 23:30:00 UTC,Unknown
+240,Randy,41,false,2013-07-21 00:30:00 UTC,Unknown
+240,Dad,54,true,2013-07-21 00:30:00 UTC,Unknown
+240,Dottie,52,false,2013-07-21 00:30:00 UTC,Unknown
+241,Randy,54,false,2013-07-21 01:00:00 UTC,Unknown
+241,Dad,79,true,2013-07-21 01:00:00 UTC,Unknown
+241,Dottie,55,false,2013-07-21 01:00:00 UTC,Unknown
+242,Randy,63,true,2013-07-21 01:30:00 UTC,Unknown
+242,Dad,52,false,2013-07-21 01:30:00 UTC,Unknown
+242,Dottie,58,false,2013-07-21 01:30:00 UTC,Unknown
+243,Randy,71,true,2013-07-27 23:30:00 UTC,Unknown
+243,Dad,61,false,2013-07-27 23:30:00 UTC,Unknown
+243,Dottie,64,false,2013-07-27 23:30:00 UTC,Unknown
+244,Randy,48,false,2013-07-28 00:30:00 UTC,Unknown
+244,Dad,74,true,2013-07-28 00:30:00 UTC,Unknown
+244,Dottie,58,false,2013-07-28 00:30:00 UTC,Unknown
+245,Randy,72,true,2013-07-28 01:00:00 UTC,Unknown
+245,Dad,65,false,2013-07-28 01:00:00 UTC,Unknown
+245,Dottie,70,false,2013-07-28 01:00:00 UTC,Unknown
+246,Randy,69,true,2013-07-28 01:30:00 UTC,Unknown
+246,Dad,62,false,2013-07-28 01:30:00 UTC,Unknown
+246,Dottie,63,false,2013-07-28 01:30:00 UTC,Unknown
+247,Randy,47,false,2013-08-11 00:30:00 UTC,Unknown
+247,Dad,65,true,2013-08-11 00:30:00 UTC,Unknown
+247,Dottie,64,false,2013-08-11 00:30:00 UTC,Unknown
+248,Randy,73,true,2013-08-11 01:30:00 UTC,Unknown
+248,Dad,64,false,2013-08-11 01:30:00 UTC,Unknown
+248,Dottie,58,false,2013-08-11 01:30:00 UTC,Unknown
+249,Randy,69,false,2013-08-11 02:00:00 UTC,Unknown
+249,Dad,47,false,2013-08-11 02:00:00 UTC,Unknown
+249,Dottie,71,true,2013-08-11 02:00:00 UTC,Unknown
+250,Randy,59,false,2013-08-17 23:30:00 UTC,Unknown
+250,Dad,70,true,2013-08-17 23:30:00 UTC,Unknown
+251,Randy,63,true,2013-08-18 00:30:00 UTC,Unknown
+251,Dad,61,false,2013-08-18 00:30:00 UTC,Unknown
+252,Randy,68,true,2013-08-18 01:30:00 UTC,Unknown
+252,Dad,67,false,2013-08-18 01:30:00 UTC,Unknown
+253,Randy,56,false,2013-08-18 02:00:00 UTC,Unknown
+253,Dad,71,true,2013-08-18 02:00:00 UTC,Unknown
+254,Randy,56,false,2013-08-31 23:30:00 UTC,Unknown
+254,Dottie,66,false,2013-08-31 23:30:00 UTC,Unknown
+254,Dad,70,true,2013-08-31 23:30:00 UTC,Unknown
+254,Becky,52,false,2013-08-31 23:30:00 UTC,Roma - A
+255,Randy,64,false,2013-09-01 00:30:00 UTC,Unknown
+255,Dottie,70,true,2013-09-01 00:30:00 UTC,Unknown
+255,Dad,56,false,2013-09-01 00:30:00 UTC,Unknown
+255,Becky,53,false,2013-09-01 00:30:00 UTC,Babylon - B
+256,Randy,68,true,2013-09-09 22:00:00 UTC,Unknown
+256,Dottie,54,false,2013-09-09 22:00:00 UTC,Unknown
+256,Dad,43,false,2013-09-09 22:00:00 UTC,Unknown
+256,Becky,36,false,2013-09-09 22:00:00 UTC,Ephesos - A
+257,Randy,54,false,2013-09-09 23:00:00 UTC,Unknown
+257,Dottie,63,true,2013-09-09 23:00:00 UTC,Unknown
+257,Dad,58,false,2013-09-09 23:00:00 UTC,Unknown
+257,Becky,54,false,2013-09-09 23:00:00 UTC,Manneken Pis - A
+258,Randy,64,false,2013-09-10 00:00:00 UTC,Unknown
+258,Dottie,63,false,2013-09-10 00:00:00 UTC,Unknown
+258,Dad,69,true,2013-09-10 00:00:00 UTC,Unknown
+258,Becky,53,false,2013-09-10 00:00:00 UTC,Rhodos - B
+259,Randy,51,false,2013-09-14 22:00:00 UTC,Unknown
+259,Dottie,72,false,2013-09-14 22:00:00 UTC,Unknown
+259,Dad,93,true,2013-09-14 22:00:00 UTC,Unknown
+259,Becky,76,false,2013-09-14 22:00:00 UTC,Alexandria - B
+260,Randy,63,false,2013-09-14 23:00:00 UTC,Unknown
+260,Dottie,64,true,2013-09-14 23:00:00 UTC,Unknown
+260,Dad,63,false,2013-09-14 23:00:00 UTC,Unknown
+260,Becky,60,false,2013-09-14 23:00:00 UTC,Halikarnassos - B
+261,Randy,57,false,2013-09-15 00:00:00 UTC,Unknown
+261,Dottie,72,true,2013-09-15 00:00:00 UTC,Unknown
+261,Dad,63,false,2013-09-15 00:00:00 UTC,Unknown
+261,Becky,49,false,2013-09-15 00:00:00 UTC,Stonehenge - B
+262,Randy,55,false,2013-09-15 01:00:00 UTC,Unknown
+262,Dottie,64,true,2013-09-15 01:00:00 UTC,Unknown
+262,Dad,61,false,2013-09-15 01:00:00 UTC,Unknown
+262,Becky,50,false,2013-09-15 01:00:00 UTC,Gizah - A
+263,Randy,63,false,2013-09-15 02:00:00 UTC,Unknown
+263,Dottie,64,true,2013-09-15 02:00:00 UTC,Unknown
+263,Dad,50,false,2013-09-15 02:00:00 UTC,Unknown
+263,Becky,62,false,2013-09-15 02:00:00 UTC,Petra - B
+264,Randy,66,false,2013-09-14 21:30:00 UTC,Unknown
+264,Dottie,80,true,2013-09-14 21:30:00 UTC,Unknown
+264,Dad,77,false,2013-09-14 21:30:00 UTC,Unknown
+264,Becky,53,false,2013-09-14 21:30:00 UTC,Byzantium - A
+264,Ashley,53,false,2013-09-14 21:30:00 UTC,Unknown
+264,Tausha,29,false,2013-09-14 21:30:00 UTC,Unknown
+265,Randy,70,true,2013-10-12 23:00:00 UTC,Unknown
+265,Dottie,66,false,2013-10-12 23:00:00 UTC,Unknown
+265,Dad,63,false,2013-10-12 23:00:00 UTC,Unknown
+265,Becky,53,false,2013-10-12 23:00:00 UTC,Rhodos - A
+266,Randy,58,false,2013-10-13 00:00:00 UTC,Unknown
+266,Dottie,62,false,2013-10-13 00:00:00 UTC,Unknown
+266,Dad,68,true,2013-10-13 00:00:00 UTC,Unknown
+266,Becky,55,false,2013-10-13 00:00:00 UTC,The Great Wall - A
+267,Randy,61,false,2013-10-13 01:00:00 UTC,Unknown
+267,Dottie,67,false,2013-10-13 01:00:00 UTC,Unknown
+267,Dad,61,false,2013-10-13 01:00:00 UTC,Unknown
+267,Becky,71,true,2013-10-13 01:00:00 UTC,Alexandria - A
+268,Randy,55,false,2013-10-13 02:00:00 UTC,Unknown
+268,Dottie,50,false,2013-10-13 02:00:00 UTC,Unknown
+268,Dad,52,false,2013-10-13 02:00:00 UTC,Unknown
+268,Becky,59,true,2013-10-13 02:00:00 UTC,Unknown
+269,Randy,60,true,2013-10-19 23:30:00 UTC,Unknown
+269,Dottie,51,false,2013-10-19 23:30:00 UTC,Unknown
+269,Dad,51,false,2013-10-19 23:30:00 UTC,Unknown
+269,Becky,51,false,2013-10-19 23:30:00 UTC,Abu Simbel - A
+270,Randy,62,false,2013-10-20 00:30:00 UTC,Unknown
+270,Dottie,76,true,2013-10-20 00:30:00 UTC,Unknown
+270,Dad,56,false,2013-10-20 00:30:00 UTC,Unknown
+270,Becky,67,false,2013-10-20 00:30:00 UTC,Gizah - B
+271,Randy,55,false,2013-10-20 01:30:00 UTC,Unknown
+271,Dottie,61,true,2013-10-20 01:30:00 UTC,Unknown
+271,Dad,56,false,2013-10-20 01:30:00 UTC,Unknown
+271,Becky,56,false,2013-10-20 01:30:00 UTC,Olympia - A
+272,Randy,67,false,2013-10-20 02:30:00 UTC,Unknown
+272,Dottie,69,true,2013-10-20 02:30:00 UTC,Unknown
+272,Dad,54,false,2013-10-20 02:30:00 UTC,Unknown
+272,Becky,42,false,2013-10-20 02:30:00 UTC,Roma - B
+273,Randy,82,false,2013-11-02 23:00:00 UTC,Unknown
+273,Dad,86,true,2013-11-02 23:00:00 UTC,Unknown
+274,Randy,57,false,2013-11-03 00:00:00 UTC,Unknown
+274,Dad,65,true,2013-11-03 00:00:00 UTC,Unknown
+275,Randy,68,true,2013-11-03 01:00:00 UTC,Unknown
+275,Dad,61,false,2013-11-03 01:00:00 UTC,Unknown
+276,Randy,63,true,2013-11-03 01:30:00 UTC,Unknown
+276,Dad,44,false,2013-11-03 01:30:00 UTC,Unknown
+277,Randy,72,true,2013-11-09 23:30:00 UTC,Unknown
+277,Dad,51,false,2013-11-09 23:30:00 UTC,Unknown
+277,Dottie,68,false,2013-11-09 23:30:00 UTC,Unknown
+278,Randy,60,false,2013-11-10 00:30:00 UTC,Unknown
+278,Dad,93,true,2013-11-10 00:30:00 UTC,Unknown
+278,Dottie,62,false,2013-11-10 00:30:00 UTC,Unknown
+279,Randy,69,false,2013-11-10 01:00:00 UTC,Unknown
+279,Dad,73,true,2013-11-10 01:00:00 UTC,Unknown
+279,Dottie,69,false,2013-11-10 01:00:00 UTC,Unknown
+280,Randy,67,false,2013-11-10 01:30:00 UTC,Unknown
+280,Dad,74,true,2013-11-10 01:30:00 UTC,Unknown
+280,Dottie,68,false,2013-11-10 01:30:00 UTC,Unknown
+281,Randy,73,true,2013-11-16 23:00:00 UTC,Unknown
+281,Dottie,73,true,2013-11-16 23:00:00 UTC,Unknown
+281,Dad,58,false,2013-11-16 23:00:00 UTC,Unknown
+281,Becky,41,false,2013-11-16 23:00:00 UTC,Manneken Pis - B
+282,Randy,58,false,2013-11-17 00:00:00 UTC,Unknown
+282,Dottie,79,false,2013-11-17 00:00:00 UTC,Unknown
+282,Dad,71,false,2013-11-17 00:00:00 UTC,Unknown
+282,Becky,111,true,2013-11-17 00:00:00 UTC,Unknown
+283,Randy,51,false,2013-11-17 01:00:00 UTC,Unknown
+283,Dottie,84,true,2013-11-17 01:00:00 UTC,Unknown
+283,Dad,53,false,2013-11-17 01:00:00 UTC,Unknown
+283,Becky,50,false,2013-11-17 01:00:00 UTC,Unknown
+284,Randy,64,false,2013-11-17 02:00:00 UTC,Unknown
+284,Dottie,65,false,2013-11-17 02:00:00 UTC,Unknown
+284,Dad,56,false,2013-11-17 02:00:00 UTC,Unknown
+284,Becky,67,true,2013-11-17 02:00:00 UTC,Unknown
+285,Randy,69,true,2013-12-29 18:30:00 UTC,Unknown
+285,Aaron,58,false,2013-12-29 18:30:00 UTC,Unknown
+285,Elizabeth,63,false,2013-12-29 18:30:00 UTC,Unknown
+286,Randy,40,false,2013-12-29 19:30:00 UTC,Unknown
+286,Aaron,57,false,2013-12-29 19:30:00 UTC,Unknown
+286,Elizabeth,63,true,2013-12-29 19:30:00 UTC,Unknown
+287,Randy,52,false,2013-12-29 20:30:00 UTC,Unknown
+287,Aaron,67,true,2013-12-29 20:30:00 UTC,Unknown
+287,Elizabeth,59,false,2013-12-29 20:30:00 UTC,Unknown
+288,Randy,66,false,2014-01-11 23:30:00 UTC,Unknown
+288,Dottie,69,true,2014-01-11 23:30:00 UTC,Unknown
+288,Dad,57,false,2014-01-11 23:30:00 UTC,Unknown
+288,Becky,56,false,2014-01-11 23:30:00 UTC,Unknown
+289,Randy,53,false,2014-01-12 00:30:00 UTC,Unknown
+289,Dottie,64,false,2014-01-12 00:30:00 UTC,Unknown
+289,Dad,72,true,2014-01-12 00:30:00 UTC,Unknown
+289,Becky,41,false,2014-01-12 00:30:00 UTC,Unknown
+290,Randy,54,false,2014-01-12 01:00:00 UTC,Unknown
+290,Dottie,52,false,2014-01-12 01:00:00 UTC,Unknown
+290,Dad,59,true,2014-01-12 01:00:00 UTC,Unknown
+290,Becky,50,false,2014-01-12 01:00:00 UTC,Unknown
+291,Randy,62,true,2014-01-12 01:30:00 UTC,Unknown
+291,Dottie,43,false,2014-01-12 01:30:00 UTC,Unknown
+291,Dad,52,false,2014-01-12 01:30:00 UTC,Unknown
+291,Becky,59,false,2014-01-12 01:30:00 UTC,Unknown
+292,Randy,78,true,2014-02-01 23:00:00 UTC,Unknown
+292,Dottie,61,false,2014-02-01 23:00:00 UTC,Unknown
+292,Dad,66,false,2014-02-01 23:00:00 UTC,Unknown
+292,Becky,69,false,2014-02-01 23:00:00 UTC,Unknown
+293,Randy,58,false,2014-02-02 00:00:00 UTC,Unknown
+293,Dottie,62,true,2014-02-02 00:00:00 UTC,Unknown
+293,Dad,54,false,2014-02-02 00:00:00 UTC,Unknown
+293,Becky,50,false,2014-02-02 00:00:00 UTC,Unknown
+294,Randy,59,false,2014-02-08 22:00:00 UTC,Unknown
+294,Dottie,61,true,2014-02-08 22:00:00 UTC,Unknown
+294,Dad,60,false,2014-02-08 22:00:00 UTC,Unknown
+294,Becky,44,false,2014-02-08 22:00:00 UTC,Unknown
+295,Randy,65,true,2014-02-08 23:00:00 UTC,Unknown
+295,Dottie,64,false,2014-02-08 23:00:00 UTC,Unknown
+295,Dad,59,false,2014-02-08 23:00:00 UTC,Unknown
+295,Becky,53,false,2014-02-08 23:00:00 UTC,Unknown
+296,Randy,63,false,2014-02-09 00:00:00 UTC,Unknown
+296,Dottie,73,true,2014-02-09 00:00:00 UTC,Unknown
+296,Dad,67,false,2014-02-09 00:00:00 UTC,Unknown
+296,Becky,63,false,2014-02-09 00:00:00 UTC,Unknown
+297,Randy,53,false,2014-02-09 01:00:00 UTC,Unknown
+297,Dottie,78,true,2014-02-09 01:00:00 UTC,Unknown
+297,Dad,71,false,2014-02-09 01:00:00 UTC,Unknown
+297,Becky,63,false,2014-02-09 01:00:00 UTC,Unknown
+298,Randy,57,false,2014-02-22 23:00:00 UTC,Unknown
+298,Dad,63,true,2014-02-22 23:00:00 UTC,Unknown
+299,Randy,63,false,2014-02-23 00:00:00 UTC,Unknown
+299,Dad,70,true,2014-02-23 00:00:00 UTC,Unknown
+300,Randy,55,true,2014-02-23 01:00:00 UTC,Unknown
+300,Dad,46,false,2014-02-23 01:00:00 UTC,Unknown
+301,Randy,65,true,2014-02-23 02:00:00 UTC,Unknown
+301,Dad,55,false,2014-02-23 02:00:00 UTC,Unknown
+302,Randy,63,false,2014-03-01 23:00:00 UTC,Unknown
+302,Dad,78,true,2014-03-01 23:00:00 UTC,Unknown
+302,Dottie,66,false,2014-03-01 23:00:00 UTC,Unknown
+303,Randy,64,false,2014-03-02 00:00:00 UTC,Unknown
+303,Dad,66,false,2014-03-02 00:00:00 UTC,Unknown
+303,Dottie,69,true,2014-03-02 00:00:00 UTC,Unknown
+304,Randy,68,false,2014-03-02 01:00:00 UTC,Unknown
+304,Dad,59,false,2014-03-02 01:00:00 UTC,Unknown
+304,Dottie,79,true,2014-03-02 01:00:00 UTC,Unknown
+305,Randy,64,false,2014-03-02 02:00:00 UTC,Unknown
+305,Dad,54,false,2014-03-02 02:00:00 UTC,Unknown
+305,Dottie,79,true,2014-03-02 02:00:00 UTC,Unknown
+306,Randy,47,false,2014-03-08 23:00:00 UTC,Unknown
+306,Dad,81,true,2014-03-08 23:00:00 UTC,Unknown
+307,Randy,67,true,2014-03-09 00:00:00 UTC,Unknown
+307,Dad,67,true,2014-03-09 00:00:00 UTC,Unknown
+308,Randy,75,true,2014-03-09 01:00:00 UTC,Unknown
+308,Dad,64,false,2014-03-09 01:00:00 UTC,Unknown
+309,Randy,58,false,2014-03-09 01:30:00 UTC,Unknown
+309,Dad,61,true,2014-03-09 01:30:00 UTC,Unknown
+310,Randy,78,true,2014-03-15 23:30:00 UTC,Unknown
+310,Dad,68,false,2014-03-15 23:30:00 UTC,Unknown
+310,Dottie,73,false,2014-03-15 23:30:00 UTC,Unknown
+311,Randy,69,true,2014-03-16 00:30:00 UTC,Unknown
+311,Dad,68,false,2014-03-16 00:30:00 UTC,Unknown
+311,Dottie,68,false,2014-03-16 00:30:00 UTC,Unknown
+312,Randy,68,true,2014-03-16 01:30:00 UTC,Unknown
+312,Dottie,62,false,2014-03-16 01:30:00 UTC,Unknown
+312,Dad,59,false,2014-03-16 01:30:00 UTC,Unknown
+312,Becky,63,false,2014-03-16 01:30:00 UTC,Unknown
+313,Randy,70,true,2014-03-16 02:30:00 UTC,Unknown
+313,Dottie,61,false,2014-03-16 02:30:00 UTC,Unknown
+313,Dad,65,false,2014-03-16 02:30:00 UTC,Unknown
+313,Becky,56,false,2014-03-16 02:30:00 UTC,Unknown
+314,Randy,64,false,2014-05-24 23:00:00 UTC,Unknown
+314,Dad,74,true,2014-05-24 23:00:00 UTC,Unknown
+314,Dottie,67,false,2014-05-24 23:00:00 UTC,Unknown
+315,Randy,68,true,2014-05-25 00:00:00 UTC,Unknown
+315,Dad,55,false,2014-05-25 00:00:00 UTC,Unknown
+315,Dottie,63,false,2014-05-25 00:00:00 UTC,Unknown
+316,Randy,62,false,2014-05-25 01:00:00 UTC,Unknown
+316,Dad,67,false,2014-05-25 01:00:00 UTC,Unknown
+316,Dottie,55,false,2014-05-25 01:00:00 UTC,Unknown
+316,Becky,76,true,2014-05-25 01:00:00 UTC,Unknown
+317,Randy,70,true,2014-05-25 02:00:00 UTC,Unknown
+317,Dad,55,false,2014-05-25 02:00:00 UTC,Unknown
+317,Dottie,51,false,2014-05-25 02:00:00 UTC,Unknown
+317,Becky,61,false,2014-05-25 02:00:00 UTC,Unknown
+318,Randy,63,false,2014-06-07 23:00:00 UTC,Unknown
+318,Dad,60,false,2014-06-07 23:00:00 UTC,Unknown
+318,Dottie,66,true,2014-06-07 23:00:00 UTC,Unknown
+319,Randy,56,false,2014-06-08 00:00:00 UTC,Unknown
+319,Dad,68,false,2014-06-08 00:00:00 UTC,Unknown
+319,Dottie,72,true,2014-06-08 00:00:00 UTC,Unknown
+320,Randy,73,false,2014-06-08 01:00:00 UTC,Unknown
+320,Dad,76,true,2014-06-08 01:00:00 UTC,Unknown
+320,Dottie,54,false,2014-06-08 01:00:00 UTC,Unknown
+321,Randy,62,false,2014-06-08 02:00:00 UTC,Unknown
+321,Dad,60,false,2014-06-08 02:00:00 UTC,Unknown
+321,Dottie,79,true,2014-06-08 02:00:00 UTC,Unknown
+322,Randy,67,true,2014-06-14 23:00:00 UTC,Unknown
+322,Dottie,70,false,2014-06-14 23:00:00 UTC,Unknown
+322,Dad,67,true,2014-06-14 23:00:00 UTC,Unknown
+322,Tausha,52,false,2014-06-14 23:00:00 UTC,Ephesos - A
+323,Randy,65,false,2014-06-15 00:00:00 UTC,Unknown
+323,Dottie,75,true,2014-06-15 00:00:00 UTC,Unknown
+323,Dad,65,false,2014-06-15 00:00:00 UTC,Unknown
+324,Randy,64,false,2014-06-15 23:00:00 UTC,Unknown
+324,Dottie,76,false,2014-06-15 23:00:00 UTC,Unknown
+324,Dad,82,true,2014-06-15 23:00:00 UTC,Unknown
+324,Tausha,79,false,2014-06-15 23:00:00 UTC,Manneken Pis - B
+325,Randy,61,false,2014-06-16 00:00:00 UTC,Unknown
+325,Dottie,62,true,2014-06-16 00:00:00 UTC,Unknown
+325,Dad,58,false,2014-06-16 00:00:00 UTC,Unknown
+325,Tausha,61,false,2014-06-16 00:00:00 UTC,Stonehenge - B
+326,Randy,67,true,2014-06-21 23:00:00 UTC,Unknown
+326,Dottie,64,false,2014-06-21 23:00:00 UTC,Unknown
+326,Dad,66,false,2014-06-21 23:00:00 UTC,Unknown
+326,Becky,66,false,2014-06-21 23:00:00 UTC,Unknown
+327,Randy,49,false,2014-06-22 00:00:00 UTC,Unknown
+327,Dottie,73,false,2014-06-22 00:00:00 UTC,Unknown
+327,Dad,64,false,2014-06-22 00:00:00 UTC,Unknown
+327,Becky,81,true,2014-06-22 00:00:00 UTC,Unknown
+327,Tausha,62,false,2014-06-22 00:00:00 UTC,Byzantium - A
+327,Jarrod,49,false,2014-06-22 00:00:00 UTC,Gizah - B
+328,Randy,83,true,2014-06-22 01:00:00 UTC,Unknown
+328,Dottie,66,false,2014-06-22 01:00:00 UTC,Unknown
+328,Dad,59,false,2014-06-22 01:00:00 UTC,Unknown
+328,Becky,66,false,2014-06-22 01:00:00 UTC,Unknown
+328,Tausha,53,false,2014-06-22 01:00:00 UTC,Olympia - A
+328,Jarrod,62,false,2014-06-22 01:00:00 UTC,Rhodos - A
+329,Randy,67,false,2014-07-05 22:00:00 UTC,Unknown
+329,Dottie,75,true,2014-07-05 22:00:00 UTC,Unknown
+329,Dad,62,false,2014-07-05 22:00:00 UTC,Unknown
+329,Becky,50,false,2014-07-05 22:00:00 UTC,Unknown
+330,Randy,65,false,2014-07-07 23:00:00 UTC,Unknown
+330,Dad,75,true,2014-07-07 23:00:00 UTC,Unknown
+331,Randy,59,false,2014-07-19 23:00:00 UTC,Unknown
+331,Dottie,64,false,2014-07-19 23:00:00 UTC,Unknown
+331,Dad,75,true,2014-07-19 23:00:00 UTC,Unknown
+331,Becky,49,false,2014-07-19 23:00:00 UTC,Unknown
+332,Randy,63,false,2014-07-20 00:00:00 UTC,Unknown
+332,Dottie,114,true,2014-07-20 00:00:00 UTC,Unknown
+332,Dad,70,false,2014-07-20 00:00:00 UTC,Unknown
+332,Becky,82,false,2014-07-20 00:00:00 UTC,Unknown
+333,Randy,61,false,2014-07-20 01:00:00 UTC,Unknown
+333,Dottie,64,false,2014-07-20 01:00:00 UTC,Unknown
+333,Dad,50,false,2014-07-20 01:00:00 UTC,Unknown
+333,Becky,67,true,2014-07-20 01:00:00 UTC,Unknown
+334,Randy,63,false,2014-07-20 02:00:00 UTC,Unknown
+334,Dottie,71,false,2014-07-20 02:00:00 UTC,Unknown
+334,Dad,90,true,2014-07-20 02:00:00 UTC,Unknown
+334,Becky,66,false,2014-07-20 02:00:00 UTC,Unknown
+335,Ashley,53,false,2014-08-09 23:00:00 UTC,Unknown
+335,Becky,37,false,2014-08-09 23:00:00 UTC,Unknown
+335,Jordan,51,false,2014-08-09 23:00:00 UTC,Unknown
+335,Randy,48,false,2014-08-09 23:00:00 UTC,Unknown
+335,Dottie,41,false,2014-08-09 23:00:00 UTC,Unknown
+335,Dad,49,false,2014-08-09 23:00:00 UTC,Unknown
+335,Tausha,42,false,2014-08-09 23:00:00 UTC,Abu Simbel - A
+335,Jarrod,54,true,2014-08-09 23:00:00 UTC,Alexandria - B
+336,Randy,81,true,2014-08-30 23:00:00 UTC,Unknown
+336,Dad,68,false,2014-08-30 23:00:00 UTC,Unknown
+336,Dottie,63,false,2014-08-30 23:00:00 UTC,Unknown
+337,Randy,69,false,2014-08-31 00:00:00 UTC,Unknown
+337,Dottie,50,false,2014-08-31 00:00:00 UTC,Unknown
+337,Dad,62,false,2014-08-31 00:00:00 UTC,Unknown
+337,Becky,77,true,2014-08-31 00:00:00 UTC,Unknown
+338,Randy,71,false,2014-08-31 01:00:00 UTC,Unknown
+338,Dottie,45,false,2014-08-31 01:00:00 UTC,Unknown
+338,Dad,95,true,2014-08-31 01:00:00 UTC,Unknown
+338,Becky,68,false,2014-08-31 01:00:00 UTC,Unknown
+339,Randy,68,false,2014-08-31 02:00:00 UTC,Unknown
+339,Dottie,75,true,2014-08-31 02:00:00 UTC,Unknown
+339,Dad,56,false,2014-08-31 02:00:00 UTC,Unknown
+339,Becky,54,false,2014-08-31 02:00:00 UTC,Unknown
+340,Dottie,61,false,2014-09-06 23:00:00 UTC,Unknown
+340,Dad,50,false,2014-09-06 23:00:00 UTC,Unknown
+340,Becky,67,true,2014-09-06 23:00:00 UTC,Unknown
+340,Randy,67,true,2014-09-06 23:00:00 UTC,Unknown
+341,Randy,56,false,2014-09-07 00:00:00 UTC,Unknown
+341,Dottie,51,false,2014-09-07 00:00:00 UTC,Unknown
+341,Dad,81,true,2014-09-07 00:00:00 UTC,Unknown
+341,Becky,57,false,2014-09-07 00:00:00 UTC,Unknown
+342,Randy,68,false,2014-09-07 01:00:00 UTC,Unknown
+342,Dottie,64,false,2014-09-07 01:00:00 UTC,Unknown
+342,Dad,78,true,2014-09-07 01:00:00 UTC,Unknown
+342,Becky,65,false,2014-09-07 01:00:00 UTC,Unknown
+343,Randy,77,true,2014-09-13 23:00:00 UTC,Unknown
+343,Dottie,74,false,2014-09-13 23:00:00 UTC,Unknown
+343,Dad,64,false,2014-09-13 23:00:00 UTC,Unknown
+343,Tausha,72,false,2014-09-13 23:00:00 UTC,Halikarnassos - B
+343,Becky,42,false,2014-09-13 23:00:00 UTC,Unknown
+343,Ashley,63,false,2014-09-13 23:00:00 UTC,Unknown
+343,Ryan,62,false,2014-09-13 23:00:00 UTC,Babylon - A
+344,Randy,70,false,2014-09-14 00:00:00 UTC,Unknown
+344,Dottie,61,false,2014-09-14 00:00:00 UTC,Unknown
+344,Dad,47,false,2014-09-14 00:00:00 UTC,Unknown
+344,Becky,62,false,2014-09-14 00:00:00 UTC,Unknown
+344,Tausha,62,false,2014-09-14 00:00:00 UTC,Roma - B
+344,Ashley,55,false,2014-09-14 00:00:00 UTC,Unknown
+344,Ryan,89,true,2014-09-14 00:00:00 UTC,Unknown
+345,Randy,67,true,2014-09-20 21:00:00 UTC,Unknown
+345,Dottie,51,false,2014-09-20 21:00:00 UTC,Unknown
+345,Dad,64,false,2014-09-20 21:00:00 UTC,Unknown
+345,Tausha,53,false,2014-09-20 21:00:00 UTC,Manneken Pis - A
+345,Ashley,64,false,2014-09-20 21:00:00 UTC,Unknown
+345,Ryan,54,false,2014-09-20 21:00:00 UTC,Ephesos - B
+346,Randy,78,true,2014-09-27 22:30:00 UTC,Unknown
+346,Dottie,58,false,2014-09-27 22:30:00 UTC,Unknown
+346,Dad,61,false,2014-09-27 22:30:00 UTC,Unknown
+346,Tausha,52,false,2014-09-27 22:30:00 UTC,Alexandria - B
+346,Becky,43,false,2014-09-27 22:30:00 UTC,Unknown
+346,Ashley,72,false,2014-09-27 22:30:00 UTC,Unknown
+346,Ryan,67,false,2014-09-27 22:30:00 UTC,Halikarnassos - A
+347,Randy,66,false,2014-09-27 23:30:00 UTC,Unknown
+347,Dottie,69,true,2014-09-27 23:30:00 UTC,Unknown
+347,Dad,60,false,2014-09-27 23:30:00 UTC,Unknown
+347,Tausha,46,false,2014-09-27 23:30:00 UTC,Rhodos - B
+347,Becky,50,false,2014-09-27 23:30:00 UTC,Unknown
+347,Ashley,68,false,2014-09-27 23:30:00 UTC,Unknown
+347,Ryan,66,false,2014-09-27 23:30:00 UTC,Olympia - B
+348,Randy,58,false,2014-10-13 22:30:00 UTC,Unknown
+348,Ashley,48,false,2014-10-13 22:30:00 UTC,Unknown
+348,Tausha,54,false,2014-10-13 22:30:00 UTC,Rhodos - A
+348,Jarrod,80,false,2014-10-13 22:30:00 UTC,Manneken Pis - B
+348,Ryan,88,true,2014-10-13 22:30:00 UTC,Unknown
+349,Randy,46,false,2014-10-13 23:30:00 UTC,Unknown
+349,Ashley,79,false,2014-10-13 23:30:00 UTC,Unknown
+349,Tausha,54,false,2014-10-13 23:30:00 UTC,Alexandria - A
+349,Jarrod,83,true,2014-10-13 23:30:00 UTC,Unknown
+349,Ryan,58,false,2014-10-13 23:30:00 UTC,Stonehenge - A
+350,Randy,64,false,2014-10-18 22:30:00 UTC,Unknown
+350,Dottie,64,false,2014-10-18 22:30:00 UTC,Unknown
+350,Dad,58,false,2014-10-18 22:30:00 UTC,Unknown
+350,Tausha,83,true,2014-10-18 22:30:00 UTC,Gizah - B
+350,Jarrod,76,false,2014-10-18 22:30:00 UTC,Alexandria - A
+350,Ashley,68,false,2014-10-18 22:30:00 UTC,Unknown
+350,Ryan,44,false,2014-10-18 22:30:00 UTC,Abu Simbel - B
+351,Randy,66,false,2014-10-18 23:30:00 UTC,Unknown
+351,Dottie,75,false,2014-10-18 23:30:00 UTC,Unknown
+351,Dad,61,false,2014-10-18 23:30:00 UTC,Unknown
+351,Tausha,58,false,2014-10-18 23:30:00 UTC,Petra - B
+351,Jarrod,66,false,2014-10-18 23:30:00 UTC,Olympia - A
+351,Ashley,85,true,2014-10-18 23:30:00 UTC,Unknown
+351,Ryan,67,false,2014-10-18 23:30:00 UTC,Byzantium - B
+352,Randy,70,false,2014-10-19 00:30:00 UTC,Unknown
+352,Dottie,66,false,2014-10-19 00:30:00 UTC,Unknown
+352,Dad,96,true,2014-10-19 00:30:00 UTC,Unknown
+352,Tausha,67,false,2014-10-19 00:30:00 UTC,Gizah - A
+352,Jarrod,73,false,2014-10-19 00:30:00 UTC,Ephesos - A
+352,Ashley,75,false,2014-10-19 00:30:00 UTC,Unknown
+352,Ryan,47,false,2014-10-19 00:30:00 UTC,The Great Wall - B
+353,Randy,57,false,2014-10-24 22:30:00 UTC,Unknown
+353,Ryan,61,false,2014-10-24 22:30:00 UTC,Petra - A
+353,Ashley,76,true,2014-10-24 22:30:00 UTC,Unknown
+354,Randy,71,false,2014-10-24 23:00:00 UTC,Unknown
+354,Ryan,56,false,2014-10-24 23:00:00 UTC,Roma - A
+354,Ashley,98,true,2014-10-24 23:00:00 UTC,Unknown
+355,Randy,46,false,2014-10-24 23:30:00 UTC,Unknown
+355,Ryan,63,false,2014-10-24 23:30:00 UTC,Babylon - B
+355,Ashley,80,true,2014-10-24 23:30:00 UTC,Unknown
+356,Randy,80,false,2014-10-25 00:00:00 UTC,Unknown
+356,Ryan,56,false,2014-10-25 00:00:00 UTC,The Great Wall - A
+356,Ashley,83,true,2014-10-25 00:00:00 UTC,Unknown
+357,Randy,56,true,2014-10-25 00:30:00 UTC,Unknown
+357,Ryan,51,false,2014-10-25 00:30:00 UTC,Petra - B
+357,Ashley,52,false,2014-10-25 00:30:00 UTC,Unknown
+358,Randy,60,false,2014-10-25 01:00:00 UTC,Unknown
+358,Ryan,62,false,2014-10-25 01:00:00 UTC,Abu Simbel - A
+358,Ashley,69,true,2014-10-25 01:00:00 UTC,Unknown
+359,Randy,84,true,2014-10-25 01:30:00 UTC,Unknown
+359,Ryan,68,false,2014-10-25 01:30:00 UTC,Gizah - A
+359,Ashley,79,false,2014-10-25 01:30:00 UTC,Unknown
+360,Randy,67,false,2014-10-25 02:00:00 UTC,Unknown
+360,Ryan,76,true,2014-10-25 02:00:00 UTC,Unknown
+360,Ashley,73,false,2014-10-25 02:00:00 UTC,Unknown
+361,Randy,68,true,2014-10-25 02:30:00 UTC,Unknown
+361,Ryan,46,false,2014-10-25 02:30:00 UTC,Olympia - A
+361,Ashley,58,false,2014-10-25 02:30:00 UTC,Unknown
+362,Randy,67,false,2014-10-25 03:00:00 UTC,Unknown
+3262,Ashley,67,false,2014-10-25 03:00:00 UTC,Unknown
+362,Tausha,64,false,2014-10-24 22:00:00 UTC,Unknown
+362,Jarrod,91,true,2014-10-25 03:00:00 UTC,Roma - B
+362,Ryan,51,false,2014-10-24 22:00:00 UTC,Alexandria - A
+363,Randy,68,false,2014-10-25 21:30:00 UTC,Unknown
+363,Dottie,67,false,2014-10-25 21:30:00 UTC,Unknown
+363,Ashley,73,true,2014-10-25 21:30:00 UTC,Unknown
+363,Dad,70,false,2014-10-25 21:30:00 UTC,Unknown
+363,Ryan,57,false,2014-10-25 21:30:00 UTC,Halikarnassos - B
+364,Randy,52,false,2014-10-25 22:30:00 UTC,Unknown
+364,Dottie,62,false,2014-10-25 22:30:00 UTC,Unknown
+364,Dad,36,false,2014-10-25 22:30:00 UTC,Unknown
+364,Tausha,51,false,2014-10-25 22:30:00 UTC,Unknown
+364,Jarrod,76,false,2014-10-25 22:30:00 UTC,Stonehenge - B
+364,Ashley,89,true,2014-10-25 22:30:00 UTC,Unknown
+364,Ryan,55,false,2014-10-25 22:30:00 UTC,Stonehenge - B
+365,Randy,70,false,2014-10-25 23:30:00 UTC,Unknown
+365,Dottie,68,false,2014-10-25 23:30:00 UTC,Unknown
+365,Dad,66,false,2014-10-25 23:30:00 UTC,Unknown
+365,Tausha,83,true,2014-10-25 23:30:00 UTC,Unknown
+365,Ashley,60,false,2014-10-25 23:30:00 UTC,Unknown
+365,Ryan,38,false,2014-10-25 23:30:00 UTC,Gizah - B
+365,Jarrod,74,false,2014-10-25 23:30:00 UTC,Byzantium - A
+366,Randy,52,false,2014-11-16 02:00:00 UTC,Unknown
+366,Ashley,79,true,2014-11-16 02:00:00 UTC,Unknown
+366,Ryan,60,false,2014-11-16 02:00:00 UTC,Roma - B
+366,Jarrod,56,false,2014-11-16 02:00:00 UTC,Manneken Pis - A
+366,Tausha,70,false,2014-11-16 02:00:00 UTC,Unknown
+367,Randy,59,false,2014-11-16 02:30:00 UTC,Unknown
+367,Ashley,66,false,2014-11-16 02:30:00 UTC,Unknown
+367,Ryan,79,true,2014-11-16 02:30:00 UTC,Unknown
+367,Jarrod,61,false,2014-11-16 02:30:00 UTC,Rhodos - B
+367,Tausha,51,false,2014-11-16 02:30:00 UTC,Unknown
+368,Randy,62,false,2014-11-16 03:00:00 UTC,Unknown
+368,Ashley,81,false,2014-11-16 03:00:00 UTC,Unknown
+368,Ryan,91,true,2014-11-16 03:00:00 UTC,Unknown
+368,Jarrod,73,false,2014-11-16 03:00:00 UTC,Halikarnassos - B
+368,Tausha,66,false,2014-11-16 03:00:00 UTC,Unknown
+369,Randy,43,false,2014-11-16 03:30:00 UTC,Unknown
+369,Ashley,57,false,2014-11-16 03:30:00 UTC,Unknown
+369,Ryan,53,false,2014-11-16 03:30:00 UTC,Manneken Pis - B
+369,Jarrod,49,false,2014-11-16 03:30:00 UTC,Unknown
+369,Tausha,67,true,2014-11-16 03:30:00 UTC,Unknown
+370,Randy,56,false,2014-11-29 22:00:00 UTC,Unknown
+370,Dottie,64,false,2014-11-29 22:00:00 UTC,Unknown
+370,Dad,90,true,2014-11-29 22:00:00 UTC,Unknown
+370,Tausha,50,false,2014-11-29 22:00:00 UTC,Unknown
+370,Becky,32,false,2014-11-29 22:00:00 UTC,Unknown
+370,Ashley,84,false,2014-11-29 22:00:00 UTC,Unknown
+370,Ryan,78,false,2014-11-29 22:00:00 UTC,Ephesos - A
+371,Randy,69,false,2014-11-29 23:00:00 UTC,Unknown
+371,Dottie,80,true,2014-11-29 23:00:00 UTC,Unknown
+371,Dad,70,false,2014-11-29 23:00:00 UTC,Unknown
+371,Tausha,73,false,2014-11-29 23:00:00 UTC,Unknown
+371,Becky,45,false,2014-11-29 23:00:00 UTC,Unknown
+371,Ashley,69,false,2014-11-29 23:00:00 UTC,Unknown
+371,Ryan,71,false,2014-11-29 23:00:00 UTC,Byzantium - A
+372,Randy,46,false,2014-11-30 00:00:00 UTC,Unknown
+372,Dottie,78,true,2014-11-30 00:00:00 UTC,Unknown
+372,Dad,43,false,2014-11-30 00:00:00 UTC,Unknown
+372,Tausha,58,false,2014-11-30 00:00:00 UTC,Unknown
+372,Becky,62,false,2014-11-30 00:00:00 UTC,Unknown
+372,Ashley,74,false,2014-11-30 00:00:00 UTC,Unknown
+372,Ryan,65,false,2014-11-30 00:00:00 UTC,Manneken Pis - A
+373,Randy,56,false,2014-11-30 01:00:00 UTC,Unknown
+373,Dad,58,false,2014-11-30 01:00:00 UTC,Unknown
+373,Tausha,58,false,2014-11-30 01:00:00 UTC,Unknown
+373,Ashley,61,false,2014-11-30 01:00:00 UTC,Unknown
+373,Ryan,64,true,2014-11-30 01:00:00 UTC,Unknown
+374,Randy,61,false,2014-12-27 22:00:00 UTC,Unknown
+374,Kelly,52,false,2014-12-27 22:00:00 UTC,Unknown
+374,Brandon,73,false,2014-12-27 22:00:00 UTC,Unknown
+374,Logan,70,false,2014-12-27 22:00:00 UTC,Unknown
+374,Aaron,88,true,2014-12-27 22:00:00 UTC,Unknown
+375,Randy,61,false,2014-12-27 23:00:00 UTC,Unknown
+375,Kelly,63,true,2014-12-27 23:00:00 UTC,Unknown
+375,Brandon,57,false,2014-12-27 23:00:00 UTC,Unknown
+375,Logan,43,false,2014-12-27 23:00:00 UTC,Unknown
+375,Aaron,60,false,2014-12-27 23:00:00 UTC,Unknown
+376,Randy,63,false,2014-12-29 17:00:00 UTC,Unknown
+376,Aaron,80,true,2014-12-29 17:00:00 UTC,Unknown
+377,Randy,61,false,2015-01-04 02:00:00 UTC,Unknown
+377,Ryan,88,true,2015-01-04 02:00:00 UTC,Unknown
+377,Ashley,73,false,2015-01-04 02:00:00 UTC,Unknown
+377,Tausha,70,false,2015-01-04 02:00:00 UTC,Unknown
+378,Randy,42,false,2015-01-04 22:30:00 UTC,Unknown
+378,Ryan,68,false,2015-01-04 22:30:00 UTC,Rhodos - A
+378,Ashley,72,true,2015-01-04 22:30:00 UTC,Unknown
+378,Jarrod,61,false,2015-01-04 22:30:00 UTC,Unknown
+378,Tausha,66,false,2015-01-04 22:30:00 UTC,Unknown
+379,Randy,61,false,2015-01-04 23:30:00 UTC,Unknown
+379,Ryan,35,false,2015-01-04 23:30:00 UTC,Rhodos - B
+379,Ashley,60,false,2015-01-04 23:30:00 UTC,Unknown
+379,Jarrod,72,true,2015-01-04 23:30:00 UTC,Unknown
+379,Tausha,52,false,2015-01-04 23:30:00 UTC,Unknown
+380,Randy,68,false,2015-01-05 00:30:00 UTC,Unknown
+380,Ryan,63,false,2015-01-05 00:30:00 UTC,Alexandria - B
+380,Ashley,48,false,2015-01-05 00:30:00 UTC,Unknown
+380,Jarrod,75,true,2015-01-05 00:30:00 UTC,Unknown
+380,Tausha,60,false,2015-01-05 00:30:00 UTC,Unknown
+381,Randy,69,false,2015-01-05 23:30:00 UTC,Unknown
+381,Ryan,53,false,2015-01-05 23:30:00 UTC,Unknown
+381,Ashley,56,false,2015-01-05 23:30:00 UTC,Unknown
+381,Jarrod,76,true,2015-01-05 23:30:00 UTC,Unknown
+382,Randy,56,false,2015-01-06 00:30:00 UTC,Unknown
+382,Ryan,61,false,2015-01-06 00:30:00 UTC,Unknown
+382,Ashley,72,false,2015-01-06 00:30:00 UTC,Unknown
+382,Jarrod,92,true,2015-01-06 00:30:00 UTC,Unknown
+383,Randy,57,false,2015-01-16 22:30:00 UTC,Unknown
+383,Dottie,47,false,2015-01-16 22:30:00 UTC,Unknown
+383,Dad,50,false,2015-01-16 22:30:00 UTC,Unknown
+383,Becky,50,false,2015-01-16 22:30:00 UTC,Unknown
+383,Ashley,62,true,2015-01-16 22:30:00 UTC,Unknown
+383,Ryan,56,false,2015-01-16 22:30:00 UTC,Unknown
+384,Randy,69,false,2015-01-16 23:30:00 UTC,Unknown
+384,Dottie,70,true,2015-01-16 23:30:00 UTC,Unknown
+384,Dad,59,false,2015-01-16 23:30:00 UTC,Unknown
+384,Becky,63,false,2015-01-16 23:30:00 UTC,Unknown
+384,Ashley,61,false,2015-01-05 23:30:00 UTC,Unknown
+384,Ryan,58,false,2015-01-16 23:30:00 UTC,Unknown
+385,Randy,59,false,2015-01-17 00:30:00 UTC,Unknown
+385,Dottie,74,false,2015-01-17 00:30:00 UTC,Unknown
+385,Dad,83,true,2015-01-17 00:30:00 UTC,Unknown
+385,Becky,64,false,2015-01-17 00:30:00 UTC,Unknown
+385,Ashley,72,false,2015-01-17 00:30:00 UTC,Unknown
+385,Ryan,79,false,2015-01-17 00:30:00 UTC,Unknown
+386,Randy,64,false,2015-01-17 22:30:00 UTC,Unknown
+386,Tausha,46,false,2015-01-17 22:30:00 UTC,Unknown
+386,Jarrod,47,false,2015-01-17 22:30:00 UTC,Unknown
+386,Ashley,80,true,2015-01-17 22:30:00 UTC,Unknown
+387,Randy,63,false,2015-01-17 23:30:00 UTC,Unknown
+387,Tausha,44,false,2015-01-17 23:30:00 UTC,Unknown
+387,Jarrod,98,true,2015-01-17 23:30:00 UTC,Unknown
+387,Ashley,85,false,2015-01-17 23:30:00 UTC,Unknown
+388,Randy,63,false,2015-01-18 00:30:00 UTC,Unknown
+388,Tausha,55,false,2015-01-18 00:30:00 UTC,Unknown
+388,Jarrod,75,false,2015-01-18 00:30:00 UTC,Unknown
+388,Ashley,94,true,2015-01-18 00:30:00 UTC,Unknown
+389,Tausha,70,false,2015-01-19 23:00:00 UTC,Unknown
+389,Jarrod,111,true,2015-01-19 23:00:00 UTC,Unknown
+389,Ryan,61,false,2015-01-19 23:00:00 UTC,Unknown
+389,Ashley,96,false,2015-01-19 23:00:00 UTC,Unknown
+390,Ryan,64,false,2015-01-20 00:00:00 UTC,Unknown
+390,Ashley,72,true,2015-01-20 00:00:00 UTC,Unknown
+390,Jarrod,60,false,2015-01-20 00:00:00 UTC,Unknown
+390,Tausha,53,false,2015-01-20 00:00:00 UTC,Unknown
+391,Ryan,37,false,2015-01-20 01:00:00 UTC,Unknown
+391,Ashley,73,true,2015-01-20 01:00:00 UTC,Unknown
+391,Jarrod,71,false,2015-01-20 01:00:00 UTC,Unknown
+391,Tausha,49,false,2015-01-20 01:00:00 UTC,Unknown
+392,Randy,61,false,2015-01-31 21:30:00 UTC,Unknown
+392,Dottie,66,true,2015-01-31 21:30:00 UTC,Unknown
+392,Dad,46,false,2015-01-31 21:30:00 UTC,Unknown
+392,Tausha,56,false,2015-01-31 21:30:00 UTC,Unknown
+392,Jarrod,66,true,2015-01-31 21:30:00 UTC,Unknown
+392,Ashley,60,false,2015-01-31 21:30:00 UTC,Unknown
+392,Ryan,56,false,2015-01-31 21:30:00 UTC,Unknown
+393,Randy,78,false,2015-01-31 22:30:00 UTC,Unknown
+393,Dottie,71,false,2015-01-31 22:30:00 UTC,Unknown
+393,Dad,56,false,2015-01-31 22:30:00 UTC,Unknown
+393,Tausha,65,false,2015-01-31 22:30:00 UTC,Unknown
+393,Jarrod,89,true,2015-01-31 22:30:00 UTC,Unknown
+393,Ashley,56,false,2015-01-31 22:30:00 UTC,Unknown
+393,Ryan,67,false,2015-01-31 22:30:00 UTC,Unknown
+394,Tausha,48,false,2015-02-02 22:30:00 UTC,Unknown
+394,Jarrod,61,true,2015-02-02 22:30:00 UTC,Unknown
+394,Ashley,54,false,2015-02-02 22:30:00 UTC,Unknown
+394,Ryan,61,true,2015-02-02 22:30:00 UTC,Unknown
+395,Ashley,83,true,2015-02-08 01:00:00 UTC,Unknown
+395,Tausha,61,false,2015-02-08 01:00:00 UTC,Unknown
+395,Ryan,77,false,2015-02-08 01:00:00 UTC,Unknown
+396,Ashley,70,true,2015-02-08 02:00:00 UTC,Unknown
+396,Tausha,67,false,2015-02-08 02:00:00 UTC,Unknown
+396,Ryan,68,false,2015-02-08 02:00:00 UTC,Unknown
+397,Ashley,69,false,2015-02-10 00:30:00 UTC,Unknown
+397,Tausha,46,false,2015-02-10 00:30:00 UTC,Unknown
+397,Ryan,72,true,2015-02-10 00:30:00 UTC,Unknown
+398,Ashley,65,true,2015-02-10 01:30:00 UTC,Unknown
+398,Tausha,61,false,2015-02-10 01:30:00 UTC,Unknown
+398,Ryan,55,false,2015-02-10 01:30:00 UTC,Unknown
+399,Ashley,81,true,2015-02-10 02:30:00 UTC,Unknown
+399,Tausha,41,false,2015-02-10 02:30:00 UTC,Unknown
+399,Ryan,77,false,2015-02-10 02:30:00 UTC,Unknown
+400,Randy,65,true,2015-02-28 16:30:00 UTC,Unknown
+400,Bob,49,false,2015-02-28 16:30:00 UTC,Unknown
+400,Norman,34,false,2015-02-28 16:30:00 UTC,Unknown
+401,Ashley,79,true,2015-04-04 21:00:00 UTC,Unknown
+401,Ryan,70,false,2015-04-04 21:00:00 UTC,Unknown
+401,Randy,63,false,2015-04-04 21:00:00 UTC,Unknown
+401,Dad,53,false,2015-04-04 21:00:00 UTC,Unknown
+402,Ashley,76,false,2015-04-04 22:00:00 UTC,Unknown
+402,Ryan,78,true,2015-04-04 22:00:00 UTC,Unknown
+402,Randy,61,false,2015-04-04 22:00:00 UTC,Unknown
+402,Dad,78,true,2015-04-04 22:00:00 UTC,Unknown
+402,Tausha,61,false,2015-04-04 22:00:00 UTC,Unknown
+403,Ashley,62,false,2015-04-04 23:00:00 UTC,Unknown
+403,Ryan,76,false,2015-04-04 23:00:00 UTC,Unknown
+403,Randy,74,false,2015-04-04 23:00:00 UTC,Unknown
+403,Dad,80,true,2015-04-04 23:00:00 UTC,Unknown
+403,Tausha,53,false,2015-04-04 23:00:00 UTC,Unknown
+404,Ashley,78,false,2015-04-05 00:00:00 UTC,Unknown
+404,Ryan,50,false,2015-04-05 00:00:00 UTC,Unknown
+404,Randy,73,false,2015-04-05 00:00:00 UTC,Unknown
+404,Dad,86,true,2015-04-05 00:00:00 UTC,Unknown
+404,Tausha,68,false,2015-04-05 00:00:00 UTC,Unknown
+405,Ashley,43,false,2015-04-18 22:30:00 UTC,Unknown
+405,Ryan,54,false,2015-04-18 22:30:00 UTC,Unknown
+405,Randy,83,true,2015-04-18 22:30:00 UTC,Unknown
+405,Dottie,59,false,2015-04-18 22:30:00 UTC,Unknown
+405,Dad,81,false,2015-04-18 22:30:00 UTC,Unknown
+405,Tausha,64,false,2015-04-18 22:30:00 UTC,Unknown
+405,Becky,67,false,2015-04-18 22:30:00 UTC,Unknown
+406,Randy,70,false,2015-04-25 22:30:00 UTC,Unknown
+406,Dottie,58,false,2015-04-25 22:30:00 UTC,Unknown
+406,Dad,82,true,2015-04-25 22:30:00 UTC,Unknown
+406,Tausha,77,false,2015-04-25 22:30:00 UTC,Unknown
+406,Jarrod,79,false,2015-04-25 22:30:00 UTC,Unknown
+407,Randy,46,false,2015-04-25 23:30:00 UTC,Unknown
+407,Jarrod,59,false,2015-04-25 23:30:00 UTC,Unknown
+407,Tausha,66,true,2015-04-25 23:30:00 UTC,Unknown
+408,Randy,59,false,2015-04-26 00:30:00 UTC,Unknown
+408,Jarrod,64,false,2015-04-26 00:30:00 UTC,Unknown
+408,Tausha,80,true,2015-04-26 00:30:00 UTC,Unknown
+409,Ashley,64,false,2015-05-30 22:00:00 UTC,Unknown
+409,Ryan,53,false,2015-05-30 22:00:00 UTC,Unknown
+409,Randy,52,false,2015-05-30 22:00:00 UTC,Unknown
+409,Dottie,78,false,2015-05-30 22:00:00 UTC,Unknown
+409,Dad,69,false,2015-05-30 22:00:00 UTC,Unknown
+409,Tausha,86,false,2015-05-30 22:00:00 UTC,Unknown
+409,Jarrod,90,true,2015-05-30 22:00:00 UTC,Unknown
+410,Ashley,74,true,2015-06-15 21:30:00 UTC,Unknown
+410,Randy,73,false,2015-06-15 21:30:00 UTC,Unknown
+410,Dottie,73,false,2015-06-15 21:30:00 UTC,Unknown
+410,Dad,39,false,2015-06-15 21:30:00 UTC,Unknown
+411,Ashley,79,false,2015-06-15 22:30:00 UTC,Unknown
+411,Randy,63,false,2015-06-15 22:30:00 UTC,Unknown
+411,Dottie,86,true,2015-06-15 22:30:00 UTC,Unknown
+411,Dad,84,false,2015-06-15 22:30:00 UTC,Unknown
+412,Ashley,90,true,2015-06-15 23:30:00 UTC,Unknown
+412,Randy,71,false,2015-06-15 23:30:00 UTC,Unknown
+412,Dottie,85,false,2015-06-15 23:30:00 UTC,Unknown
+412,Dad,62,false,2015-06-15 23:30:00 UTC,Unknown
+413,Ashley,65,false,2015-06-16 00:30:00 UTC,Unknown
+413,Randy,53,false,2015-06-16 00:30:00 UTC,Unknown
+413,Dottie,71,false,2015-06-16 00:30:00 UTC,Unknown
+413,Dad,93,true,2015-06-16 00:30:00 UTC,Unknown
+414,Ashley,64,false,2015-06-20 21:30:00 UTC,Unknown
+414,Ryan,72,false,2015-06-20 21:30:00 UTC,Unknown
+414,Randy,80,true,2015-06-20 21:30:00 UTC,Unknown
+414,Dottie,62,false,2015-06-20 21:30:00 UTC,Unknown
+414,Dad,73,false,2015-06-20 21:30:00 UTC,Unknown
+415,Ashley,60,false,2015-06-20 22:30:00 UTC,Unknown
+415,Ryan,59,false,2015-06-20 22:30:00 UTC,Unknown
+415,Randy,68,true,2015-06-20 22:30:00 UTC,Unknown
+415,Dottie,61,false,2015-06-20 22:30:00 UTC,Unknown
+415,Dad,56,false,2015-06-20 22:30:00 UTC,Unknown
+416,Randy,69,false,2015-06-20 23:30:00 UTC,Unknown
+416,Dottie,78,true,2015-06-20 23:30:00 UTC,Unknown
+416,Dad,57,false,2015-06-20 23:30:00 UTC,Unknown
+416,Becky,55,false,2015-06-20 23:30:00 UTC,Unknown
+416,Jordan,49,false,2015-06-20 23:30:00 UTC,Unknown
+417,Ashley,69,false,2015-06-21 18:30:00 UTC,Unknown
+417,Jordan,56,false,2015-06-21 18:30:00 UTC,Unknown
+417,Becky,55,false,2015-06-21 18:30:00 UTC,Unknown
+417,Randy,62,false,2015-06-21 18:30:00 UTC,Unknown
+417,Dottie,81,true,2015-06-21 18:30:00 UTC,Unknown
+417,Dad,32,false,2015-06-21 18:30:00 UTC,Unknown
+418,Randy,64,false,2015-06-21 19:30:00 UTC,Unknown
+418,Dottie,59,false,2015-06-21 19:30:00 UTC,Unknown
+418,Dad,59,false,2015-06-21 19:30:00 UTC,Unknown
+418,Becky,66,false,2015-06-21 19:30:00 UTC,Unknown
+418,Jordan,78,true,2015-06-21 19:30:00 UTC,Unknown
+419,Ashley,64,false,2015-07-11 21:30:00 UTC,Unknown
+419,Jordan,50,false,2015-07-11 21:30:00 UTC,Unknown
+419,Randy,63,false,2015-07-11 21:30:00 UTC,Unknown
+419,Dottie,58,false,2015-07-11 21:30:00 UTC,Unknown
+419,Dad,87,true,2015-07-11 21:30:00 UTC,Unknown
+419,Tausha,52,false,2015-07-11 21:30:00 UTC,Unknown
+420,Ashley,56,false,2015-07-11 22:30:00 UTC,Unknown
+420,Jordan,42,false,2015-07-11 22:30:00 UTC,Unknown
+420,Randy,62,false,2015-07-11 22:30:00 UTC,Unknown
+420,Dottie,69,false,2015-07-11 22:30:00 UTC,Unknown
+420,Dad,76,true,2015-07-11 22:30:00 UTC,Unknown
+420,Tausha,65,false,2015-07-11 22:30:00 UTC,Unknown
+421,Ashley,73,false,2015-07-11 23:30:00 UTC,Unknown
+421,Jordan,58,false,2015-07-11 23:30:00 UTC,Unknown
+421,Randy,66,false,2015-07-11 23:30:00 UTC,Unknown
+421,Dottie,78,false,2015-07-11 23:30:00 UTC,Unknown
+421,Dad,88,true,2015-07-11 23:30:00 UTC,Unknown
+421,Tausha,85,false,2015-07-11 23:30:00 UTC,Unknown
+422,Ashley,64,false,2015-07-18 22:00:00 UTC,Unknown
+422,Jordan,67,false,2015-07-18 22:00:00 UTC,Unknown
+422,Randy,69,true,2015-07-18 22:00:00 UTC,Unknown
+422,Dottie,56,false,2015-07-18 22:00:00 UTC,Unknown
+422,Dad,49,false,2015-07-18 22:00:00 UTC,Unknown
+423,Ashley,70,false,2015-07-18 23:00:00 UTC,Unknown
+423,Jordan,50,false,2015-07-18 23:00:00 UTC,Unknown
+423,Randy,66,false,2015-07-18 23:00:00 UTC,Unknown
+423,Dottie,62,false,2015-07-18 23:00:00 UTC,Unknown
+423,Dad,77,true,2015-07-18 23:00:00 UTC,Unknown
+424,Ashley,84,false,2015-07-19 00:00:00 UTC,Unknown
+424,Becky,37,false,2015-07-19 00:00:00 UTC,Unknown
+424,Jordan,69,false,2015-07-19 00:00:00 UTC,Unknown
+424,Randy,54,false,2015-07-19 00:00:00 UTC,Unknown
+424,Dottie,66,false,2015-07-19 00:00:00 UTC,Unknown
+424,Dad,100,true,2015-07-19 00:00:00 UTC,Unknown
+425,Ashley,79,true,2015-07-25 21:00:00 UTC,Unknown
+425,Randy,76,false,2015-07-25 21:00:00 UTC,Unknown
+425,Jordan,73,false,2015-07-25 21:00:00 UTC,Unknown
+425,Dad,56,false,2015-07-25 21:00:00 UTC,Unknown
+426,Ashley,82,true,2015-07-25 22:00:00 UTC,Unknown
+426,Randy,59,false,2015-07-25 22:00:00 UTC,Unknown
+426,Jordan,72,false,2015-07-25 22:00:00 UTC,Unknown
+426,Dad,48,false,2015-07-25 22:00:00 UTC,Unknown
+427,Ashley,61,false,2015-07-25 23:00:00 UTC,Unknown
+427,Randy,55,false,2015-07-25 23:00:00 UTC,Unknown
+427,Jordan,81,true,2015-07-25 23:00:00 UTC,Unknown
+427,Dad,52,false,2015-07-25 23:00:00 UTC,Unknown
+428,Ashley,53,false,2015-07-26 00:00:00 UTC,Unknown
+428,Randy,62,false,2015-07-26 00:00:00 UTC,Unknown
+428,Jordan,71,true,2015-07-26 00:00:00 UTC,Unknown
+428,Dad,70,false,2015-07-26 00:00:00 UTC,Unknown
+428,Tausha,57,false,2015-07-26 00:00:00 UTC,Unknown
+429,Ashley,67,false,2015-07-26 01:00:00 UTC,Unknown
+429,Randy,52,false,2015-07-26 01:00:00 UTC,Unknown
+429,Jordan,82,false,2015-07-26 01:00:00 UTC,Unknown
+429,Dad,96,true,2015-07-26 01:00:00 UTC,Unknown
+429,Tausha,69,false,2015-07-26 01:00:00 UTC,Unknown
+430,Ashley,65,false,2015-07-26 02:00:00 UTC,Unknown
+430,Randy,56,false,2015-07-26 02:00:00 UTC,Unknown
+430,Jordan,76,true,2015-07-26 02:00:00 UTC,Unknown
+430,Dad,64,false,2015-07-26 02:00:00 UTC,Unknown
+431,Ashley,81,true,2015-08-01 21:00:00 UTC,Unknown
+431,Jordan,75,false,2015-08-01 21:00:00 UTC,Unknown
+431,Randy,81,true,2015-08-01 21:00:00 UTC,Unknown
+431,Dottie,66,false,2015-08-01 21:00:00 UTC,Unknown
+431,Dad,64,false,2015-08-01 21:00:00 UTC,Unknown
+432,Ashley,65,false,2015-08-01 22:00:00 UTC,Unknown
+432,Jordan,68,false,2015-08-01 22:00:00 UTC,Unknown
+432,Randy,69,true,2015-08-01 22:00:00 UTC,Unknown
+432,Dottie,59,false,2015-08-01 22:00:00 UTC,Unknown
+432,Dad,55,false,2015-08-01 22:00:00 UTC,Unknown
+433,Ashley,67,false,2015-08-01 23:00:00 UTC,Unknown
+433,Jordan,90,false,2015-08-01 23:00:00 UTC,Unknown
+433,Randy,48,false,2015-08-01 23:00:00 UTC,Unknown
+433,Dottie,75,false,2015-08-01 23:00:00 UTC,Unknown
+433,Dad,95,true,2015-08-01 23:00:00 UTC,Unknown
+434,Ashley,56,false,2015-08-02 00:00:00 UTC,Unknown
+434,Jordan,80,true,2015-08-02 00:00:00 UTC,Unknown
+434,Randy,52,false,2015-08-02 00:00:00 UTC,Unknown
+434,Dottie,49,false,2015-08-02 00:00:00 UTC,Unknown
+434,Dad,72,false,2015-08-02 00:00:00 UTC,Unknown
+435,Randy,73,false,2015-08-02 01:00:00 UTC,Unknown
+435,Dottie,64,false,2015-08-02 01:00:00 UTC,Unknown
+435,Dad,60,false,2015-08-02 01:00:00 UTC,Unknown
+435,Jordan,76,true,2015-08-02 01:00:00 UTC,Unknown
+436,Ashley,53,false,2015-08-01 21:30:00 UTC,Unknown
+436,Becky,48,false,2015-08-01 21:30:00 UTC,Unknown
+436,Jordan,57,false,2015-08-01 21:30:00 UTC,Unknown
+436,Randy,40,false,2015-08-01 21:30:00 UTC,Unknown
+436,Dottie,48,false,2015-08-01 21:30:00 UTC,Unknown
+436,Dad,50,false,2015-08-01 21:30:00 UTC,Unknown
+436,Tausha,56,false,2015-08-01 21:30:00 UTC,Unknown
+436,Jarrod,61,true,2015-08-01 21:30:00 UTC,Unknown
+437,Ashley,69,false,2015-08-15 21:00:00 UTC,Unknown
+437,Dad,90,true,2015-08-15 21:00:00 UTC,Unknown
+437,Tausha,52,false,2015-08-15 21:00:00 UTC,Unknown
+438,Ashley,74,true,2015-08-15 22:00:00 UTC,Unknown
+438,Dad,57,false,2015-08-15 22:00:00 UTC,Unknown
+438,Tausha,57,false,2015-08-15 22:00:00 UTC,Unknown
+439,Ashley,78,false,2015-08-15 23:00:00 UTC,Unknown
+439,Dad,101,true,2015-08-15 23:00:00 UTC,Unknown
+439,Tausha,53,false,2015-08-15 23:00:00 UTC,Unknown
+440,Ashley,70,false,2015-08-16 00:00:00 UTC,Unknown
+440,Dad,58,false,2015-08-16 00:00:00 UTC,Unknown
+440,Ryan,73,true,2015-08-16 00:00:00 UTC,Unknown
+440,Tausha,54,false,2015-08-16 00:00:00 UTC,Unknown
+441,Ashley,77,true,2015-08-16 01:00:00 UTC,Unknown
+441,Dad,64,false,2015-08-16 01:00:00 UTC,Unknown
+441,Tausha,57,false,2015-08-16 01:00:00 UTC,Unknown
+442,Randy,62,false,2015-08-22 21:30:00 UTC,Unknown
+442,Ashley,62,false,2015-08-22 21:30:00 UTC,Unknown
+442,Dad,66,true,2015-08-22 21:30:00 UTC,Unknown
+443,Ashley,67,false,2015-08-22 22:30:00 UTC,Unknown
+443,Randy,46,false,2015-08-22 22:30:00 UTC,Unknown
+443,Dad,69,true,2015-08-22 22:30:00 UTC,Unknown
+444,Ashley,76,false,2015-08-22 23:30:00 UTC,Unknown
+444,Becky,59,false,2015-08-22 23:30:00 UTC,Unknown
+444,Jordan,75,false,2015-08-22 23:30:00 UTC,Unknown
+444,Randy,65,false,2015-08-22 23:30:00 UTC,Unknown
+444,Dottie,77,true,2015-08-22 23:30:00 UTC,Unknown
+444,Dad,64,false,2015-08-22 23:30:00 UTC,Unknown
+444,Tausha,51,false,2015-08-22 23:30:00 UTC,Unknown
+445,Ashley,78,true,2015-08-29 23:30:00 UTC,Unknown
+445,Randy,65,false,2015-08-29 23:30:00 UTC,Unknown
+445,Tausha,52,false,2015-08-29 23:30:00 UTC,Unknown
+445,Dad,52,false,2015-08-29 23:30:00 UTC,Unknown
+446,Randy,63,true,2015-09-05 21:30:00 UTC,Unknown
+446,Dad,59,false,2015-09-05 21:30:00 UTC,Unknown
+447,Randy,62,true,2015-09-05 22:30:00 UTC,Unknown
+447,Dad,58,false,2015-09-05 22:30:00 UTC,Unknown
+448,Randy,40,false,2015-09-05 23:30:00 UTC,Unknown
+448,Dottie,67,false,2015-09-05 23:30:00 UTC,Unknown
+448,Dad,57,false,2015-09-05 23:30:00 UTC,Unknown
+448,Becky,90,true,2015-09-05 23:30:00 UTC,Unknown
+449,Randy,58,false,2015-09-06 00:30:00 UTC,Unknown
+449,Dottie,64,false,2015-09-06 00:30:00 UTC,Unknown
+449,Dad,62,false,2015-09-06 00:30:00 UTC,Unknown
+449,Becky,67,true,2015-09-06 00:30:00 UTC,Unknown
+450,Ashley,82,true,2015-09-12 21:00:00 UTC,Unknown
+450,Randy,55,false,2015-09-12 21:00:00 UTC,Unknown
+450,Dottie,69,false,2015-09-12 21:00:00 UTC,Unknown
+450,Dad,51,false,2015-09-12 21:00:00 UTC,Unknown
+451,Ashley,69,false,2015-09-12 22:00:00 UTC,Unknown
+451,Randy,74,false,2015-09-12 22:00:00 UTC,Unknown
+451,Dottie,70,false,2015-09-12 22:00:00 UTC,Unknown
+451,Dad,75,true,2015-09-12 22:00:00 UTC,Unknown
+451,Tausha,68,false,2015-09-12 22:00:00 UTC,Unknown
+452,Ashley,71,false,2015-09-12 23:00:00 UTC,Unknown
+452,Randy,56,false,2015-09-12 23:00:00 UTC,Unknown
+452,Dottie,48,false,2015-09-12 23:00:00 UTC,Unknown
+452,Dad,62,false,2015-09-12 23:00:00 UTC,Unknown
+452,Tausha,74,true,2015-09-12 23:00:00 UTC,Unknown
+453,Ashley,73,true,2015-09-13 00:00:00 UTC,Unknown
+453,Ryan,70,false,2015-09-13 00:00:00 UTC,Unknown
+453,Randy,57,false,2015-09-13 00:00:00 UTC,Unknown
+453,Dottie,64,false,2015-09-13 00:00:00 UTC,Unknown
+453,Dad,57,false,2015-09-13 00:00:00 UTC,Unknown
+453,Tausha,58,false,2015-09-13 00:00:00 UTC,Unknown
+454,Ashley,66,false,2015-09-19 21:30:00 UTC,Unknown
+454,Randy,83,true,2015-09-19 21:30:00 UTC,Unknown
+454,Dad,49,false,2015-09-19 21:30:00 UTC,Unknown
+455,Ashley,90,true,2015-09-19 22:30:00 UTC,Unknown
+455,Randy,55,false,2015-09-19 22:30:00 UTC,Unknown
+455,Dottie,62,false,2015-09-19 22:30:00 UTC,Unknown
+455,Dad,62,false,2015-09-19 22:30:00 UTC,Unknown
+456,Ashley,84,true,2015-09-19 23:30:00 UTC,Unknown
+456,Randy,71,false,2015-09-19 23:30:00 UTC,Unknown
+456,Dottie,70,false,2015-09-19 23:30:00 UTC,Unknown
+456,Dad,56,false,2015-09-19 23:30:00 UTC,Unknown
+457,Ashley,80,true,2015-09-20 00:30:00 UTC,Unknown
+457,Randy,58,false,2015-09-20 00:30:00 UTC,Unknown
+457,Dottie,64,false,2015-09-20 00:30:00 UTC,Unknown
+457,Dad,62,false,2015-09-20 00:30:00 UTC,Unknown
+458,Ashley,62,false,2015-09-20 01:30:00 UTC,Unknown
+458,Randy,71,false,2015-09-20 01:30:00 UTC,Unknown
+458,Dottie,69,false,2015-09-20 01:30:00 UTC,Unknown
+458,Dad,86,true,2015-09-20 01:30:00 UTC,Unknown
+459,Ashley,90,true,2015-09-20 02:30:00 UTC,Unknown
+459,Randy,70,false,2015-09-20 02:30:00 UTC,Unknown
+459,Dottie,66,false,2015-09-20 02:30:00 UTC,Unknown
+459,Dad,67,false,2015-09-20 02:30:00 UTC,Unknown
+460,Ashley,73,false,2015-09-20 03:00:00 UTC,Unknown
+460,Randy,85,true,2015-09-20 03:00:00 UTC,Unknown
+460,Dottie,65,false,2015-09-20 03:00:00 UTC,Unknown
+460,Dad,48,false,2015-09-20 03:00:00 UTC,Unknown
+461,Ashley,69,false,2015-09-25 22:00:00 UTC,Unknown
+461,Randy,84,true,2015-09-25 22:00:00 UTC,Unknown
+461,Dottie,57,false,2015-09-25 22:00:00 UTC,Unknown
+461,Dad,55,false,2015-09-25 22:00:00 UTC,Unknown
+462,Ashley,70,false,2015-09-25 23:00:00 UTC,Unknown
+462,Randy,65,false,2015-09-25 23:00:00 UTC,Unknown
+462,Dottie,74,true,2015-09-25 23:00:00 UTC,Unknown
+462,Dad,67,false,2015-09-25 23:00:00 UTC,Unknown
+463,Ashley,76,true,2015-09-26 00:00:00 UTC,Unknown
+463,Randy,52,false,2015-09-26 00:00:00 UTC,Unknown
+463,Dottie,66,false,2015-09-26 00:00:00 UTC,Unknown
+463,Dad,54,false,2015-09-26 00:00:00 UTC,Unknown
+464,Ashley,64,false,2015-09-26 01:00:00 UTC,Unknown
+464,Randy,59,false,2015-09-26 01:00:00 UTC,Unknown
+464,Dottie,65,true,2015-09-26 01:00:00 UTC,Unknown
+464,Dad,64,false,2015-09-26 01:00:00 UTC,Unknown
+464,Becky,63,false,2015-09-26 01:00:00 UTC,Unknown
+465,Ashley,93,true,2015-09-26 21:30:00 UTC,Unknown
+465,Randy,66,false,2015-09-26 21:30:00 UTC,Unknown
+465,Dad,64,false,2015-09-26 21:30:00 UTC,Unknown
+466,Ashley,67,false,2015-09-26 22:30:00 UTC,Unknown
+466,Randy,63,false,2015-09-26 22:30:00 UTC,Unknown
+466,Dottie,62,false,2015-09-26 22:30:00 UTC,Unknown
+466,Dad,82,true,2015-09-26 22:30:00 UTC,Unknown
+467,Ashley,66,false,2015-09-26 23:30:00 UTC,Unknown
+467,Randy,67,true,2015-09-26 23:30:00 UTC,Unknown
+467,Dottie,62,false,2015-09-26 23:30:00 UTC,Unknown
+467,Dad,55,false,2015-09-26 23:30:00 UTC,Unknown
+468,Ashley,68,false,2015-09-27 00:30:00 UTC,Unknown
+468,Randy,73,true,2015-09-27 00:30:00 UTC,Unknown
+468,Dottie,68,false,2015-09-27 00:30:00 UTC,Unknown
+468,Dad,58,false,2015-09-27 00:30:00 UTC,Unknown
+469,Ashley,86,true,2015-09-27 01:30:00 UTC,Unknown
+469,Randy,73,false,2015-09-27 01:30:00 UTC,Unknown
+469,Dottie,61,false,2015-09-27 01:30:00 UTC,Unknown
+469,Dad,51,false,2015-09-27 01:30:00 UTC,Unknown
+470,Ashley,66,false,2015-09-27 02:00:00 UTC,Unknown
+470,Randy,59,false,2015-09-27 02:00:00 UTC,Unknown
+470,Dottie,61,false,2015-09-27 02:00:00 UTC,Unknown
+470,Dad,67,true,2015-09-27 02:00:00 UTC,Unknown
+471,Ashley,56,false,2015-09-30 21:30:00 UTC,Unknown
+471,Randy,60,false,2015-09-30 21:30:00 UTC,Unknown
+471,Dottie,75,true,2015-09-30 21:30:00 UTC,Unknown
+471,Dad,60,false,2015-09-30 21:30:00 UTC,Unknown
+471,Tausha,63,false,2015-09-30 21:30:00 UTC,Unknown
+471,Jarrod,74,false,2015-09-30 21:30:00 UTC,Unknown
+472,Ashley,71,true,2015-09-30 22:30:00 UTC,Unknown
+472,Randy,53,false,2015-09-30 22:30:00 UTC,Unknown
+472,Dottie,70,false,2015-09-30 22:30:00 UTC,Unknown
+472,Dad,65,false,2015-09-30 22:30:00 UTC,Unknown
+472,Tausha,58,false,2015-09-30 22:30:00 UTC,Unknown
+472,Jarrod,70,false,2015-09-30 22:30:00 UTC,Unknown
+473,Ashley,80,true,2015-10-03 21:00:00 UTC,Unknown
+473,Randy,55,false,2015-10-03 21:00:00 UTC,Unknown
+473,Dottie,65,false,2015-10-03 21:00:00 UTC,Unknown
+473,Dad,65,false,2015-10-03 21:00:00 UTC,Unknown
+474,Ashley,81,true,2015-10-03 22:00:00 UTC,Unknown
+474,Randy,68,false,2015-10-03 22:00:00 UTC,Unknown
+474,Dottie,74,false,2015-10-03 22:00:00 UTC,Unknown
+474,Dad,78,false,2015-10-03 22:00:00 UTC,Unknown
+475,Ashley,64,false,2015-10-03 23:00:00 UTC,Unknown
+475,Randy,80,true,2015-10-03 23:00:00 UTC,Unknown
+475,Dottie,63,false,2015-10-03 23:00:00 UTC,Unknown
+475,Dad,63,false,2015-10-03 23:00:00 UTC,Unknown
+476,Ashley,74,false,2015-10-04 00:00:00 UTC,Unknown
+476,Randy,69,false,2015-10-04 00:00:00 UTC,Unknown
+476,Dottie,77,true,2015-10-04 00:00:00 UTC,Unknown
+476,Dad,64,false,2015-10-04 00:00:00 UTC,Unknown
+476,Becky,53,false,2015-10-04 00:00:00 UTC,Unknown
+477,Ashley,72,true,2015-10-04 01:00:00 UTC,Unknown
+477,Randy,62,false,2015-10-04 01:00:00 UTC,Unknown
+477,Dottie,69,false,2015-10-04 01:00:00 UTC,Unknown
+477,Dad,59,false,2015-10-04 01:00:00 UTC,Unknown
+478,Ashley,70,true,2015-10-04 02:00:00 UTC,Unknown
+478,Randy,65,false,2015-10-04 02:00:00 UTC,Unknown
+478,Dottie,70,true,2015-10-04 02:00:00 UTC,Unknown
+478,Dad,66,false,2015-10-04 02:00:00 UTC,Unknown
+479,Ashley,81,false,2015-10-10 21:00:00 UTC,Unknown
+479,Randy,74,false,2015-10-10 21:00:00 UTC,Unknown
+479,Dottie,82,true,2015-10-10 21:00:00 UTC,Unknown
+479,Dad,49,false,2015-10-10 21:00:00 UTC,Unknown
+480,Ashley,77,true,2015-10-10 22:00:00 UTC,Unknown
+480,Randy,48,false,2015-10-10 22:00:00 UTC,Unknown
+480,Dottie,63,false,2015-10-10 22:00:00 UTC,Unknown
+480,Dad,69,false,2015-10-10 22:00:00 UTC,Unknown
+481,Ashley,83,true,2015-10-10 23:00:00 UTC,Unknown
+481,Randy,55,false,2015-10-10 23:00:00 UTC,Unknown
+481,Dottie,55,false,2015-10-10 23:00:00 UTC,Unknown
+481,Dad,82,false,2015-10-10 23:00:00 UTC,Unknown
+481,Tausha,57,false,2015-10-10 23:00:00 UTC,Unknown
+482,Ashley,85,true,2015-10-11 00:00:00 UTC,Unknown
+482,Randy,65,false,2015-10-11 00:00:00 UTC,Unknown
+482,Dottie,59,false,2015-10-11 00:00:00 UTC,Unknown
+482,Dad,64,false,2015-10-11 00:00:00 UTC,Unknown
+482,Tausha,55,false,2015-10-11 00:00:00 UTC,Unknown
+482,Jarrod,55,false,2015-10-11 00:00:00 UTC,Unknown
+483,Ashley,56,false,2015-10-11 01:00:00 UTC,Unknown
+483,Randy,49,false,2015-10-11 01:00:00 UTC,Unknown
+483,Dottie,80,true,2015-10-11 01:00:00 UTC,Unknown
+483,Dad,49,false,2015-10-11 01:00:00 UTC,Unknown
+483,Tausha,57,false,2015-10-11 01:00:00 UTC,Unknown
+483,Becky,49,false,2015-10-11 01:00:00 UTC,Unknown
+483,Jarrod,79,false,2015-10-11 01:00:00 UTC,Unknown
+484,Ashley,71,false,2015-10-11 02:00:00 UTC,Unknown
+484,Randy,61,false,2015-10-11 02:00:00 UTC,Unknown
+484,Dottie,73,true,2015-10-11 02:00:00 UTC,Unknown
+484,Dad,45,false,2015-10-11 02:00:00 UTC,Unknown
+484,Tausha,70,false,2015-10-11 02:00:00 UTC,Unknown
+484,Ryan,69,false,2015-10-11 02:00:00 UTC,Unknown
+484,Jarrod,65,false,2015-10-11 02:00:00 UTC,Unknown
+485,Ashley,62,false,2015-10-11 03:00:00 UTC,Unknown
+485,Randy,63,false,2015-10-11 03:00:00 UTC,Unknown
+485,Dottie,61,false,2015-10-11 03:00:00 UTC,Unknown
+485,Tausha,65,true,2015-10-11 03:00:00 UTC,Unknown
+485,Ryan,58,false,2015-10-11 03:00:00 UTC,Unknown
+485,Jarrod,60,false,2015-10-11 03:00:00 UTC,Unknown
+485,Dad,49,false,2015-10-11 03:00:00 UTC,Unknown
+486,Ashley,52,false,2015-10-17 21:00:00 UTC,Unknown
+486,Randy,86,true,2015-10-17 21:00:00 UTC,Unknown
+486,Tausha,81,false,2015-10-17 21:00:00 UTC,Unknown
+486,Dad,50,false,2015-10-17 21:00:00 UTC,Unknown
+487,Ashley,85,true,2015-10-17 22:00:00 UTC,Unknown
+487,Randy,74,false,2015-10-17 22:00:00 UTC,Unknown
+487,Tausha,62,false,2015-10-17 22:00:00 UTC,Unknown
+487,Dad,64,false,2015-10-17 22:00:00 UTC,Unknown
+488,Ashley,75,true,2015-10-17 23:00:00 UTC,Unknown
+488,Randy,58,false,2015-10-17 23:00:00 UTC,Unknown
+488,Dad,67,false,2015-10-17 23:00:00 UTC,Unknown
+489,Ashley,78,true,2015-10-18 00:00:00 UTC,Unknown
+489,Randy,62,false,2015-10-18 00:00:00 UTC,Unknown
+490,Ryan,68,false,2015-10-18 01:00:00 UTC,Unknown
+489,Dad,64,false,2015-10-18 00:00:00 UTC,Unknown
+490,Ashley,74,true,2015-10-18 01:00:00 UTC,Unknown
+490,Randy,63,false,2015-10-18 01:00:00 UTC,Unknown
+490,Ryan,70,false,2015-10-18 01:00:00 UTC,Unknown
+490,Dad,57,false,2015-10-18 01:00:00 UTC,Unknown
+491,Ashley,83,true,2015-10-18 02:00:00 UTC,Unknown
+491,Randy,58,false,2015-10-18 02:00:00 UTC,Unknown
+491,Ryan,83,true,2015-10-18 02:00:00 UTC,Unknown
+491,Dad,58,false,2015-10-18 02:00:00 UTC,Unknown
+492,Ashley,78,false,2015-10-18 03:00:00 UTC,Unknown
+492,Randy,80,true,2015-10-18 03:00:00 UTC,Unknown
+492,Ryan,65,false,2015-10-18 03:00:00 UTC,Unknown
+492,Dad,42,false,2015-10-18 03:00:00 UTC,Unknown
+493,Ashley,73,false,2015-10-24 21:00:00 UTC,Unknown
+493,Randy,68,false,2015-10-24 21:00:00 UTC,Unknown
+493,Dottie,73,false,2015-10-24 21:00:00 UTC,Unknown
+493,Dad,95,true,2015-10-24 21:00:00 UTC,Unknown
+493,Tausha,55,false,2015-10-24 21:00:00 UTC,Unknown
+494,Ashley,83,true,2015-10-24 22:00:00 UTC,Unknown
+494,Randy,61,false,2015-10-24 22:00:00 UTC,Unknown
+494,Dottie,70,false,2015-10-24 22:00:00 UTC,Unknown
+494,Dad,63,false,2015-10-24 22:00:00 UTC,Unknown
+494,Tausha,53,false,2015-10-24 22:00:00 UTC,Unknown
+495,Ashley,67,false,2015-10-24 23:00:00 UTC,Unknown
+495,Randy,71,false,2015-10-24 23:00:00 UTC,Unknown
+495,Dottie,54,false,2015-10-24 23:00:00 UTC,Unknown
+495,Dad,90,true,2015-10-24 23:00:00 UTC,Unknown
+495,Tausha,50,false,2015-10-24 23:00:00 UTC,Unknown
+496,Ashley,70,false,2015-10-25 00:00:00 UTC,Unknown
+496,Randy,64,false,2015-10-25 00:00:00 UTC,Unknown
+496,Dottie,58,false,2015-10-25 00:00:00 UTC,Unknown
+496,Dad,87,true,2015-10-25 00:00:00 UTC,Unknown
+496,Tausha,59,false,2015-10-25 00:00:00 UTC,Unknown
+497,Ashley,67,false,2015-11-01 01:00:00 UTC,Unknown
+497,Randy,69,false,2015-11-01 01:00:00 UTC,Unknown
+497,Dottie,66,false,2015-11-01 01:00:00 UTC,Unknown
+497,Dad,53,false,2015-11-01 01:00:00 UTC,Unknown
+497,Tausha,74,true,2015-11-01 01:00:00 UTC,Unknown
+497,Jarrod,62,false,2015-11-01 01:00:00 UTC,Unknown
+498,Ashley,74,true,2015-11-07 21:30:00 UTC,Unknown
+498,Randy,71,false,2015-11-07 21:30:00 UTC,Unknown
+498,Dottie,58,false,2015-11-07 21:30:00 UTC,Unknown
+498,Dad,53,false,2015-11-07 21:30:00 UTC,Unknown
+499,Ashley,86,true,2015-11-07 22:30:00 UTC,Unknown
+499,Randy,73,false,2015-11-07 22:30:00 UTC,Unknown
+499,Dottie,64,false,2015-11-07 22:30:00 UTC,Unknown
+499,Dad,57,false,2015-11-07 22:30:00 UTC,Unknown
+500,Ashley,59,false,2015-11-07 23:00:00 UTC,Unknown
+500,Randy,72,true,2015-11-07 23:00:00 UTC,Unknown
+500,Dottie,69,false,2015-11-07 23:00:00 UTC,Unknown
+500,Dad,66,false,2015-11-07 23:00:00 UTC,Unknown
+501,Ashley,79,false,2015-11-07 23:30:00 UTC,Unknown
+501,Randy,81,true,2015-11-07 23:30:00 UTC,Unknown
+501,Dottie,63,false,2015-11-07 23:30:00 UTC,Unknown
+501,Dad,51,false,2015-11-07 23:30:00 UTC,Unknown
+502,Randy,55,false,2015-11-08 00:00:00 UTC,Unknown
+502,Ashley,65,false,2015-11-08 00:00:00 UTC,Unknown
+502,Dottie,71,true,2015-11-08 00:00:00 UTC,Unknown
+502,Dad,66,false,2015-11-08 00:00:00 UTC,Unknown
+502,Ryan,50,false,2015-11-08 00:00:00 UTC,Unknown
+503,Ashley,60,false,2015-11-08 00:30:00 UTC,Unknown
+503,Ryan,53,false,2015-11-08 00:30:00 UTC,Unknown
+503,Randy,50,false,2015-11-08 00:30:00 UTC,Unknown
+503,Dottie,70,true,2015-11-08 00:30:00 UTC,Unknown
+503,Dad,53,false,2015-11-08 00:30:00 UTC,Unknown
+504,Ashley,60,false,2015-11-08 01:00:00 UTC,Unknown
+504,Ryan,71,false,2015-11-08 01:00:00 UTC,Unknown
+504,Randy,70,false,2015-11-08 01:00:00 UTC,Unknown
+504,Dottie,82,true,2015-11-08 01:00:00 UTC,Unknown
+504,Dad,60,false,2015-11-08 01:00:00 UTC,Unknown
+505,Ashley,80,true,2015-11-08 01:30:00 UTC,Unknown
+505,Randy,58,false,2015-11-08 01:30:00 UTC,Unknown
+505,Dottie,65,false,2015-11-08 01:30:00 UTC,Unknown
+505,Dad,55,false,2015-11-08 01:30:00 UTC,Unknown
+506,Ashley,74,true,2015-11-08 02:00:00 UTC,Unknown
+506,Randy,62,false,2015-11-08 02:00:00 UTC,Unknown
+506,Dottie,68,false,2015-11-08 02:00:00 UTC,Unknown
+506,Dad,65,false,2015-11-08 02:00:00 UTC,Unknown
+507,Ashley,83,true,2015-11-14 21:00:00 UTC,Unknown
+507,Randy,69,false,2015-11-14 21:00:00 UTC,Unknown
+507,Dottie,64,false,2015-11-14 21:00:00 UTC,Unknown
+507,Dad,64,false,2015-11-14 21:00:00 UTC,Unknown
+508,Ashley,77,true,2015-11-14 22:00:00 UTC,Unknown
+508,Randy,61,false,2015-11-14 22:00:00 UTC,Unknown
+508,Dottie,66,false,2015-11-14 22:00:00 UTC,Unknown
+508,Dad,47,false,2015-11-14 22:00:00 UTC,Unknown
+509,Ashley,80,true,2015-11-14 23:00:00 UTC,Unknown
+509,Randy,62,false,2015-11-14 23:00:00 UTC,Unknown
+509,Dottie,78,false,2015-11-14 23:00:00 UTC,Unknown
+509,Dad,64,false,2015-11-14 23:00:00 UTC,Unknown
+509,Tausha,70,false,2015-11-14 23:00:00 UTC,Unknown
+510,Ashley,70,false,2015-11-15 00:00:00 UTC,Unknown
+510,Randy,68,false,2015-11-15 00:00:00 UTC,Unknown
+510,Dottie,73,true,2015-11-15 00:00:00 UTC,Unknown
+510,Dad,67,false,2015-11-15 00:00:00 UTC,Unknown
+510,Tausha,54,false,2015-11-15 00:00:00 UTC,Unknown
+510,Ryan,71,false,2015-11-15 00:00:00 UTC,Unknown
+511,Ashley,61,false,2015-11-21 21:00:00 UTC,Unknown
+511,Randy,46,false,2015-11-21 21:00:00 UTC,Unknown
+511,Dottie,54,false,2015-11-21 21:00:00 UTC,Unknown
+511,Dad,92,true,2015-11-21 21:00:00 UTC,Unknown
+511,Tausha,53,false,2015-11-21 21:00:00 UTC,Unknown
+512,Ashley,82,false,2015-11-21 22:00:00 UTC,Unknown
+512,Randy,69,false,2015-11-21 22:00:00 UTC,Unknown
+512,Dottie,68,false,2015-11-21 22:00:00 UTC,Unknown
+512,Dad,84,true,2015-11-21 22:00:00 UTC,Unknown
+512,Tausha,71,false,2015-11-21 22:00:00 UTC,Unknown
+513,Ashley,59,false,2015-11-21 23:00:00 UTC,Unknown
+513,Randy,49,false,2015-11-21 23:00:00 UTC,Unknown
+513,Dottie,70,false,2015-11-21 23:00:00 UTC,Unknown
+513,Dad,78,true,2015-11-21 23:00:00 UTC,Unknown
+513,Tausha,60,false,2015-11-21 23:00:00 UTC,Unknown
+514,Ashley,73,false,2015-11-22 00:00:00 UTC,Unknown
+514,Randy,55,false,2015-11-22 00:00:00 UTC,Unknown
+514,Dottie,59,false,2015-11-22 00:00:00 UTC,Unknown
+514,Dad,93,true,2015-11-22 00:00:00 UTC,Unknown
+514,Tausha,57,false,2015-11-22 00:00:00 UTC,Unknown
+515,Ashley,72,false,2015-11-22 01:00:00 UTC,Unknown
+515,Randy,82,true,2015-11-22 01:00:00 UTC,Unknown
+515,Dottie,75,false,2015-11-22 01:00:00 UTC,Unknown
+515,Dad,66,false,2015-11-22 01:00:00 UTC,Unknown
+515,Tausha,81,false,2015-11-22 01:00:00 UTC,Unknown
+515,Ryan,50,false,2015-11-22 01:00:00 UTC,Unknown
+516,Ashley,78,false,2015-11-22 02:00:00 UTC,Unknown
+516,Randy,63,false,2015-11-22 02:00:00 UTC,Unknown
+516,Dottie,80,false,2015-11-22 02:00:00 UTC,Unknown
+516,Dad,59,false,2015-11-22 02:00:00 UTC,Unknown
+516,Ryan,104,true,2015-11-22 02:00:00 UTC,Unknown
+517,Ashley,70,false,2015-11-27 00:00:00 UTC,Unknown
+517,Randy,62,false,2015-11-27 00:00:00 UTC,Unknown
+517,Dottie,80,true,2015-11-27 00:00:00 UTC,Unknown
+517,Dad,75,false,2015-11-27 00:00:00 UTC,Unknown
+517,Tausha,67,false,2015-11-27 00:00:00 UTC,Unknown
+517,Ryan,61,false,2015-11-27 00:00:00 UTC,Unknown
+518,Ashley,71,false,2015-11-27 01:00:00 UTC,Unknown
+518,Randy,60,false,2015-11-27 01:00:00 UTC,Unknown
+518,Dottie,78,true,2015-11-27 01:00:00 UTC,Unknown
+518,Dad,52,false,2015-11-27 01:00:00 UTC,Unknown
+518,Becky,56,false,2015-11-27 01:00:00 UTC,Unknown
+518,Ryan,57,false,2015-11-27 01:00:00 UTC,Unknown
+519,Ashley,71,false,2015-11-28 21:00:00 UTC,Unknown
+519,Randy,63,false,2015-11-28 21:00:00 UTC,Unknown
+519,Dottie,73,true,2015-11-28 21:00:00 UTC,Unknown
+519,Dad,70,false,2015-11-28 21:00:00 UTC,Unknown
+520,Ashley,77,false,2015-11-28 22:00:00 UTC,Unknown
+520,Randy,75,false,2015-11-28 22:00:00 UTC,Unknown
+520,Dottie,81,true,2015-11-28 22:00:00 UTC,Unknown
+520,Dad,63,false,2015-11-28 22:00:00 UTC,Unknown
+521,Ashley,54,false,2015-11-28 23:00:00 UTC,Unknown
+521,Randy,69,false,2015-11-28 23:00:00 UTC,Unknown
+521,Dottie,67,false,2015-11-28 23:00:00 UTC,Unknown
+521,Dad,59,false,2015-11-28 23:00:00 UTC,Unknown
+521,Tausha,73,true,2015-11-28 23:00:00 UTC,Unknown
+521,Jarrod,70,false,2015-11-28 23:00:00 UTC,Unknown
+522,Ashley,74,false,2015-11-29 00:00:00 UTC,Unknown
+522,Randy,62,false,2015-11-29 00:00:00 UTC,Unknown
+522,Dottie,68,false,2015-11-29 00:00:00 UTC,Unknown
+522,Dad,92,true,2015-11-29 00:00:00 UTC,Unknown
+522,Tausha,65,false,2015-11-29 00:00:00 UTC,Unknown
+522,Jarrod,72,false,2015-11-29 00:00:00 UTC,Unknown
+523,Ashley,69,true,2015-11-29 01:00:00 UTC,Unknown
+523,Randy,68,false,2015-11-29 01:00:00 UTC,Unknown
+523,Dottie,62,false,2015-11-29 01:00:00 UTC,Unknown
+523,Dad,66,false,2015-11-29 01:00:00 UTC,Unknown
+523,Ryan,67,false,2015-11-29 01:00:00 UTC,Unknown
+524,Ashley,66,false,2015-11-29 01:30:00 UTC,Unknown
+524,Randy,46,false,2015-11-29 01:30:00 UTC,Unknown
+524,Dottie,75,false,2015-11-29 01:30:00 UTC,Unknown
+524,Dad,89,true,2015-11-29 01:30:00 UTC,Unknown
+524,Ryan,60,false,2015-11-29 01:30:00 UTC,Unknown
+525,Ashley,82,true,2015-12-05 21:00:00 UTC,Unknown
+525,Randy,64,false,2015-12-05 21:00:00 UTC,Unknown
+525,Dad,70,false,2015-12-05 21:00:00 UTC,Unknown
+526,Ashley,69,true,2015-12-05 22:00:00 UTC,Unknown
+526,Randy,52,false,2015-12-05 22:00:00 UTC,Unknown
+526,Dad,58,false,2015-12-05 22:00:00 UTC,Unknown
+527,Ashley,64,false,2015-12-05 23:00:00 UTC,Unknown
+527,Randy,52,false,2015-12-05 23:00:00 UTC,Unknown
+527,Dottie,67,false,2015-12-05 23:00:00 UTC,Unknown
+527,Dad,61,false,2015-12-05 23:00:00 UTC,Unknown
+527,Tausha,71,true,2015-12-05 23:00:00 UTC,Unknown
+527,Jarrod,71,true,2015-12-05 23:00:00 UTC,Unknown
+527,Becky,48,false,2015-12-05 23:00:00 UTC,Unknown
+528,Ashley,59,false,2015-12-06 00:00:00 UTC,Unknown
+528,Ryan,75,false,2015-12-06 00:00:00 UTC,Unknown
+528,Randy,72,false,2015-12-06 00:00:00 UTC,Unknown
+528,Dottie,78,true,2015-12-06 00:00:00 UTC,Unknown
+528,Dad,71,false,2015-12-06 00:00:00 UTC,Unknown
+529,Ashley,60,false,2015-12-06 01:00:00 UTC,Unknown
+529,Ryan,71,false,2015-12-06 01:00:00 UTC,Unknown
+529,Randy,73,true,2015-12-06 01:00:00 UTC,Unknown
+529,Dottie,71,false,2015-12-06 01:00:00 UTC,Unknown
+529,Dad,62,false,2015-12-06 01:00:00 UTC,Unknown
+530,Ashley,75,false,2015-12-06 02:00:00 UTC,Unknown
+530,Ryan,85,true,2015-12-06 02:00:00 UTC,Unknown
+530,Randy,48,false,2015-12-06 02:00:00 UTC,Unknown
+530,Dottie,74,false,2015-12-06 02:00:00 UTC,Unknown
+530,Dad,69,false,2015-12-06 02:00:00 UTC,Unknown
+531,Ashley,60,false,2015-12-12 21:00:00 UTC,Unknown
+531,Randy,78,true,2015-12-12 21:00:00 UTC,Unknown
+531,Dottie,69,false,2015-12-12 21:00:00 UTC,Unknown
+531,Dad,66,false,2015-12-12 21:00:00 UTC,Unknown
+532,Ashley,85,false,2015-12-12 22:00:00 UTC,Unknown
+532,Randy,56,false,2015-12-12 22:00:00 UTC,Unknown
+532,Dottie,88,true,2015-12-12 22:00:00 UTC,Unknown
+532,Dad,47,false,2015-12-12 22:00:00 UTC,Unknown
+533,Ashley,82,true,2015-12-12 23:00:00 UTC,Unknown
+533,Randy,43,false,2015-12-12 23:00:00 UTC,Unknown
+533,Dottie,79,false,2015-12-12 23:00:00 UTC,Unknown
+533,Dad,72,false,2015-12-12 23:00:00 UTC,Unknown
+534,Ashley,56,false,2015-12-13 00:00:00 UTC,Unknown
+534,Randy,76,false,2015-12-13 00:00:00 UTC,Unknown
+534,Dottie,88,true,2015-12-13 00:00:00 UTC,Unknown
+534,Dad,64,false,2015-12-13 00:00:00 UTC,Unknown
+535,Ashley,58,false,2015-12-13 01:00:00 UTC,Unknown
+535,Randy,82,true,2015-12-13 01:00:00 UTC,Unknown
+535,Dottie,74,false,2015-12-13 01:00:00 UTC,Unknown
+535,Dad,62,false,2015-12-13 01:00:00 UTC,Unknown
+536,Ashley,71,false,2015-12-13 01:30:00 UTC,Unknown
+536,Ryan,77,true,2015-12-13 01:30:00 UTC,Unknown
+536,Randy,68,false,2015-12-13 01:30:00 UTC,Unknown
+536,Dottie,68,false,2015-12-13 01:30:00 UTC,Unknown
+536,Dad,54,false,2015-12-13 01:30:00 UTC,Unknown
+537,Ashley,72,true,2015-12-13 02:00:00 UTC,Unknown
+537,Ryan,57,false,2015-12-13 02:00:00 UTC,Unknown
+537,Randy,66,false,2015-12-13 02:00:00 UTC,Unknown
+537,Dottie,61,false,2015-12-13 02:00:00 UTC,Unknown
+537,Dad,64,false,2015-12-13 02:00:00 UTC,Unknown
+538,Ashley,68,false,2015-12-13 02:30:00 UTC,Unknown
+538,Ryan,75,true,2015-12-13 02:30:00 UTC,Unknown
+538,Randy,64,false,2015-12-13 02:30:00 UTC,Unknown
+538,Dottie,67,false,2015-12-13 02:30:00 UTC,Unknown
+538,Dad,69,false,2015-12-13 02:30:00 UTC,Unknown
+539,Ashley,87,true,2015-12-26 21:00:00 UTC,Unknown
+539,Randy,61,false,2015-12-26 21:00:00 UTC,Unknown
+539,Dottie,58,false,2015-12-26 21:00:00 UTC,Unknown
+539,Dad,68,false,2015-12-26 21:00:00 UTC,Unknown
+540,Ashley,86,false,2015-12-26 22:00:00 UTC,Unknown
+540,Randy,92,true,2015-12-26 22:00:00 UTC,Unknown
+540,Dottie,62,false,2015-12-26 22:00:00 UTC,Unknown
+540,Dad,54,false,2015-12-26 22:00:00 UTC,Unknown
+541,Ashley,71,false,2015-12-26 23:00:00 UTC,Unknown
+541,Randy,67,false,2015-12-26 23:00:00 UTC,Unknown
+541,Dottie,73,true,2015-12-26 23:00:00 UTC,Unknown
+541,Dad,73,true,2015-12-26 23:00:00 UTC,Unknown
+542,Ashley,78,false,2015-12-27 00:00:00 UTC,Unknown
+542,Randy,60,false,2015-12-27 00:00:00 UTC,Unknown
+542,Dottie,83,true,2015-12-27 00:00:00 UTC,Unknown
+542,Dad,57,false,2015-12-27 00:00:00 UTC,Unknown
+542,Ryan,63,false,2015-12-27 00:00:00 UTC,Unknown
+543,Ashley,67,false,2015-12-27 01:00:00 UTC,Unknown
+543,Randy,69,false,2015-12-27 01:00:00 UTC,Unknown
+543,Dottie,70,false,2015-12-27 01:00:00 UTC,Unknown
+543,Dad,60,false,2015-12-27 01:00:00 UTC,Unknown
+543,Ryan,82,true,2015-12-27 01:00:00 UTC,Unknown
+544,Ashley,85,true,2015-12-27 01:30:00 UTC,Unknown
+544,Randy,62,false,2015-12-27 01:30:00 UTC,Unknown
+544,Dottie,69,false,2015-12-27 01:30:00 UTC,Unknown
+544,Dad,57,false,2015-12-27 01:30:00 UTC,Unknown
+544,Ryan,80,false,2015-12-27 01:30:00 UTC,Unknown
+545,Ashley,66,false,2016-01-02 20:30:00 UTC,Unknown
+545,Randy,71,true,2016-01-02 20:30:00 UTC,Unknown
+545,Dottie,61,false,2016-01-02 20:30:00 UTC,Unknown
+545,Dad,68,false,2016-01-02 20:30:00 UTC,Unknown
+546,Ashley,74,true,2016-01-02 21:30:00 UTC,Unknown
+546,Randy,71,false,2016-01-02 21:30:00 UTC,Unknown
+546,Dottie,74,true,2016-01-02 21:30:00 UTC,Unknown
+546,Dad,49,false,2016-01-02 21:30:00 UTC,Unknown
+547,Ashley,64,true,2016-01-02 22:30:00 UTC,Unknown
+547,Randy,55,false,2016-01-02 22:30:00 UTC,Unknown
+547,Dottie,60,false,2016-01-02 22:30:00 UTC,Unknown
+547,Dad,53,false,2016-01-02 22:30:00 UTC,Unknown
+548,Ashley,74,false,2016-01-02 23:30:00 UTC,Unknown
+548,Randy,80,true,2016-01-02 23:30:00 UTC,Unknown
+548,Dottie,76,false,2016-01-02 23:30:00 UTC,Unknown
+548,Dad,58,false,2016-01-02 23:30:00 UTC,Unknown
+549,Ashley,87,true,2016-01-03 00:00:00 UTC,Unknown
+549,Randy,67,false,2016-01-03 00:00:00 UTC,Unknown
+549,Dottie,87,true,2016-01-03 00:00:00 UTC,Unknown
+549,Dad,58,false,2016-01-03 00:00:00 UTC,Unknown
+550,Ashley,59,false,2016-01-03 00:30:00 UTC,Unknown
+550,Randy,65,false,2016-01-03 00:30:00 UTC,Unknown
+550,Dottie,94,true,2016-01-03 00:30:00 UTC,Unknown
+550,Dad,58,false,2016-01-03 00:30:00 UTC,Unknown
+551,Ashley,71,true,2016-01-09 21:00:00 UTC,Unknown
+551,Tausha,48,false,2016-01-09 21:00:00 UTC,Unknown
+551,Dottie,60,false,2016-01-09 21:00:00 UTC,Unknown
+551,Dad,62,false,2016-01-09 21:00:00 UTC,Unknown
+552,Ashley,66,false,2016-01-09 22:00:00 UTC,Unknown
+552,Tausha,54,false,2016-01-09 22:00:00 UTC,Unknown
+552,Dottie,73,true,2016-01-09 22:00:00 UTC,Unknown
+552,Dad,57,false,2016-01-09 22:00:00 UTC,Unknown
+553,Ashley,91,true,2016-01-09 23:00:00 UTC,Unknown
+553,Dottie,56,false,2016-01-09 23:00:00 UTC,Unknown
+553,Dad,91,true,2016-01-09 23:00:00 UTC,Unknown
+554,Ashley,72,false,2016-01-10 00:00:00 UTC,Unknown
+554,Dottie,61,false,2016-01-10 00:00:00 UTC,Unknown
+554,Dad,86,true,2016-01-10 00:00:00 UTC,Unknown
+555,Ashley,91,true,2016-01-10 01:00:00 UTC,Unknown
+555,Ryan,73,false,2016-01-10 01:00:00 UTC,Unknown
+555,Dottie,58,false,2016-01-10 01:00:00 UTC,Unknown
+555,Dad,63,false,2016-01-10 01:00:00 UTC,Unknown
+556,Ashley,77,true,2016-01-10 01:30:00 UTC,Unknown
+556,Ryan,73,false,2016-01-10 01:30:00 UTC,Unknown
+556,Dottie,71,false,2016-01-10 01:30:00 UTC,Unknown
+556,Dad,48,false,2016-01-10 01:30:00 UTC,Unknown
+557,Ashley,61,true,2016-01-16 21:00:00 UTC,Unknown
+557,Randy,58,false,2016-01-16 21:00:00 UTC,Unknown
+557,Dottie,57,false,2016-01-16 21:00:00 UTC,Unknown
+557,Dad,46,false,2016-01-16 21:00:00 UTC,Unknown
+558,Ashley,83,true,2016-01-16 22:00:00 UTC,Unknown
+558,Randy,60,false,2016-01-16 22:00:00 UTC,Unknown
+558,Dottie,82,false,2016-01-16 22:00:00 UTC,Unknown
+558,Dad,80,false,2016-01-16 22:00:00 UTC,Unknown
+558,Tausha,67,false,2016-01-16 22:00:00 UTC,Unknown
+559,Ashley,65,false,2016-01-16 23:00:00 UTC,Unknown
+559,Randy,63,false,2016-01-16 23:00:00 UTC,Unknown
+559,Dottie,71,true,2016-01-16 23:00:00 UTC,Unknown
+559,Dad,68,false,2016-01-16 23:00:00 UTC,Unknown
+559,Tausha,57,false,2016-01-16 23:00:00 UTC,Unknown
+560,Ashley,67,true,2016-01-17 00:00:00 UTC,Unknown
+560,Ryan,61,false,2016-01-17 00:00:00 UTC,Unknown
+560,Randy,57,false,2016-01-17 00:00:00 UTC,Unknown
+560,Dottie,59,false,2016-01-17 00:00:00 UTC,Unknown
+560,Dad,63,false,2016-01-17 00:00:00 UTC,Unknown
+561,Ashley,86,true,2016-01-17 01:00:00 UTC,Unknown
+561,Ryan,77,false,2016-01-17 01:00:00 UTC,Unknown
+561,Randy,63,false,2016-01-17 01:00:00 UTC,Unknown
+561,Dottie,66,false,2016-01-17 01:00:00 UTC,Unknown
+561,Dad,44,false,2016-01-17 01:00:00 UTC,Unknown
+562,Ashley,77,false,2016-01-17 02:00:00 UTC,Unknown
+562,Ryan,86,true,2016-01-17 02:00:00 UTC,Unknown
+562,Randy,53,false,2016-01-17 02:00:00 UTC,Unknown
+562,Dottie,68,false,2016-01-17 02:00:00 UTC,Unknown
+562,Dad,56,false,2016-01-17 02:00:00 UTC,Unknown
+563,Ashley,63,false,2016-02-06 21:00:00 UTC,Samothraki - A
+563,Randy,48,false,2016-02-06 21:00:00 UTC,Corropolis - B
+563,Dottie,65,false,2016-02-06 21:00:00 UTC,Kadesh - A
+563,Dad,83,true,2016-02-06 21:00:00 UTC,Unknown
+563,Tausha,71,false,2016-02-06 21:00:00 UTC,Unknown
+564,Ashley,60,false,2016-02-06 22:00:00 UTC,Thapsakos - A
+564,Randy,66,false,2016-02-06 22:00:00 UTC,Unknown
+564,Dottie,62,false,2016-02-06 22:00:00 UTC,Tarsos - B
+564,Dad,69,true,2016-02-06 22:00:00 UTC,Unknown
+564,Tausha,51,false,2016-02-06 22:00:00 UTC,Unknown
+565,Ashley,64,false,2016-02-06 23:00:00 UTC,Unknown
+565,Randy,74,false,2016-02-06 23:00:00 UTC,Unknown
+565,Dottie,63,false,2016-02-06 23:00:00 UTC,Unknown
+565,Dad,75,true,2016-02-06 23:00:00 UTC,Unknown
+565,Tausha,61,false,2016-02-06 23:00:00 UTC,Unknown
+566,Ashley,71,false,2016-02-07 00:00:00 UTC,Unknown
+566,Ryan,72,false,2016-02-07 00:00:00 UTC,Bassai - A
+566,Randy,84,true,2016-02-07 00:00:00 UTC,Euboia - B
+566,Dottie,50,false,2016-02-07 00:00:00 UTC,Unknown
+566,Dad,44,false,2016-02-07 00:00:00 UTC,Agbatana - A
+567,Ashley,56,false,2016-02-07 01:00:00 UTC,Unknown
+567,Ryan,58,true,2016-02-07 01:00:00 UTC,Argolida - A
+567,Randy,40,false,2016-02-07 01:00:00 UTC,Unknown
+567,Dottie,50,false,2016-02-07 01:00:00 UTC,Unknown
+567,Dad,43,false,2016-02-07 01:00:00 UTC,Karthago - A
+568,Ashley,69,true,2016-02-13 21:00:00 UTC,Gaza - B
+568,Randy,65,false,2016-02-13 21:00:00 UTC,Elioupolis - A
+568,Dottie,61,false,2016-02-13 21:00:00 UTC,Bassai - A
+568,Dad,66,false,2016-02-13 21:00:00 UTC,Alabanda - A
+569,Ashley,65,false,2016-02-13 22:00:00 UTC,Byblos - A
+569,Randy,51,false,2016-02-13 22:00:00 UTC,Ostia - B
+569,Dottie,72,false,2016-02-13 22:00:00 UTC,Kurene - A
+569,Dad,77,true,2016-02-13 22:00:00 UTC,Arkadia - A
+570,Ashley,74,false,2016-02-13 23:00:00 UTC,Corropolis - B
+570,Randy,45,false,2016-02-13 23:00:00 UTC,Our - B
+570,Dottie,79,true,2016-02-13 23:00:00 UTC,Knosos - B
+570,Dad,60,false,2016-02-13 23:00:00 UTC,Delos - A
+571,Ashley,114,true,2016-02-14 00:00:00 UTC,Koptos - A
+571,Randy,58,false,2016-02-14 00:00:00 UTC,Tarsos - A
+571,Dottie,66,false,2016-02-14 00:00:00 UTC,Oasis Siba - A
+571,Dad,83,false,2016-02-14 00:00:00 UTC,Philippopolis - B
+571,Ryan,89,false,2016-02-14 00:00:00 UTC,Korinthos - A
+572,Ashley,81,false,2016-02-14 01:00:00 UTC,Unknown
+572,Randy,63,false,2016-02-14 01:00:00 UTC,Thebai - B
+572,Dottie,61,false,2016-02-14 01:00:00 UTC,Unknown
+572,Dad,38,false,2016-02-14 01:00:00 UTC,Urusalim - B
+572,Ryan,90,true,2016-02-14 01:00:00 UTC,Arbela - B
+573,Ashley,76,true,2016-02-27 21:00:00 UTC,Byblos - A
+573,Randy,67,false,2016-02-27 21:00:00 UTC,Delphoi - A
+573,Dottie,63,false,2016-02-27 21:00:00 UTC,Alabanda - A
+573,Dad,49,false,2016-02-27 21:00:00 UTC,Gaza - B
+574,Ashley,74,true,2016-02-27 21:00:00 UTC,Euboia - B
+574,Randy,74,true,2016-02-27 21:00:00 UTC,Oasis Siba - A
+574,Dottie,70,false,2016-02-27 21:00:00 UTC,Delos - B
+574,Dad,47,false,2016-02-27 21:00:00 UTC,Kappadokia - B
+574,Tausha,72,false,2016-02-27 21:00:00 UTC,Argolida - A
+575,Ashley,66,false,2016-02-27 22:00:00 UTC,Arbela - A
+575,Randy,62,false,2016-02-27 22:00:00 UTC,Elioupolis - A
+575,Dottie,69,true,2016-02-27 22:00:00 UTC,Issos - A
+575,Dad,43,false,2016-02-27 22:00:00 UTC,Troia - A
+575,Tausha,54,false,2016-02-27 22:00:00 UTC,Arkadia - A
+576,Ashley,65,false,2016-02-27 23:00:00 UTC,Kurene - B
+576,Randy,59,false,2016-02-27 23:00:00 UTC,Urusalim - A
+576,Dottie,64,false,2016-02-27 23:00:00 UTC,Gordion - B
+576,Dad,87,true,2016-02-27 23:00:00 UTC,Agbatana - B
+576,Tausha,75,false,2016-02-27 23:00:00 UTC,Epidaurou - B
+576,Ryan,68,false,2016-02-27 23:00:00 UTC,Karthago - A
+577,Ashley,88,true,2016-02-28 00:00:00 UTC,Pasargadon - A
+577,Randy,59,false,2016-02-28 00:00:00 UTC,Corropolis - A
+577,Dottie,67,false,2016-02-28 00:00:00 UTC,Mykenai - B
+577,Dad,56,false,2016-02-28 00:00:00 UTC,Zeugma - A
+577,Tausha,56,false,2016-02-28 00:00:00 UTC,Khattousa - B
+577,Ryan,58,false,2016-02-28 00:00:00 UTC,Koptos - A
+578,Ashley,80,true,2016-03-05 21:00:00 UTC,Euboia - B
+578,Randy,46,false,2016-03-05 21:00:00 UTC,Oasis Siba - B
+578,Dottie,64,false,2016-03-05 21:00:00 UTC,Arbela - B
+578,Dad,64,false,2016-03-05 21:00:00 UTC,Agbatana - A
+579,Ashley,53,false,2016-03-05 22:00:00 UTC,Koptos - B
+579,Randy,72,false,2016-03-05 22:00:00 UTC,Ostia - B
+579,Dottie,92,true,2016-03-05 22:00:00 UTC,Delphoi - A
+579,Dad,65,false,2016-03-05 22:00:00 UTC,Arkadia - B
+580,Ashley,65,false,2016-03-05 23:00:00 UTC,Kurene - B
+580,Randy,63,false,2016-03-05 23:00:00 UTC,Sardis - A
+580,Dottie,78,true,2016-03-05 23:00:00 UTC,Unknown
+580,Dad,54,false,2016-03-05 23:00:00 UTC,Gordion - A
+581,Ashley,65,false,2016-03-06 00:00:00 UTC,Pasargadon - A
+581,Ryan,50,false,2016-03-06 00:00:00 UTC,Karthago - B
+581,Randy,73,true,2016-03-06 00:00:00 UTC,Gaza - A
+581,Dottie,60,false,2016-03-06 00:00:00 UTC,Delos - A
+581,Dad,45,false,2016-03-06 00:00:00 UTC,Kalakh - B
+582,Ashley,68,false,2016-03-06 01:00:00 UTC,Unknown
+582,Ryan,62,false,2016-03-06 01:00:00 UTC,Knosos - B
+582,Randy,61,false,2016-03-06 01:00:00 UTC,Unknown
+582,Dottie,80,true,2016-03-06 01:00:00 UTC,Unknown
+582,Dad,55,false,2016-03-06 01:00:00 UTC,Korinthos - A
+583,Ashley,97,true,2016-03-06 02:00:00 UTC,Khattousa - B
+583,Ryan,82,false,2016-03-06 02:00:00 UTC,Catan - A
+583,Randy,55,false,2016-03-06 02:00:00 UTC,Unknown
+583,Dottie,72,false,2016-03-06 02:00:00 UTC,Epidaurou - B
+583,Dad,59,false,2016-03-06 02:00:00 UTC,Thapsakos - B
+584,Ashley,73,false,2016-03-12 21:00:00 UTC,Delphoi - A
+584,Randy,84,false,2016-03-12 21:00:00 UTC,Unknown
+584,Dottie,63,false,2016-03-12 21:00:00 UTC,Kappadokia - B
+584,Dad,83,true,2016-03-12 21:00:00 UTC,Arkadia - B
+585,Ashley,64,true,2016-03-12 23:00:00 UTC,Unknown
+585,Randy,57,false,2016-03-12 23:00:00 UTC,Koptos - A
+585,Dottie,55,false,2016-03-12 23:00:00 UTC,Korinthos - B
+585,Dad,54,false,2016-03-12 23:00:00 UTC,Elioupolis - A
+585,Tausha,50,false,2016-03-12 23:00:00 UTC,Gaza - B
+586,Ashley,40,false,2016-03-13 01:00:00 UTC,Knosos - A
+586,Randy,62,false,2016-03-13 01:00:00 UTC,Unknown
+586,Dottie,63,true,2016-03-13 01:00:00 UTC,Corropolis - A
+586,Dad,63,true,2016-03-13 01:00:00 UTC,Unknown
+586,Tausha,51,false,2016-03-13 01:00:00 UTC,Ourouk - A
+587,Ashley,56,false,2016-03-13 02:00:00 UTC,Peiraieus - A
+587,Randy,70,false,2016-03-13 02:00:00 UTC,Unknown
+587,Dottie,72,false,2016-03-13 02:00:00 UTC,Kurene - B
+587,Dad,75,true,2016-03-13 02:00:00 UTC,Unknown
+587,Tausha,58,false,2016-03-13 02:00:00 UTC,Samothraki - B
+587,Ryan,68,false,2016-03-13 02:00:00 UTC,Sardis - A
+588,Randy,72,false,2016-03-19 21:00:00 UTC,Troia - B
+588,Dottie,61,false,2016-03-19 21:00:00 UTC,Gaza - B
+588,Dad,76,true,2016-03-19 21:00:00 UTC,Alabanda - B
+589,Tausha,55,false,2016-03-19 22:00:00 UTC,Ostia - A
+589,Randy,68,false,2016-03-19 22:00:00 UTC,Unknown
+589,Dottie,57,false,2016-03-19 22:00:00 UTC,Samarkande - A
+589,Dad,82,true,2016-03-19 22:00:00 UTC,Corropolis - A
+590,Tausha,83,true,2016-03-20 00:00:00 UTC,Unknown
+590,Randy,50,false,2016-03-20 00:00:00 UTC,Unknown
+590,Dottie,81,false,2016-03-20 00:00:00 UTC,Sardis - B
+590,Dad,74,false,2016-03-20 00:00:00 UTC,Kurene - A
+591,Tausha,67,false,2016-03-20 02:00:00 UTC,Thebai - A
+591,Randy,70,true,2016-03-20 02:00:00 UTC,Bassai - B
+591,Dottie,62,false,2016-03-20 02:00:00 UTC,Unknown
+591,Dad,61,false,2016-03-20 02:00:00 UTC,Unknown
+592,Ashley,67,false,2016-03-26 21:00:00 UTC,Abudos - B
+592,Randy,77,false,2016-03-26 21:00:00 UTC,Kappadokia - A
+592,Dottie,79,false,2016-03-26 21:00:00 UTC,Knosos - B
+592,Dad,84,true,2016-03-26 21:00:00 UTC,Gordion - B
+592,Tausha,70,false,2016-03-26 21:00:00 UTC,Byblos - A
+593,Ashley,63,false,2016-03-26 23:00:00 UTC,Peiraieus - B
+593,Randy,55,false,2016-03-26 23:00:00 UTC,Unknown
+593,Dottie,51,false,2016-03-26 23:00:00 UTC,Salamina - A
+593,Dad,58,false,2016-03-26 23:00:00 UTC,Elioupolis - B
+593,Tausha,72,true,2016-03-26 23:00:00 UTC,Delphoi - A
+594,Ashley,57,false,2016-03-27 01:00:00 UTC,Urusalim - B
+594,Randy,52,false,2016-03-27 01:00:00 UTC,Unknown
+594,Dottie,57,false,2016-03-27 01:00:00 UTC,Unknown
+594,Dad,64,false,2016-03-27 01:00:00 UTC,Unknown
+594,Tausha,72,true,2016-03-27 01:00:00 UTC,Unknown
+594,Ryan,66,false,2016-03-27 01:00:00 UTC,Argolida - A
+595,Ashley,65,false,2016-04-02 21:00:00 UTC,Sidon - A
+595,Randy,64,false,2016-04-02 21:00:00 UTC,Kadesh - B
+595,Dottie,89,true,2016-04-02 21:00:00 UTC,Alabanda - B
+595,Dad,62,false,2016-04-02 21:00:00 UTC,Koptos - A
+596,Ashley,44,false,2016-04-02 23:00:00 UTC,Kurene - A
+596,Randy,70,false,2016-04-02 23:00:00 UTC,Pompei - B
+596,Dottie,78,true,2016-04-02 23:00:00 UTC,Euboia - B
+596,Dad,78,true,2016-04-02 23:00:00 UTC,Catan - A
+596,Tausha,71,false,2016-04-02 23:00:00 UTC,Epidaurou - B
+597,Ashley,80,false,2016-04-03 01:00:00 UTC,Sousa - B
+597,Randy,44,false,2016-04-03 01:00:00 UTC,Yeriho - A
+597,Dottie,84,false,2016-04-03 01:00:00 UTC,Thebai - A
+597,Dad,64,false,2016-04-03 01:00:00 UTC,Ostia - A
+597,Tausha,77,false,2016-04-03 01:00:00 UTC,Kalakh - A
+597,Ryan,103,true,2016-04-03 01:00:00 UTC,Unknown
+598,Ashley,89,false,2016-04-09 21:00:00 UTC,Agbatana - B
+598,Randy,62,false,2016-04-09 21:00:00 UTC,Argolida - B
+598,Tausha,78,false,2016-04-09 21:00:00 UTC,Oasis Siba - A
+598,Dad,90,true,2016-04-09 21:00:00 UTC,Ourouk - B
+599,Ashley,71,false,2016-04-09 23:00:00 UTC,Amathous - B
+599,Randy,61,false,2016-04-09 23:00:00 UTC,Gaza - B
+599,Tausha,78,true,2016-04-09 23:00:00 UTC,Elioupolis - A
+599,Dad,74,false,2016-04-09 23:00:00 UTC,Unknown
+600,Ashley,63,false,2016-04-10 01:00:00 UTC,Urusalim - B
+600,Randy,56,false,2016-04-10 01:00:00 UTC,Phasis - B
+600,Tausha,73,false,2016-04-10 01:00:00 UTC,Tarsos - A
+600,Dad,62,false,2016-04-10 01:00:00 UTC,Unknown
+600,Ryan,98,true,2016-04-10 01:00:00 UTC,Arkadia - B
+601,Ashley,72,true,2016-04-10 02:00:00 UTC,Unknown
+601,Randy,35,false,2016-04-10 02:00:00 UTC,Phasis - B
+601,Dad,72,true,2016-04-10 02:00:00 UTC,Sinope - A
+601,Ryan,55,false,2016-04-10 02:00:00 UTC,Karthago - B
+602,Ashley,73,false,2016-04-16 21:00:00 UTC,Sidon - B
+602,Randy,68,false,2016-04-16 21:00:00 UTC,Urusalim - B
+602,Dottie,90,true,2016-04-16 21:00:00 UTC,Agbatana - A
+602,Dad,43,false,2016-04-16 21:00:00 UTC,Argolida - B
+603,Ashley,80,true,2016-04-16 23:00:00 UTC,Knosos - A
+603,Randy,50,false,2016-04-16 23:00:00 UTC,Elioupolis - A
+603,Dottie,69,false,2016-04-16 23:00:00 UTC,Byblos - B
+603,Dad,79,false,2016-04-16 23:00:00 UTC,Peiraieus - B
+603,Tausha,46,false,2016-04-16 23:00:00 UTC,Alabanda - B
+604,Ashley,67,false,2016-04-17 01:00:00 UTC,Oasis Siba - A
+604,Randy,64,false,2016-04-17 01:00:00 UTC,Unknown
+604,Dottie,84,false,2016-04-17 01:00:00 UTC,Karthago - A
+604,Dad,90,true,2016-04-17 01:00:00 UTC,Unknown
+604,Tausha,80,false,2016-04-17 01:00:00 UTC,Samarkande - B
+605,Ashley,77,false,2016-05-08 00:00:00 UTC,Troia - B
+605,Randy,66,false,2016-05-08 00:00:00 UTC,Unknown
+605,Dottie,81,true,2016-05-08 00:00:00 UTC,Sousa - B
+605,Dad,81,true,2016-05-08 00:00:00 UTC,Unknown
+605,Tausha,61,false,2016-05-08 00:00:00 UTC,Unknown
+606,Ashley,72,false,2016-05-14 21:00:00 UTC,Byblos - B
+606,Randy,57,false,2016-05-14 21:00:00 UTC,Gordion - B
+606,Dottie,71,false,2016-05-14 21:00:00 UTC,Oasis Siba - B
+606,Dad,93,true,2016-05-14 21:00:00 UTC,Delphoi - A
+607,Ashley,80,true,2016-05-14 23:00:00 UTC,Kappadokia - A
+607,Randy,67,false,2016-05-14 23:00:00 UTC,Koptos - A
+607,Dottie,71,false,2016-05-14 23:00:00 UTC,Samothraki - A
+607,Dad,80,true,2016-05-14 23:00:00 UTC,Yeriho - A
+608,Ashley,55,false,2016-05-15 00:00:00 UTC,Euboia - A
+608,Randy,47,false,2016-05-15 00:00:00 UTC,Our - A
+608,Dottie,70,true,2016-05-15 00:00:00 UTC,Sinope - A
+608,Dad,53,false,2016-05-15 00:00:00 UTC,Corropolis - B
+608,Tausha,62,false,2016-05-15 00:00:00 UTC,Ostia - A
+609,Ashley,59,false,2016-05-15 01:00:00 UTC,Kurene - B
+609,Randy,61,false,2016-05-15 01:00:00 UTC,Salamina - A
+609,Dottie,53,false,2016-05-15 01:00:00 UTC,Troia - A
+609,Dad,72,true,2016-05-15 01:00:00 UTC,Unknown
+609,Tausha,57,false,2016-05-15 01:00:00 UTC,Thira - A
+610,Ashley,86,true,2016-05-28 21:00:00 UTC,Ios - B
+610,Randy,82,false,2016-05-28 21:00:00 UTC,Catan - B
+610,Dottie,76,false,2016-05-28 21:00:00 UTC,Knosos - A
+610,Dad,45,false,2016-05-28 21:00:00 UTC,Thira - A
+611,Ashley,72,false,2016-05-28 23:00:00 UTC,Byblos - B
+611,Randy,74,false,2016-05-28 23:00:00 UTC,Ourouk - B
+611,Dottie,79,true,2016-05-28 23:00:00 UTC,Gaza - A
+611,Dad,47,false,2016-05-28 23:00:00 UTC,Unknown
+611,Tausha,59,false,2016-05-28 23:00:00 UTC,Thapsakos - A
+612,Ashley,52,false,2016-05-29 01:00:00 UTC,Sardis - A
+612,Randy,69,true,2016-05-29 01:00:00 UTC,Unknown
+612,Dottie,67,false,2016-05-29 01:00:00 UTC,Peiraieus - A
+612,Dad,71,false,2016-05-29 01:00:00 UTC,Unknown
+612,Tausha,67,false,2016-05-29 01:00:00 UTC,Epidaurou - A
+613,Ashley,98,true,2016-05-29 21:00:00 UTC,Korinthos - B
+613,Dottie,60,false,2016-05-29 21:00:00 UTC,Delphoi - A
+613,Jarrod,89,false,2016-05-29 21:00:00 UTC,Kadesh - A
+613,Ryan,86,false,2016-05-29 21:00:00 UTC,Abudos - B
+613,Dad,76,false,2016-05-29 21:00:00 UTC,Agbatana - A
+613,Tausha,58,false,2016-05-29 21:00:00 UTC,Sidon - B
+613,Randy,84,false,2016-05-29 21:00:00 UTC,Euboia - B
+614,Ashley,73,false,2016-05-29 23:00:00 UTC,Gordion - A
+614,Dottie,65,false,2016-05-29 23:00:00 UTC,Ios - B
+614,Jarrod,78,false,2016-05-29 23:00:00 UTC,Khattousa - A
+614,Ryan,86,true,2016-05-29 23:00:00 UTC,Samarkande - A
+614,Dad,46,false,2016-05-29 23:00:00 UTC,Issos - A
+614,Tausha,57,false,2016-05-29 23:00:00 UTC,Urusalim - B
+614,Randy,61,false,2016-05-29 23:00:00 UTC,Unknown
+615,Ashley,76,true,2016-06-04 21:00:00 UTC,Kadesh - A
+615,Randy,51,false,2016-06-04 21:00:00 UTC,Philippopolis - A
+615,Dottie,54,false,2016-06-04 21:00:00 UTC,Issos - B
+615,Dad,69,false,2016-06-04 21:00:00 UTC,Gaza - A
+616,Ashley,73,false,2016-06-04 23:00:00 UTC,Our - A
+616,Randy,67,false,2016-06-04 23:00:00 UTC,Unknown
+616,Dottie,77,true,2016-06-04 23:00:00 UTC,Pompei - B
+616,Dad,66,false,2016-06-04 23:00:00 UTC,Gordion - B
+616,Tausha,46,false,2016-06-04 23:00:00 UTC,Epidaurou - A
+617,Ashley,64,false,2016-06-05 00:00:00 UTC,Peiraieus - A
+617,Randy,77,true,2016-06-05 00:00:00 UTC,Samarkande - A
+617,Dottie,64,false,2016-06-05 00:00:00 UTC,Turos - A
+617,Dad,55,false,2016-06-05 00:00:00 UTC,Unknown
+617,Tausha,64,false,2016-06-05 00:00:00 UTC,Karthago - B
+618,Ashley,63,false,2016-06-05 01:00:00 UTC,Sardis - B
+618,Randy,63,false,2016-06-05 01:00:00 UTC,Urusalim - A
+618,Dottie,58,false,2016-06-05 01:00:00 UTC,Troia - B
+618,Dad,71,true,2016-06-05 01:00:00 UTC,Argolida - B
+618,Tausha,51,false,2016-06-05 01:00:00 UTC,Knosos - A
+619,Ashley,63,false,2016-06-11 21:00:00 UTC,Abudos - A
+619,Randy,78,true,2016-06-11 21:00:00 UTC,Agbatana - A
+619,Dottie,70,false,2016-06-11 21:00:00 UTC,Kadesh - B
+619,Dad,51,false,2016-06-11 21:00:00 UTC,Catan - B
+620,Ashley,82,false,2016-06-11 22:00:00 UTC,Ios - A
+620,Randy,108,true,2016-06-11 22:00:00 UTC,Epidaurou - A
+620,Dottie,95,false,2016-06-11 22:00:00 UTC,Khattousa - B
+620,Dad,41,false,2016-06-11 22:00:00 UTC,Gaza - A
+621,Ashley,71,false,2016-06-11 23:00:00 UTC,Korinthos - A
+621,Randy,69,false,2016-06-11 23:00:00 UTC,Pompei - B
+621,Dottie,67,false,2016-06-11 23:00:00 UTC,Kalakh - B
+621,Dad,73,true,2016-06-11 23:00:00 UTC,Amathous - B
+622,Ashley,71,false,2016-06-12 01:00:00 UTC,Samarkande - B
+622,Randy,79,true,2016-06-12 01:00:00 UTC,Yeriho - B
+622,Dottie,71,false,2016-06-12 01:00:00 UTC,Pasargadon - A
+622,Dad,60,false,2016-06-12 01:00:00 UTC,Tiryntha - B
+623,Ashley,91,true,2016-06-25 21:00:00 UTC,Epidaurou - B
+623,Randy,62,false,2016-06-25 21:00:00 UTC,Alabanda - B
+623,Dottie,83,false,2016-06-25 21:00:00 UTC,Argolida - A
+623,Dad,78,false,2016-06-25 21:00:00 UTC,Catan - A
+624,Ashley,74,true,2016-06-25 23:00:00 UTC,Ourouk - B
+624,Dottie,71,false,2016-06-25 23:00:00 UTC,Ios - A
+624,Dad,54,false,2016-06-25 23:00:00 UTC,Thapsakos - A
+624,Tausha,67,false,2016-06-25 23:00:00 UTC,Sardis - B
+624,Randy,68,false,2016-06-25 23:00:00 UTC,Catan - B
+625,Ashley,77,true,2016-06-26 01:00:00 UTC,Pompei - A
+625,Randy,37,false,2016-06-26 01:00:00 UTC,Amathous - B
+625,Dottie,63,false,2016-06-26 01:00:00 UTC,Kalakh - B
+625,Dad,60,false,2016-06-26 01:00:00 UTC,Unknown
+625,Tausha,52,false,2016-06-26 01:00:00 UTC,Corropolis - B
+626,Ashley,46,false,2016-06-26 02:00:00 UTC,Salamina - B
+626,Randy,66,true,2016-06-26 02:00:00 UTC,Sinope - B
+626,Dottie,59,false,2016-06-26 02:00:00 UTC,Mykenai - A
+626,Dad,25,false,2016-06-26 02:00:00 UTC,Unknown
+626,Tausha,60,false,2016-06-26 02:00:00 UTC,Unknown
+627,Ashley,62,true,2016-07-02 21:00:00 UTC,Korinthos - A
+627,Randy,56,false,2016-07-02 21:00:00 UTC,Arkadia - B
+627,Tausha,62,true,2016-07-02 05:00:00 UTC,Ios - A
+627,Dad,39,false,2016-07-02 21:00:00 UTC,Abudos - A
+628,Ashley,80,true,2016-07-02 22:00:00 UTC,Kurene - A
+628,Randy,61,false,2016-07-02 22:00:00 UTC,Issos - B
+628,Tausha,72,false,2016-07-02 22:00:00 UTC,Philippopolis - A
+628,Dad,69,false,2016-07-02 22:00:00 UTC,Kadesh - A
+629,Ashley,81,true,2016-07-02 23:00:00 UTC,Sardis - A
+629,Randy,42,false,2016-07-02 23:00:00 UTC,Amathous - B
+629,Tausha,52,false,2016-07-02 23:00:00 UTC,Ourouk - A
+629,Dad,50,false,2016-07-02 23:00:00 UTC,Kalakh - A
+630,Ashley,70,false,2016-07-03 00:00:00 UTC,Catan - B
+630,Randy,74,false,2016-07-03 00:00:00 UTC,Urusalim - B
+630,Tausha,80,true,2016-07-03 00:00:00 UTC,Mykenai - B
+630,Dad,50,false,2016-07-03 00:00:00 UTC,Salamina - B
+631,Ashley,58,false,2016-07-03 01:00:00 UTC,Yeriho - A
+631,Randy,52,false,2016-07-03 01:00:00 UTC,Our - A
+631,Tausha,79,true,2016-07-03 01:00:00 UTC,Samarkande - B
+631,Dad,75,false,2016-07-03 01:00:00 UTC,Thebai - B
+632,Ashley,72,false,2016-07-09 21:00:00 UTC,Agbatana - A
+632,Randy,51,false,2016-07-09 21:00:00 UTC,Alabanda - B
+632,Dottie,75,true,2016-07-09 21:00:00 UTC,Byblos - A
+632,Tausha,57,false,2016-07-09 21:00:00 UTC,Arkadia - A
+632,Dad,68,false,2016-07-09 21:00:00 UTC,Argolida - B
+633,Ashley,58,false,2016-07-09 22:00:00 UTC,Delos - B
+633,Randy,74,false,2016-07-09 22:00:00 UTC,Gaza - A
+633,Dottie,77,true,2016-07-09 22:00:00 UTC,Elioupolis - B
+633,Tausha,54,false,2016-07-09 22:00:00 UTC,Sardis - B
+633,Dad,69,false,2016-07-09 22:00:00 UTC,Epidaurou - B
+634,Ashley,72,true,2016-07-09 23:00:00 UTC,Akko - A
+634,Randy,58,false,2016-07-09 23:00:00 UTC,Koptos - B
+634,Dottie,72,true,2016-07-09 23:00:00 UTC,Pasargadon - B
+634,Tausha,56,false,2016-07-09 23:00:00 UTC,Thebai - A
+634,Dad,57,false,2016-07-09 23:00:00 UTC,Knosos - B
+635,Ashley,57,false,2016-07-10 00:00:00 UTC,Oasis Siba - B
+635,Randy,44,false,2016-07-10 00:00:00 UTC,Peiraieus - B
+635,Dottie,76,true,2016-07-10 00:00:00 UTC,Pompei - B
+635,Tausha,57,false,2016-07-10 00:00:00 UTC,Zeugma - A
+635,Dad,53,false,2016-07-10 00:00:00 UTC,Yeriho - A
+636,Ashley,73,false,2016-07-10 01:00:00 UTC,Ostia - A
+636,Randy,134,true,2016-07-10 01:00:00 UTC,Khattousa - B
+636,Dottie,64,false,2016-07-10 01:00:00 UTC,Kappadokia - A
+636,Dad,55,false,2016-07-10 01:00:00 UTC,Tiryntha - A
+637,Ashley,80,false,2016-07-10 02:00:00 UTC,Phasis - B
+637,Randy,53,false,2016-07-10 02:00:00 UTC,Turos - A
+637,Dottie,85,true,2016-07-10 02:00:00 UTC,Tarsos - A
+637,Dad,49,false,2016-07-10 02:00:00 UTC,Unknown
+638,Ashley,65,true,2016-07-10 03:00:00 UTC,Urusalim - A
+638,Randy,50,false,2016-07-10 03:00:00 UTC,Unknown
+638,Dottie,62,false,2016-07-10 03:00:00 UTC,Thapsakos - B
+638,Dad,57,false,2016-07-10 03:00:00 UTC,Unknown
+639,Ashley,95,false,2016-07-10 05:00:00 UTC,Philippopolis - A
+639,Randy,98,true,2016-07-10 05:00:00 UTC,Unknown
+639,Dottie,57,false,2016-07-10 05:00:00 UTC,Sousa - A
+639,Dad,58,false,2016-07-10 05:00:00 UTC,Unknown
+640,Ashley,56,false,2016-07-16 21:00:00 UTC,Gordion - B
+640,Randy,51,false,2016-07-16 21:00:00 UTC,Delphoi - A
+640,Dottie,72,true,2016-07-16 21:00:00 UTC,Urusalim - B
+640,Dad,40,false,2016-07-16 21:00:00 UTC,Argolida - A
+641,Ashley,91,true,2016-07-16 22:00:00 UTC,Kappadokia - B
+641,Randy,71,false,2016-07-16 22:00:00 UTC,Epidaurou - B
+641,Dottie,88,false,2016-07-16 22:00:00 UTC,Arkadia - A
+641,Dad,89,false,2016-07-16 22:00:00 UTC,Troia - A
+642,Ashley,81,true,2016-07-16 23:00:00 UTC,Kadesh - B
+642,Randy,68,false,2016-07-16 23:00:00 UTC,Knosos - A
+642,Dottie,79,false,2016-07-16 23:00:00 UTC,Euboia - B
+642,Dad,69,false,2016-07-16 23:00:00 UTC,Ourouk - A
+643,Ashley,67,true,2016-07-17 00:00:00 UTC,Tarsos - B
+643,Randy,65,false,2016-07-17 00:00:00 UTC,Pasargadon - A
+643,Dottie,52,false,2016-07-17 00:00:00 UTC,Gaza - A
+643,Dad,63,false,2016-07-17 00:00:00 UTC,Unknown
+644,Ashley,79,false,2016-07-17 01:00:00 UTC,Thebai - A
+644,Randy,61,false,2016-07-17 01:00:00 UTC,Pompei - B
+644,Dottie,80,true,2016-07-17 01:00:00 UTC,Unknown
+644,Dad,50,false,2016-07-17 01:00:00 UTC,Unknown
+645,Ashley,69,false,2016-07-17 02:00:00 UTC,Unknown
+645,Randy,72,false,2016-07-17 02:00:00 UTC,Samarkande - A
+645,Dottie,71,false,2016-07-17 02:00:00 UTC,Koptos - A
+645,Dad,85,true,2016-07-17 02:00:00 UTC,Phasis - B
+646,Ashley,70,false,2016-07-23 21:00:00 UTC,Kalakh - A
+646,Tausha,78,false,2016-07-23 21:00:00 UTC,Mykenai - B
+646,Dottie,79,false,2016-07-23 21:00:00 UTC,Akko - A
+646,Dad,99,true,2016-07-23 21:00:00 UTC,Our - A
+646,Randy,74,false,2016-07-23 21:00:00 UTC,Corropolis - B
+647,Ashley,61,false,2016-07-23 23:00:00 UTC,Amathous - A
+647,Tausha,49,false,2016-07-23 23:00:00 UTC,Turos - A
+647,Dottie,62,true,2016-07-23 23:00:00 UTC,Arbela - A
+647,Dad,52,false,2016-07-23 23:00:00 UTC,Unknown
+647,Randy,44,false,2016-07-23 23:00:00 UTC,Issos - B
+648,Ashley,76,false,2016-07-24 01:00:00 UTC,Kalakh - A
+648,Tausha,63,false,2016-07-24 01:00:00 UTC,Sousa - A
+648,Dottie,89,false,2016-07-24 01:00:00 UTC,Catan - B
+648,Dad,90,true,2016-07-24 01:00:00 UTC,Unknown
+648,Randy,50,false,2016-07-24 01:00:00 UTC,Pompei - A
+649,Randy,71,true,2016-08-06 21:00:00 UTC,Arkadia - B
+649,Dad,59,false,2016-08-06 21:00:00 UTC,Alabanda - B
+650,Randy,43,false,2016-08-06 22:00:00 UTC,Byblos - B
+650,Dad,95,true,2016-08-06 22:00:00 UTC,Sardis - B
+651,Randy,61,true,2016-08-06 23:00:00 UTC,Oasis Siba - B
+651,Dad,52,false,2016-08-06 23:00:00 UTC,Ios - A
+652,Randy,51,false,2016-08-07 00:00:00 UTC,Thebai - A
+652,Dad,68,true,2016-08-07 00:00:00 UTC,Thapsakos - B
+653,Randy,64,true,2016-08-07 01:00:00 UTC,Peiraieus - A
+653,Dad,47,false,2016-08-07 01:00:00 UTC,Turos - B
+654,Randy,49,false,2016-08-07 01:30:00 UTC,Unknown
+654,Dad,60,true,2016-08-07 01:30:00 UTC,Unknown
+655,Ashley,68,false,2016-08-13 21:00:00 UTC,Bassai - B
+655,Randy,62,false,2016-08-13 21:00:00 UTC,Phasis - B
+655,Dottie,73,true,2016-08-13 21:00:00 UTC,Agbatana - B
+655,Dad,59,false,2016-08-13 21:00:00 UTC,Byblos - B
+656,Ashley,44,false,2016-08-13 22:00:00 UTC,Corropolis - B
+656,Randy,51,false,2016-08-13 22:00:00 UTC,Sardis - A
+656,Dottie,61,false,2016-08-13 22:00:00 UTC,Ios - A
+656,Dad,69,true,2016-08-13 22:00:00 UTC,Yeriho - A
+656,Tausha,62,false,2016-08-13 22:00:00 UTC,Alabanda - B
+657,Ashley,78,false,2016-08-13 23:00:00 UTC,Philippopolis - B
+657,Randy,98,true,2016-08-13 23:00:00 UTC,Gordion - B
+657,Dottie,49,false,2016-08-13 23:00:00 UTC,Urusalim - A
+657,Dad,44,false,2016-08-13 23:00:00 UTC,Gaza - B
+657,Tausha,67,false,2016-08-13 23:00:00 UTC,Kurene - B
+658,Ashley,48,false,2016-08-14 00:00:00 UTC,Turos - A
+658,Randy,55,false,2016-08-14 00:00:00 UTC,Troia - B
+658,Dottie,73,true,2016-08-14 00:00:00 UTC,Arkadia - B
+658,Dad,52,false,2016-08-14 00:00:00 UTC,Karthago - B
+658,Tausha,62,false,2016-08-14 00:00:00 UTC,Pompei - B
+659,Ashley,65,false,2016-08-14 01:00:00 UTC,Zeugma - A
+659,Randy,61,false,2016-08-14 01:00:00 UTC,Unknown
+659,Dottie,99,true,2016-08-14 01:00:00 UTC,Korinthos - A
+659,Dad,56,false,2016-08-14 01:00:00 UTC,Unknown
+659,Tausha,55,false,2016-08-14 01:00:00 UTC,Thapsakos - B
+660,Ashley,59,false,2016-08-20 21:00:00 UTC,Delos - A
+660,Randy,62,false,2016-08-20 21:00:00 UTC,Agbatana - B
+660,Dad,73,true,2016-08-20 21:00:00 UTC,Khattousa - B
+661,Ashley,61,true,2016-08-20 22:00:00 UTC,Argolida - A
+661,Randy,33,false,2016-08-20 22:00:00 UTC,Ostia - A
+661,Dad,41,false,2016-08-20 22:00:00 UTC,Pompei - A
+662,Ashley,74,false,2016-08-20 23:00:00 UTC,Elioupolis - B
+662,Randy,81,true,2016-08-20 23:00:00 UTC,Salamina - B
+662,Dad,64,false,2016-08-20 23:00:00 UTC,Mykenai - A
+663,Ashley,78,true,2016-08-21 00:00:00 UTC,Turos - B
+663,Randy,54,false,2016-08-21 00:00:00 UTC,Our - A
+663,Dad,63,false,2016-08-21 00:00:00 UTC,Unknown
+664,Ashley,59,false,2016-08-21 01:00:00 UTC,Corropolis - A
+664,Randy,70,true,2016-08-21 01:00:00 UTC,Tarsos - B
+664,Dad,60,false,2016-08-21 01:00:00 UTC,Unknown
+665,Ashley,63,false,2016-08-21 01:00:00 UTC,Catan - A
+665,Randy,56,false,2016-08-21 01:00:00 UTC,Thebai - A
+665,Dad,69,true,2016-08-21 01:00:00 UTC,Unknown
+666,Ashley,80,true,2016-08-26 21:30:00 UTC,Karthago - A
+666,Randy,67,false,2016-08-26 21:30:00 UTC,Sidon - A
+666,Dad,53,false,2016-08-26 21:30:00 UTC,Delos - A
+667,Ashley,79,false,2016-08-26 22:30:00 UTC,Kalakh - B
+667,Randy,70,false,2016-08-26 22:30:00 UTC,Samarkande - B
+667,Dottie,89,true,2016-08-26 22:30:00 UTC,Our - A
+667,Dad,75,false,2016-08-26 22:30:00 UTC,Gordion - B
+668,Ashley,67,true,2016-08-27 00:30:00 UTC,Catan - A
+668,Randy,40,false,2016-08-27 00:30:00 UTC,Our - A
+668,Dottie,64,false,2016-08-27 00:30:00 UTC,Arbela - B
+668,Dad,67,true,2016-08-27 00:30:00 UTC,Sardis - B
+669,Randy,75,true,2016-09-10 21:00:00 UTC,Alabanda - B
+669,Dottie,63,false,2016-09-10 21:00:00 UTC,Gordion - A
+669,Dad,70,false,2016-09-10 21:00:00 UTC,Unknown
+669,Tausha,67,false,2016-09-10 21:00:00 UTC,Knosos - A
+670,Randy,58,false,2016-09-10 22:00:00 UTC,Oasis Siba - A
+670,Dottie,88,true,2016-09-10 22:00:00 UTC,Arkadia - B
+670,Dad,76,false,2016-09-10 22:00:00 UTC,Unknown
+670,Tausha,57,false,2016-09-10 22:00:00 UTC,Peiraieus - A
+671,Randy,75,false,2016-09-10 23:00:00 UTC,Thebai - B
+671,Dottie,84,true,2016-09-10 23:00:00 UTC,Korinthos - A
+671,Dad,52,false,2016-09-10 23:00:00 UTC,Unknown
+671,Tausha,54,false,2016-09-10 23:00:00 UTC,Unknown
+671,Randy,66,false,2016-09-11 00:00:00 UTC,Unknown
+671,Dottie,70,false,2016-09-11 00:00:00 UTC,Pompei - A
+671,Dad,83,true,2016-09-11 00:00:00 UTC,Unknown
+671,Tausha,65,false,2016-09-11 00:00:00 UTC,Unknown
+672,Randy,86,true,2016-09-11 01:00:00 UTC,Arkadia - B
+672,Dad,46,false,2016-09-11 01:00:00 UTC,Unknown
+672,Dottie,55,false,2016-09-11 01:00:00 UTC,Unknown
+673,Ashley,80,true,2016-09-17 21:00:00 UTC,Arbela - B
+673,Randy,60,false,2016-09-17 21:00:00 UTC,Catan - B
+673,Dad,67,false,2016-09-17 21:00:00 UTC,Issos - B
+673,Dottie,68,false,2016-09-17 21:00:00 UTC,Abudos - A
+674,Ashley,72,false,2016-09-17 22:00:00 UTC,Arkadia - B
+674,Randy,48,false,2016-09-17 22:00:00 UTC,Amathous - B
+674,Dad,72,false,2016-09-17 22:00:00 UTC,Mykenai - B
+674,Dottie,79,true,2016-09-17 22:00:00 UTC,Korinthos - A
+675,Ashley,49,false,2016-09-18 00:00:00 UTC,Sinope - A
+675,Randy,60,false,2016-09-18 00:00:00 UTC,Urusalim - A
+675,Dad,63,false,2016-09-18 00:00:00 UTC,Unknown
+675,Dottie,81,true,2016-09-18 00:00:00 UTC,Unknown
+676,Ashley,83,false,2016-10-01 21:00:00 UTC,Epidaurou - A
+676,Randy,59,false,2016-10-01 21:00:00 UTC,Elioupolis - B
+676,Dottie,76,false,2016-10-01 21:00:00 UTC,Corropolis - B
+676,Dad,91,true,2016-10-01 21:00:00 UTC,Pompei - B
+676,Tausha,67,false,2016-10-01 21:00:00 UTC,Alabanda - B
+677,Ashley,70,false,2016-10-01 22:00:00 UTC,Mykenai - B
+677,Randy,83,true,2016-10-01 22:00:00 UTC,Unknown
+677,Dottie,79,false,2016-10-01 22:00:00 UTC,Khattousa - A
+677,Dad,72,false,2016-10-01 22:00:00 UTC,Amathous - A
+677,Tausha,70,false,2016-10-01 22:00:00 UTC,Euboia - A
+678,Ashley,78,true,2016-10-01 23:00:00 UTC,Argolida - B
+678,Randy,68,false,2016-10-01 23:00:00 UTC,Thapsakos - B
+678,Dottie,60,false,2016-10-01 23:00:00 UTC,Thira - B
+678,Dad,55,false,2016-10-01 23:00:00 UTC,Peiraieus - A
+678,Tausha,75,false,2016-10-01 23:00:00 UTC,Philippopolis - A
+679,Ashley,66,true,2016-10-02 00:00:00 UTC,Delphoi - B
+679,Randy,45,false,2016-10-02 00:00:00 UTC,Unknown
+679,Dottie,63,false,2016-10-02 00:00:00 UTC,Tiryntha - B
+679,Dad,64,false,2016-10-02 00:00:00 UTC,Phasis - A
+680,Ashley,88,true,2016-10-08 21:00:00 UTC,Khattousa - A
+680,Randy,67,false,2016-10-08 21:00:00 UTC,Agbatana - B
+680,Tausha,63,false,2016-10-08 21:00:00 UTC,Byblos - B
+680,Dad,54,false,2016-10-08 21:00:00 UTC,Kadesh - B
+681,Ashley,70,true,2016-10-08 22:00:00 UTC,Unknown
+681,Randy,68,false,2016-10-08 22:00:00 UTC,Unknown
+681,Tausha,60,false,2016-10-08 22:00:00 UTC,Karthago - A
+681,Dad,56,false,2016-10-08 22:00:00 UTC,Unknown
+682,Ashley,74,false,2016-10-08 23:00:00 UTC,Elioupolis - A
+682,Randy,83,false,2016-10-08 23:00:00 UTC,Babylon - A
+682,Tausha,85,true,2016-10-08 23:00:00 UTC,Karthago - A
+682,Dad,60,false,2016-10-08 23:00:00 UTC,Yeriho - A
+683,Ashley,81,true,2016-10-09 00:00:00 UTC,Akko - B
+683,Randy,57,false,2016-10-09 00:00:00 UTC,Olympia - B
+683,Tausha,81,true,2016-10-09 00:00:00 UTC,Samarkande - A
+683,Dad,62,false,2016-10-09 00:00:00 UTC,Unknown
+684,Ashley,51,false,2016-10-09 01:00:00 UTC,Our - B
+684,Randy,41,false,2016-10-09 01:00:00 UTC,Turos - B
+684,Ryan,57,false,2016-10-09 01:00:00 UTC,Thira - A
+684,Dad,70,true,2016-10-09 01:00:00 UTC,Ephesos - B
+685,Ashley,71,true,2016-10-15 21:00:00 UTC,Gaza - A
+685,Randy,40,false,2016-10-15 21:00:00 UTC,Babylon - A
+685,Tausha,64,false,2016-10-15 21:00:00 UTC,Korinthos - A
+685,Dad,68,false,2016-10-15 21:00:00 UTC,Delos - B
+686,Ashley,63,false,2016-10-15 22:00:00 UTC,Samothraki - B
+686,Randy,57,false,2016-10-15 22:00:00 UTC,Knosos - B
+686,Tausha,65,true,2016-10-15 22:00:00 UTC,Olympia - B
+686,Dad,54,false,2016-10-15 22:00:00 UTC,Kappadokia - A
+687,Ashley,81,false,2016-10-15 23:00:00 UTC,Troia - A
+687,Randy,66,false,2016-10-15 23:00:00 UTC,Byzantium - B
+687,Tausha,102,true,2016-10-15 23:00:00 UTC,Gordion - B
+687,Dad,96,false,2016-10-15 23:00:00 UTC,Urusalim - B
+687,Dottie,81,false,2016-10-15 23:00:00 UTC,Sidon - B
+688,Ashley,60,false,2016-10-16 00:00:00 UTC,Issos - A
+688,Randy,85,true,2016-10-16 00:00:00 UTC,Arkadia - B
+688,Dottie,73,false,2016-10-16 00:00:00 UTC,Alabanda - A
+688,Dad,76,false,2016-10-16 00:00:00 UTC,Zeugma - B
+689,Ashley,68,false,2016-10-22 21:00:00 UTC,Tiryntha - B
+689,Randy,52,false,2016-10-22 21:00:00 UTC,Abudos - B
+689,Dottie,104,false,2016-10-22 21:00:00 UTC,Bassai - A
+689,Dad,111,true,2016-10-22 21:00:00 UTC,Alabanda - B
+689,Tausha,55,false,2016-10-22 21:00:00 UTC,Issos - A
+690,Ashley,71,true,2016-10-22 22:00:00 UTC,Ostia - A
+690,Randy,53,false,2016-10-22 22:00:00 UTC,Gizah - A
+690,Dottie,69,false,2016-10-22 22:00:00 UTC,Peiraieus - B
+690,Dad,67,false,2016-10-22 22:00:00 UTC,Thira - B
+690,Tausha,69,false,2016-10-22 22:00:00 UTC,Elioupolis - A
+691,Ashley,63,false,2016-10-22 23:00:00 UTC,Salamina - A
+691,Randy,66,false,2016-10-22 23:00:00 UTC,Thapsakos - A
+691,Dottie,81,true,2016-10-22 23:00:00 UTC,Delphoi - B
+691,Dad,65,false,2016-10-22 23:00:00 UTC,Pasargadon - B
+691,Tausha,63,false,2016-10-22 23:00:00 UTC,Alexandria - A
+692,Ashley,68,false,2016-10-23 00:00:00 UTC,Arkadia - A
+692,Randy,60,false,2016-10-23 00:00:00 UTC,Petra - A
+692,Dottie,74,true,2016-10-23 00:00:00 UTC,Knosos - A
+692,Dad,69,false,2016-10-23 00:00:00 UTC,Urusalim - B
+692,Tausha,63,false,2016-10-23 00:00:00 UTC,Kurene - B
+693,Ashley,79,true,2016-10-23 01:00:00 UTC,Pompei - B
+693,Randy,68,false,2016-10-23 01:00:00 UTC,Samarkande - B
+693,Dottie,46,false,2016-10-23 01:00:00 UTC,Turos - B
+693,Dad,58,false,2016-10-23 01:00:00 UTC,Our - A
+694,Ashley,89,true,2016-10-29 22:36:05 UTC,Alabanda - A
+694,Randy,60,false,2016-10-29 22:36:05 UTC,Korinthos - A
+694,Dottie,89,true,2016-10-29 22:36:05 UTC,Roma - A
+694,Dad,61,false,2016-10-29 22:36:05 UTC,Tarsos - A
+695,Ashley,123,true,2016-10-29 23:28:24 UTC,Alabanda - B
+695,Randy,63,false,2016-10-29 23:28:24 UTC,Manneken Pis - A
+695,Dottie,70,false,2016-10-29 23:28:24 UTC,Sardis - A
+695,Dad,62,false,2016-10-29 23:28:24 UTC,Khattousa - A
+696,Ashley,45,false,2016-10-30 00:25:37 UTC,Issos - B
+696,Randy,66,false,2016-10-30 00:25:37 UTC,Alexandria - B
+696,Dottie,71,true,2016-10-30 00:25:37 UTC,Zeugma - A
+696,Dad,52,false,2016-10-30 00:25:37 UTC,Tarsos - B
+697,Ashley,73,false,2016-10-30 01:56:04 UTC,Karthago - B
+697,Randy,82,false,2016-10-30 01:56:04 UTC,Samothraki - B
+697,Dottie,92,true,2016-10-30 01:56:04 UTC,Amathous - A
+697,Dad,82,false,2016-10-30 01:56:04 UTC,Oasis Siba - A
+697,Ryan,64,false,2016-10-30 01:56:04 UTC,Turos - B
+698,Ashley,78,false,2016-11-05 22:39:55 UTC,Knosos - B
+698,Randy,67,false,2016-11-05 22:39:55 UTC,Ephesos - B
+698,Tausha,93,true,2016-11-05 22:39:55 UTC,Phasis - B
+698,Dad,66,false,2016-11-05 22:39:55 UTC,Samarkande - A
+698,Dottie,56,false,2016-11-05 22:39:55 UTC,Ostia - A
+699,Ashley,77,true,2016-11-05 23:45:11 UTC,Mykenai - A
+699,Randy,56,false,2016-11-05 23:45:11 UTC,Troia - A
+699,Tausha,70,false,2016-11-05 23:45:11 UTC,Alabanda - A
+699,Dad,77,true,2016-11-05 23:45:11 UTC,Samothraki - A
+699,Dottie,76,false,2016-11-05 23:45:11 UTC,Kalakh - A
+700,Ashley,66,false,2016-11-06 00:48:29 UTC,Pasargadon - B
+700,Randy,70,false,2016-11-06 00:48:29 UTC,Karthago - A
+700,Tausha,76,true,2016-11-06 00:48:29 UTC,Agbatana - A
+700,Dad,66,false,2016-11-06 00:48:29 UTC,Delphoi - B
+700,Dottie,57,false,2016-11-06 00:48:29 UTC,Jedi Temple - A
+701,Ashley,59,false,2016-11-06 01:49:49 UTC,Thapsakos - B
+701,Randy,73,false,2016-11-06 01:49:49 UTC,Kadesh - A
+701,Dad,64,false,2016-11-06 01:49:49 UTC,Samothraki - A
+701,Ryan,81,true,2016-11-06 01:49:49 UTC,Tarsos - B
+701,Dottie,63,false,2016-11-06 01:49:49 UTC,Yeriho - B
+702,Ashley,76,false,2016-11-12 22:30:00 UTC,Thira - A
+702,Dottie,68,false,2016-11-12 22:30:00 UTC,Catan - A
+702,Tausha,98,true,2016-11-12 22:30:00 UTC,The Great Wall - A
+702,Dad,62,false,2016-11-12 22:30:00 UTC,Byblos - A
+703,Ashley,73,false,2016-11-12 23:10:00 UTC,Zeugma - B
+703,Dottie,52,false,2016-11-12 23:10:00 UTC,Korinthos - B
+703,Tausha,68,false,2016-11-12 23:10:00 UTC,Karthago - A
+703,Dad,87,true,2016-11-12 23:10:00 UTC,Kadesh - A
+704,Ashley,98,true,2016-11-13 00:10:00 UTC,Sousa - A
+704,Dottie,54,false,2016-11-13 00:10:00 UTC,Tarsos - B
+704,Tausha,91,false,2016-11-13 00:10:00 UTC,Thebai - B
+704,Dad,80,false,2016-11-13 00:10:00 UTC,Byzantium - A
+705,Ashley,82,true,2016-11-20 00:10:33 UTC,Samarkande - A
+705,Randy,72,false,2016-11-20 00:10:33 UTC,Sidon - B
+705,Dad,67,false,2016-11-20 00:10:33 UTC,Cloud City - A
+705,Tausha,70,false,2016-11-20 00:10:33 UTC,Sinope - B
+706,Ashley,72,true,2016-11-20 01:20:00 UTC,Alabanda - A
+706,Randy,46,false,2016-11-20 01:20:00 UTC,Kurene - A
+706,Dad,61,false,2016-11-20 01:20:00 UTC,Arbela - B
+706,Tausha,60,false,2016-11-20 01:20:00 UTC,Akko - B
+707,Ashley,71,false,2016-11-20 02:29:23 UTC,Tiryntha - A
+707,Randy,56,false,2016-11-20 02:29:23 UTC,Argolida - A
+707,Dad,52,false,2016-11-20 02:29:23 UTC,Kurene - B
+707,Tausha,72,true,2016-11-20 02:29:23 UTC,Pompei - A
+708,Ashley,70,true,2016-11-26 23:40:41 UTC,Sinope - B
+708,Randy,63,false,2016-11-26 23:40:41 UTC,Ios - B
+708,Dottie,65,false,2016-11-26 23:40:41 UTC,Koptos - B
+708,Tausha,52,false,2016-11-26 23:40:41 UTC,Yeriho - A
+709,Ashley,75,false,2016-11-27 00:16:36 UTC,Alabanda - A
+709,Randy,73,false,2016-11-27 00:16:36 UTC,Tiryntha - B
+709,Dottie,76,true,2016-11-27 00:16:36 UTC,Jedi Temple - B
+709,Tausha,72,false,2016-11-27 00:16:36 UTC,Kadesh - B
+710,Ashley,79,false,2016-11-27 01:33:59 UTC,Cloud City - A
+710,Randy,87,false,2016-11-27 01:33:59 UTC,The Great Wall - A
+710,Dottie,93,true,2016-11-27 01:33:59 UTC,Bassai - B
+710,Dad,70,false,2016-11-27 01:33:59 UTC,Urusalim - A
+710,Tausha,68,false,2016-11-27 01:33:59 UTC,Kadesh - A
+711,Randy,53,false,2016-11-27 03:10:48 UTC,Karthago - B
+711,Dad,77,true,2016-11-27 03:10:48 UTC,Oasis Siba - B
+711,Ashley,48,false,2016-11-27 03:10:48 UTC,Jedi Temple - A
+711,Tausha,63,false,2016-11-27 03:10:48 UTC,Urusalim - A
+711,Ryan,65,false,2016-11-27 03:10:48 UTC,Byblos - B
+711,Becky,73,false,2016-11-27 03:10:48 UTC,Alexandria - B
+711,Dottie,66,false,2016-11-27 03:10:48 UTC,Euboia - A
+712,Ashley,80,false,2016-12-03 23:03:13 UTC,Thebai - B
+712,Randy,48,false,2016-12-03 23:03:13 UTC,Philippopolis - B
+712,Tausha,113,true,2016-12-03 23:03:13 UTC,Bassai - B
+712,Dad,80,false,2016-12-03 23:03:13 UTC,Sardis - A
+712,Dottie,77,false,2016-12-03 23:03:13 UTC,Khattousa - B
+713,Ashley,78,false,2016-12-04 00:08:21 UTC,Cloud City - B
+713,Randy,68,false,2016-12-04 00:08:21 UTC,Sardis - B
+713,Tausha,63,false,2016-12-04 00:08:21 UTC,Korinthos - B
+713,Dad,98,true,2016-12-04 00:08:21 UTC,Sousa - A
+713,Dottie,73,false,2016-12-04 00:08:21 UTC,Abudos - B
+714,Ashley,74,false,2016-12-04 01:21:07 UTC,Tarsos - A
+714,Randy,72,false,2016-12-04 01:21:07 UTC,Jedi Temple - B
+714,Tausha,56,false,2016-12-04 01:21:07 UTC,Thira - B
+714,Dad,74,false,2016-12-04 01:21:07 UTC,Samarkande - B
+714,Dottie,82,true,2016-12-04 01:21:07 UTC,Ourouk - A
+715,Ashley,92,true,2016-12-04 02:15:39 UTC,Thira - B
+715,Randy,52,false,2016-12-04 02:15:39 UTC,Sousa - B
+715,Tausha,64,false,2016-12-04 02:15:39 UTC,Gordion - A
+715,Dad,62,false,2016-12-04 02:15:39 UTC,Sidon - B
+715,Dottie,81,false,2016-12-04 02:15:39 UTC,Phasis - B
+716,Ashley,81,false,2016-12-04 03:03:34 UTC,Bassai - A
+716,Randy,53,false,2016-12-04 03:03:34 UTC,Thira - A
+716,Dad,56,false,2016-12-04 03:03:34 UTC,Urusalim - B
+716,Dottie,97,true,2016-12-04 03:03:34 UTC,Khattousa - B
+716,Ryan,85,false,2016-12-04 03:03:34 UTC,Pompei - A
+717,Ashley,57,false,2016-12-10 23:26:10 UTC,Ourouk - A
+717,Dad,69,true,2016-12-10 23:26:11 UTC,Roma - A
+717,Randy,51,false,2016-12-10 23:26:11 UTC,Jedi Temple - A
+718,Ashley,68,false,2016-12-11 00:08:11 UTC,Jedi Temple - B
+718,Dottie,70,false,2016-12-11 00:08:11 UTC,Khattousa - B
+718,Dad,66,false,2016-12-11 00:08:11 UTC,Arbela - A
+718,Randy,72,true,2016-12-11 00:08:11 UTC,Kappadokia - B
+719,Ashley,85,true,2016-12-11 01:16:29 UTC,Phasis - A
+719,Dottie,70,false,2016-12-11 01:16:29 UTC,Argolida - B
+719,Dad,69,false,2016-12-11 01:16:29 UTC,Sidon - A
+719,Randy,49,false,2016-12-11 01:16:29 UTC,Arkadia - A
+720,Ashley,85,false,2016-12-11 02:14:37 UTC,Ostia - B
+720,Dottie,72,false,2016-12-11 02:14:37 UTC,Amathous - B
+720,Dad,92,true,2016-12-11 02:14:37 UTC,Pasargadon - A
+720,Randy,65,false,2016-12-11 02:14:37 UTC,Halikarnassos - B
+721,Ashley,74,false,2016-12-11 02:55:12 UTC,Yeriho - B
+721,Dottie,98,true,2016-12-11 02:55:12 UTC,Cloud City - A
+721,Dad,52,false,2016-12-11 02:55:12 UTC,Troia - B
+721,Randy,81,false,2016-12-11 02:55:12 UTC,Alexandria - A
+721,Ryan,55,false,2016-12-11 02:55:12 UTC,Jedi Temple - A
+722,Ashley,76,false,2016-12-17 23:03:16 UTC,Arbela - A
+722,Randy,52,false,2016-12-17 23:03:16 UTC,Delphoi - B
+722,Dad,72,false,2016-12-17 23:03:16 UTC,Bassai - B
+722,Tausha,90,true,2016-12-17 23:03:16 UTC,Ios - B
+722,Dottie,77,false,2016-12-17 23:03:16 UTC,Thapsakos - A
+723,Ashley,73,true,2016-12-18 00:32:29 UTC,Argolida - B
+723,Randy,58,false,2016-12-18 00:32:29 UTC,Issos - A
+723,Dad,52,false,2016-12-18 00:32:29 UTC,Akko - A
+723,Tausha,66,false,2016-12-18 00:32:29 UTC,Ourouk - B
+723,Dottie,45,false,2016-12-18 00:32:29 UTC,Philippopolis - A
+724,Ashley,67,false,2016-12-18 01:22:53 UTC,Halikarnassos - A
+724,Randy,65,false,2016-12-18 01:22:53 UTC,Gizah - B
+724,Dad,115,true,2016-12-18 01:22:53 UTC,Euboia - B
+724,Tausha,63,false,2016-12-18 01:22:53 UTC,Abudos - B
+724,Dottie,49,false,2016-12-18 01:22:53 UTC,Philippopolis - B
+725,Ashley,60,false,2016-12-18 02:15:50 UTC,Philippopolis - A
+725,Randy,52,false,2016-12-18 02:15:50 UTC,Kalakh - B
+725,Dad,92,true,2016-12-18 02:15:50 UTC,Urusalim - B
+725,Tausha,65,false,2016-12-18 02:15:50 UTC,Mykenai - A
+725,Dottie,56,false,2016-12-18 02:15:50 UTC,Ostia - B
+726,Ashley,163,true,2016-12-18 03:15:50 UTC,Alabanda - B
+726,Randy,51,false,2016-12-18 03:15:51 UTC,Abudos - A
+726,Dad,87,false,2016-12-18 03:15:51 UTC,Thebai - A
+726,Tausha,61,false,2016-12-18 03:15:51 UTC,Zeugma - B
+726,Dottie,53,false,2016-12-18 03:15:51 UTC,Our - B
+726,Ryan,52,false,2016-12-18 03:15:51 UTC,Yeriho - A
+727,Ashley,54,false,2016-12-24 00:46:43 UTC,Sousa - B
+727,Randy,54,false,2016-12-24 00:46:43 UTC,Zeugma - B
+727,Dottie,79,false,2016-12-24 00:46:43 UTC,Salamina - B
+727,Tausha,64,false,2016-12-24 00:46:43 UTC,Koptos - B
+727,Dad,85,true,2016-12-24 00:46:43 UTC,Cloud City - B
+728,Ashley,65,false,2016-12-24 01:55:59 UTC,Arkadia - A
+728,Randy,45,false,2016-12-24 01:55:59 UTC,Alexandria - B
+728,Dottie,54,false,2016-12-24 01:55:59 UTC,Ourouk - B
+728,Tausha,71,true,2016-12-24 01:55:59 UTC,Turos - A
+728,Dad,57,false,2016-12-24 01:55:59 UTC,Euboia - A
+729,Ashley,62,false,2016-12-24 02:51:05 UTC,Olympia - A
+729,Randy,64,false,2016-12-24 02:51:06 UTC,Ephesos - A
+729,Dottie,70,false,2016-12-24 02:51:06 UTC,Cloud City - B
+729,Dad,66,false,2016-12-24 02:51:06 UTC,Urusalim - B
+729,Ryan,78,true,2016-12-24 02:51:06 UTC,Pasargadon - A
+730,Dad,108,true,2017-01-07 23:35:26 UTC,Urusalim - B
+730,Randy,89,false,2017-01-07 23:35:26 UTC,Kalakh - A
+730,Dottie,71,false,2017-01-07 23:35:26 UTC,Yeriho - A
+730,Tausha,62,false,2017-01-07 23:35:26 UTC,Jedi Temple - B
+731,Dad,104,true,2017-01-08 00:26:57 UTC,Knosos - A
+731,Randy,59,false,2017-01-08 00:26:57 UTC,Roma - B
+731,Dottie,66,false,2017-01-08 00:26:57 UTC,Akko - B
+731,Tausha,68,false,2017-01-08 00:26:57 UTC,Our - B
+732,Dad,57,false,2017-01-08 01:17:05 UTC,Philippopolis - A
+732,Randy,66,false,2017-01-08 01:17:05 UTC,Mykenai - A
+732,Dottie,64,false,2017-01-08 01:17:05 UTC,Sinope - B
+732,Tausha,78,true,2017-01-08 01:17:05 UTC,Cloud City - B
+733,Dad,77,true,2017-01-08 02:08:03 UTC,Samothraki - B
+733,Randy,59,false,2017-01-08 02:08:03 UTC,Byzantium - A
+733,Dottie,61,false,2017-01-08 02:08:03 UTC,Thebai - B
+733,Tausha,64,false,2017-01-08 02:08:03 UTC,Kappadokia - A
+734,Dad,50,false,2017-01-08 02:52:32 UTC,Koptos - B
+734,Randy,36,false,2017-01-08 02:52:32 UTC,Alexandria - B
+734,Dottie,61,false,2017-01-08 02:52:33 UTC,Samothraki - B
+734,Tausha,74,true,2017-01-08 02:52:33 UTC,Elioupolis - B
+735,Ashley,63,false,2017-01-14 23:25:02 UTC,Agbatana - B
+735,Randy,66,false,2017-01-14 23:25:02 UTC,Babylon - B
+735,Dad,82,true,2017-01-14 23:25:02 UTC,Abudos - B
+735,Tausha,52,false,2017-01-14 23:25:02 UTC,Delos - A
+735,Dottie,59,false,2017-01-14 23:25:02 UTC,Phasis - A
+736,Ashley,75,false,2017-01-15 00:21:01 UTC,Kalakh - B
+736,Randy,49,false,2017-01-15 00:21:01 UTC,Bassai - A
+736,Dad,71,false,2017-01-15 00:21:01 UTC,Turos - A
+736,Tausha,76,true,2017-01-15 00:21:01 UTC,Samothraki - A
+736,Dottie,74,false,2017-01-15 00:21:01 UTC,Tiryntha - A
+737,Ashley,64,false,2017-01-15 01:37:12 UTC,Samothraki - A
+737,Randy,44,false,2017-01-15 01:37:12 UTC,Sousa - A
+737,Dad,82,true,2017-01-15 01:37:12 UTC,Sinope - B
+737,Tausha,79,false,2017-01-15 01:37:12 UTC,Turos - B
+737,Dottie,67,false,2017-01-15 01:37:12 UTC,Thira - A
+738,Ashley,90,false,2017-01-15 02:46:14 UTC,Rhodos - A
+738,Randy,70,false,2017-01-15 02:46:14 UTC,Arbela - B
+738,Dad,96,true,2017-01-15 02:46:14 UTC,Urusalim - B
+738,Dottie,70,false,2017-01-15 02:46:14 UTC,Epidaurou - A
+738,Ryan,61,false,2017-01-15 02:46:14 UTC,Pasargadon - B
+739,Dad,87,true,2017-01-28 23:01:50 UTC,Urusalim - B
+739,Randy,50,false,2017-01-28 23:01:50 UTC,Roma - A
+739,Tausha,86,false,2017-01-28 23:01:50 UTC,Cloud City - A
+739,Ashley,66,false,2017-01-28 23:01:50 UTC,Ios - A
+740,Dad,101,true,2017-01-29 00:03:50 UTC,Urusalim - B
+740,Randy,43,false,2017-01-29 00:03:50 UTC,Kurene - B
+740,Tausha,62,false,2017-01-29 00:03:50 UTC,Alexandria - B
+740,Ashley,64,false,2017-01-29 00:03:50 UTC,Arbela - B
+741,Dad,44,false,2017-01-29 00:54:34 UTC,Jedi Temple - B
+741,Randy,83,true,2017-01-29 00:54:34 UTC,Mykenai - B
+741,Tausha,70,false,2017-01-29 00:54:34 UTC,Pasargadon - A
+741,Ashley,72,false,2017-01-29 00:54:34 UTC,Tiryntha - B
+742,Dad,49,false,2017-01-29 01:58:53 UTC,Korinthos - B
+742,Randy,61,false,2017-01-29 01:58:53 UTC,Cloud City - A
+742,Tausha,86,false,2017-01-29 01:58:53 UTC,Oasis Siba - B
+742,Ashley,139,true,2017-01-29 01:58:53 UTC,Alabanda - B
+743,Dad,78,false,2017-01-29 02:48:06 UTC,Epidaurou - A
+743,Randy,60,false,2017-01-29 02:48:06 UTC,Amathous - A
+743,Tausha,83,true,2017-01-29 02:48:06 UTC,Akko - A
+743,Ashley,79,false,2017-01-29 02:48:06 UTC,Turos - B
+744,Dad,72,false,2017-02-25 23:01:19 UTC,Urusalim - B
+744,Randy,48,false,2017-02-25 23:01:19 UTC,Euboia - A
+744,Tausha,96,true,2017-02-25 23:01:19 UTC,Bassai - A
+744,Ashley,88,false,2017-02-25 23:01:19 UTC,Alabanda - B
+745,Dad,76,false,2017-02-26 00:19:41 UTC,Our - B
+745,Randy,48,false,2017-02-26 00:19:41 UTC,Delos - A
+745,Tausha,79,true,2017-02-26 00:19:41 UTC,Amathous - A
+745,Ashley,76,false,2017-02-26 00:19:41 UTC,Zeugma - B
+746,Dad,70,false,2017-02-26 01:12:49 UTC,Ios - B
+746,Randy,66,false,2017-02-26 01:12:49 UTC,Catan - A
+746,Tausha,70,false,2017-02-26 01:12:49 UTC,Arkadia - B
+746,Ashley,86,true,2017-02-26 01:12:49 UTC,Delos - B
+747,Dad,54,false,2017-02-26 02:02:44 UTC,Bassai - A
+747,Randy,70,true,2017-02-26 02:02:44 UTC,Alexandria - B
+747,Tausha,59,false,2017-02-26 02:02:44 UTC,Knosos - B
+747,Ashley,67,false,2017-02-26 02:02:44 UTC,Yeriho - A
+748,Dad,64,false,2017-02-26 02:43:49 UTC,Urusalim - B
+748,Randy,61,false,2017-02-26 02:43:49 UTC,Arbela - A
+748,Tausha,71,false,2017-02-26 02:43:49 UTC,Euboia - B
+748,Ashley,79,true,2017-02-26 02:43:49 UTC,Delos - A
+749,Randy,51,false,2017-03-04 23:37:00 UTC,Manneken Pis - B
+749,Dad,66,false,2017-03-04 23:37:00 UTC,Yeriho - B
+749,Ashley,79,true,2017-03-04 23:37:00 UTC,Sinope - B
+749,Tausha,41,false,2017-03-04 23:37:00 UTC,Philippopolis - B
+749,Dottie,68,false,2017-03-04 23:37:00 UTC,Karthago - B
+750,Dad,69,false,2017-03-05 00:41:23 UTC,Salamina - A
+750,Randy,51,false,2017-03-05 00:41:23 UTC,Alabanda - A
+750,Tausha,74,false,2017-03-05 00:41:23 UTC,Issos - B
+750,Ashley,67,false,2017-03-05 00:41:23 UTC,Halikarnassos - A
+750,Dottie,84,true,2017-03-05 00:41:23 UTC,Zeugma - B
+751,Dad,109,true,2017-03-05 02:00:03 UTC,Sousa - B
+751,Randy,72,false,2017-03-05 02:00:03 UTC,Thira - B
+751,Tausha,76,false,2017-03-05 02:00:03 UTC,Gaza - A
+751,Ashley,76,false,2017-03-05 02:00:03 UTC,Argolida - A
+751,Dottie,73,false,2017-03-05 02:00:03 UTC,Abu Simbel - A
+752,Dad,68,false,2017-03-05 02:51:02 UTC,Jedi Temple - A
+752,Randy,61,false,2017-03-05 02:51:02 UTC,Stonehenge - B
+752,Tausha,81,false,2017-03-05 02:51:02 UTC,Our - A
+752,Ashley,84,true,2017-03-05 02:51:02 UTC,Knosos - B
+752,Dottie,69,false,2017-03-05 02:51:02 UTC,Elioupolis - A
+753,Dad,60,false,2017-03-11 23:35:47 UTC,Ostia - B
+753,Randy,52,false,2017-03-11 23:35:47 UTC,Phasis - A
+753,Ashley,76,true,2017-03-11 23:35:47 UTC,Ephesos - A
+754,Dad,71,false,2017-03-12 00:11:12 UTC,Akko - B
+754,Randy,58,false,2017-03-12 00:11:12 UTC,Byblos - A
+754,Ashley,87,true,2017-03-12 00:11:12 UTC,Kappadokia - B
+755,Dad,67,false,2017-03-12 01:02:59 UTC,Pasargadon - B
+755,Randy,48,false,2017-03-12 01:02:59 UTC,Ourouk - A
+755,Ashley,86,true,2017-03-12 01:02:59 UTC,Yeriho - B
+756,Dad,80,false,2017-03-12 01:45:12 UTC,Urusalim - B
+756,Randy,62,false,2017-03-12 01:45:12 UTC,Petra - B
+756,Ashley,98,true,2017-03-12 01:45:12 UTC,Akko - B
+757,Dad,53,false,2017-03-12 02:33:27 UTC,Sinope - B
+757,Randy,61,false,2017-03-12 02:33:27 UTC,Gordion - A
+757,Ashley,69,true,2017-03-12 02:33:27 UTC,Ostia - A
+758,Dad,59,false,2017-03-18 21:52:34 UTC,Urusalim - B
+758,Randy,65,false,2017-03-18 21:52:34 UTC,Stonehenge - A
+758,Tausha,65,false,2017-03-18 21:52:34 UTC,Catan - B
+758,Ashley,72,true,2017-03-18 21:52:34 UTC,Kalakh - B
+758,Dottie,52,false,2017-03-18 21:52:34 UTC,Samarkande - B
+759,Dad,92,false,2017-03-18 22:44:38 UTC,Pompei - A
+759,Randy,62,false,2017-03-18 22:44:38 UTC,Khattousa - A
+759,Tausha,90,false,2017-03-18 22:44:38 UTC,Koptos - A
+759,Ashley,94,true,2017-03-18 22:44:38 UTC,Petra - B
+759,Dottie,69,false,2017-03-18 22:44:38 UTC,Sidon - A
+760,Dad,83,false,2017-03-18 23:47:13 UTC,Manneken Pis - A
+760,Randy,57,false,2017-03-18 23:47:13 UTC,Korinthos - B
+760,Tausha,69,false,2017-03-18 23:47:13 UTC,Tiryntha - A
+760,Ashley,125,true,2017-03-18 23:47:13 UTC,Abu Simbel - A
+760,Dottie,63,false,2017-03-18 23:47:13 UTC,Byblos - B
+761,Dad,61,false,2017-03-19 00:40:21 UTC,The Great Wall - A
+761,Randy,46,false,2017-03-19 00:40:21 UTC,Akko - A
+761,Tausha,73,true,2017-03-19 00:40:21 UTC,Salamina - B
+761,Ashley,68,false,2017-03-19 00:40:21 UTC,Thapsakos - A
+761,Dottie,69,false,2017-03-19 00:40:21 UTC,Urusalim - B
+762,Dad,78,true,2017-03-19 01:15:20 UTC,Gizah - B
+762,Randy,37,false,2017-03-19 01:15:20 UTC,Tiryntha - A
+762,Tausha,72,false,2017-03-19 01:15:20 UTC,Kalakh - B
+762,Ashley,77,false,2017-03-19 01:15:20 UTC,Arbela - A
+762,Dottie,64,false,2017-03-19 01:15:20 UTC,Mykenai - B
+763,Dad,56,false,2017-03-25 22:58:25 UTC,Delos - A
+763,Randy,96,true,2017-03-25 22:58:25 UTC,Samothraki - A
+763,Tausha,80,false,2017-03-25 22:58:25 UTC,Phasis - A
+763,Ashley,89,false,2017-03-25 22:58:26 UTC,Agbatana - B
+763,Dottie,57,false,2017-03-25 22:58:26 UTC,Philippopolis - A
+764,Dad,50,false,2017-03-25 23:41:50 UTC,Akko - B
+764,Randy,60,false,2017-03-25 23:41:50 UTC,Olympia - A
+764,Tausha,83,true,2017-03-25 23:41:50 UTC,Arbela - A
+764,Ashley,78,false,2017-03-25 23:41:50 UTC,Samothraki - B
+764,Dottie,52,false,2017-03-25 23:41:50 UTC,Arkadia - A
+765,Dad,55,false,2017-03-26 00:53:15 UTC,Urusalim - B
+765,Randy,54,false,2017-03-26 00:53:15 UTC,Rhodos - A
+765,Tausha,81,true,2017-03-26 00:53:15 UTC,Delphoi - B
+765,Ashley,57,false,2017-03-26 00:53:15 UTC,Yeriho - A
+765,Dottie,63,false,2017-03-26 00:53:15 UTC,Salamina - A
+766,Dad,66,false,2017-03-26 01:35:28 UTC,Ostia - A
+766,Randy,71,false,2017-03-26 01:35:28 UTC,The Great Wall - B
+766,Tausha,85,true,2017-03-26 01:35:28 UTC,Arbela - B
+766,Ashley,72,false,2017-03-26 01:35:28 UTC,Akko - A
+766,Dottie,74,false,2017-03-26 01:35:28 UTC,Alabanda - B
+767,Dad,53,false,2017-03-26 02:15:28 UTC,Thira - A
+767,Randy,71,false,2017-03-26 02:15:28 UTC,Cloud City - B
+767,Ashley,80,false,2017-03-26 02:15:28 UTC,Arbela - A
+767,Dottie,88,true,2017-03-26 02:15:28 UTC,Alabanda - B
+768,Dad,68,false,2017-03-26 03:20:32 UTC,Alexandria - B
+768,Randy,59,false,2017-03-26 03:20:32 UTC,Pasargadon - B
+768,Ashley,78,true,2017-03-26 03:20:32 UTC,Roma - B
+768,Dottie,55,false,2017-03-26 03:20:32 UTC,Samarkande - A
+769,Randy,62,false,2017-04-01 22:12:30 UTC,Rhodos - B
+769,Dad,64,false,2017-04-01 22:12:30 UTC,Gordion - A
+769,Ashley,83,true,2017-04-01 22:12:30 UTC,Peiraieus - A
+769,Tausha,70,false,2017-04-01 22:12:30 UTC,Catan - A
+769,Dottie,74,false,2017-04-01 22:12:30 UTC,Argolida - A
+770,Randy,50,false,2017-04-01 23:36:29 UTC,Akko - B
+770,Dad,71,false,2017-04-01 23:36:29 UTC,Kappadokia - A
+770,Ashley,97,true,2017-04-01 23:36:29 UTC,Arkadia - B
+770,Tausha,66,false,2017-04-01 23:36:29 UTC,Agbatana - B
+770,Dottie,63,false,2017-04-01 23:36:29 UTC,Petra - A
+771,Randy,66,false,2017-04-02 00:42:03 UTC,Delos - B
+771,Dad,50,false,2017-04-02 00:42:03 UTC,Thebai - A
+771,Ashley,52,false,2017-04-02 00:42:03 UTC,Oasis Siba - A
+771,Tausha,68,false,2017-04-02 00:42:03 UTC,Alexandria - B
+771,Dottie,82,true,2017-04-02 00:42:03 UTC,Knosos - B
+772,Randy,39,false,2017-04-02 01:42:03 UTC,Delos - B
+772,Dad,89,true,2017-04-02 01:42:03 UTC,Urusalim - B
+772,Ashley,67,false,2017-04-02 01:42:03 UTC,Pompei - B
+772,Tausha,67,false,2017-04-02 01:42:03 UTC,Sousa - B
+772,Dottie,78,false,2017-04-02 01:42:03 UTC,Sardis - B
+773,Dad,74,true,2017-04-08 22:05:21 UTC,Stonehenge - B
+773,Randy,63,false,2017-04-08 22:05:22 UTC,Abu Simbel - B
+773,Tausha,61,false,2017-04-08 22:05:22 UTC,Pasargadon - B
+774,Dad,60,false,2017-04-08 22:52:13 UTC,Kalakh - B
+774,Randy,51,false,2017-04-08 22:52:13 UTC,Halikarnassos - A
+774,Tausha,77,true,2017-04-08 22:52:13 UTC,Kurene - A
+775,Dad,66,false,2017-04-08 23:38:11 UTC,Roma - B
+775,Randy,70,false,2017-04-08 23:38:11 UTC,Ios - A
+775,Tausha,77,true,2017-04-08 23:38:11 UTC,Yeriho - B
+776,Dad,81,true,2017-04-09 00:42:13 UTC,Pasargadon - B
+776,Randy,61,false,2017-04-09 00:42:13 UTC,Zeugma - A
+776,Tausha,64,false,2017-04-09 00:42:13 UTC,Troia - B
+777,Dad,55,false,2017-04-09 01:39:47 UTC,Ostia - B
+777,Randy,44,false,2017-04-09 01:39:47 UTC,Abu Simbel - A
+777,Tausha,84,true,2017-04-09 01:39:47 UTC,Tarsos - B
+778,Dad,70,false,2017-04-15 22:28:41 UTC,Pasargadon - B
+778,Randy,74,true,2017-04-15 22:28:41 UTC,Sinope - A
+778,Tausha,64,false,2017-04-15 22:28:41 UTC,Delos - B
+778,Ashley,64,false,2017-04-15 22:28:41 UTC,Babylon - B
+778,Dottie,61,false,2017-04-15 22:28:41 UTC,Abudos - B
+779,Dad,46,false,2017-04-15 23:38:28 UTC,Salamina - A
+779,Tausha,64,false,2017-04-15 23:38:28 UTC,Argolida - B
+779,Ashley,81,true,2017-04-15 23:38:28 UTC,Ourouk - A
+779,Dottie,52,false,2017-04-15 23:38:28 UTC,Alexandria - A
+780,Dad,54,false,2017-04-16 00:54:52 UTC,Karthago - B
+780,Tausha,73,false,2017-04-16 00:54:52 UTC,Khattousa - A
+780,Ashley,77,true,2017-04-16 00:54:52 UTC,Sousa - A
+780,Dottie,56,false,2017-04-16 00:54:52 UTC,Issos - B
+781,Dad,49,false,2017-04-16 01:31:51 UTC,Samarkande - A
+781,Tausha,71,false,2017-04-16 01:31:51 UTC,Cloud City - A
+781,Ashley,60,false,2017-04-16 01:31:51 UTC,Euboia - A
+781,Dottie,96,true,2017-04-16 01:31:51 UTC,Alabanda - B
+782,Dad,56,false,2017-04-23 01:20:25 UTC,Oasis Siba - A
+782,Randy,71,true,2017-04-23 01:20:25 UTC,Pasargadon - B
+782,Ashley,61,false,2017-04-23 01:20:25 UTC,Zeugma - B
+783,Dad,89,false,2017-04-23 02:00:34 UTC,Delos - A
+783,Randy,78,false,2017-04-23 02:00:34 UTC,Epidaurou - A
+783,Ashley,98,true,2017-04-23 02:00:34 UTC,Amathous - B
+784,Dad,76,true,2017-04-29 23:37:44 UTC,Yeriho - B
+784,Ashley,68,false,2017-04-29 23:37:44 UTC,Delphoi - B
+784,Tausha,54,false,2017-04-29 23:37:44 UTC,Sinope - A
+785,Dad,94,true,2017-04-30 00:26:45 UTC,Jedi Temple - B
+785,Ashley,84,false,2017-04-30 00:26:45 UTC,Sidon - A
+785,Tausha,67,false,2017-04-30 00:26:45 UTC,Sardis - A
+786,Dad,59,false,2017-04-30 01:46:03 UTC,Kappadokia - A
+786,Ashley,80,true,2017-04-30 01:46:03 UTC,Phasis - A
+786,Tausha,58,false,2017-04-30 01:46:03 UTC,Abudos - A
+787,Dad,61,false,2017-05-07 00:27:07 UTC,Philippopolis - B
+787,Randy,71,false,2017-05-07 00:27:07 UTC,Roma - A
+787,Ashley,82,true,2017-05-07 00:27:07 UTC,Tiryntha - A
+788,Dad,41,false,2017-05-07 01:07:26 UTC,Khattousa - A
+788,Randy,58,false,2017-05-07 01:07:26 UTC,Pompei - B
+788,Ashley,67,true,2017-05-07 01:07:26 UTC,Rhodos - B
+789,Dad,63,false,2017-05-07 01:54:28 UTC,Philippopolis - B
+789,Randy,65,false,2017-05-07 01:54:28 UTC,Thira - B
+789,Ashley,101,true,2017-05-07 01:54:28 UTC,Alabanda - B
+790,Dad,72,false,2017-05-13 22:49:41 UTC,Babylon - B
+790,Randy,73,true,2017-05-13 22:49:42 UTC,Jedi Temple - B
+791,Dad,55,false,2017-05-13 23:53:07 UTC,Karthago - B
+791,Randy,68,true,2017-05-13 23:53:08 UTC,Ostia - A
+792,Dad,53,false,2017-05-14 00:47:09 UTC,Issos - B
+792,Randy,64,true,2017-05-14 00:47:09 UTC,Halikarnassos - B
+792,Tausha,64,true,2017-05-14 00:47:09 UTC,Peiraieus - B
+793,Dad,80,true,2017-05-28 01:13:49 UTC,Samarkande - A
+793,Tausha,80,true,2017-05-28 01:13:49 UTC,Kappadokia - B
+793,Dottie,56,false,2017-05-28 01:13:49 UTC,Delos - B
+794,Dad,99,true,2017-06-10 21:47:36 UTC,Abudos - A
+794,Ashley,75,false,2017-06-10 21:47:36 UTC,Elioupolis - B
+794,Tausha,67,false,2017-06-10 21:47:36 UTC,Salamina - A
+795,Dad,65,false,2017-06-10 22:38:27 UTC,Pompei - A
+795,Tausha,60,false,2017-06-10 22:38:27 UTC,Sidon - A
+795,Ashley,79,true,2017-06-10 22:38:27 UTC,Alexandria - B
+796,Dad,68,false,2017-06-10 23:36:10 UTC,Petra - A
+796,Tausha,64,false,2017-06-10 23:36:10 UTC,Corropolis - A
+796,Ashley,78,true,2017-06-10 23:36:10 UTC,Peiraieus - B
+797,Dad,82,true,2017-06-11 00:21:59 UTC,Karthago - B
+797,Tausha,49,false,2017-06-11 00:21:59 UTC,Troia - A
+797,Ashley,74,false,2017-06-11 00:21:59 UTC,Gaza - A
+798,Dad,56,false,2017-06-11 01:39:34 UTC,Turos - B
+798,Tausha,48,false,2017-06-11 01:39:34 UTC,Tiryntha - B
+798,Ashley,60,true,2017-06-11 01:39:34 UTC,Oasis Siba - B
+799,Dad,78,false,2017-06-18 21:03:13 UTC,Khattousa - A
+799,Ashley,90,false,2017-06-18 21:03:13 UTC,Abudos - B
+799,Tausha,72,false,2017-06-18 21:03:13 UTC,Jedi Temple - A
+799,Jarrod,116,true,2017-06-18 21:03:13 UTC,Zeugma - A
+799,Ryan,63,false,2017-06-18 21:03:13 UTC,Sousa - B
+799,Dottie,67,false,2017-06-18 21:03:13 UTC,Delos - A
+800,Dad,98,true,2017-06-18 22:11:10 UTC,Zeugma - A
+800,Tausha,56,false,2017-06-18 22:11:10 UTC,Amathous - B
+800,Dottie,58,false,2017-06-18 22:11:10 UTC,Arbela - A
+800,Ashley,74,false,2017-06-18 22:11:10 UTC,Alexandria - A
+800,Jarrod,80,false,2017-06-18 22:11:10 UTC,Koptos - A
+801,Dad,103,true,2017-06-24 22:20:45 UTC,Alexandria - B
+801,Tausha,57,false,2017-06-24 22:20:45 UTC,Ostia - B
+801,Dottie,59,false,2017-06-24 22:20:45 UTC,Delphoi - B
+801,Ashley,53,false,2017-06-24 22:20:45 UTC,Karthago - B
+802,Dad,174,false,2017-06-24 23:03:32 UTC,Khattousa - B
+802,Tausha,55,false,2017-06-24 23:03:32 UTC,Alexandria - B
+802,Dottie,190,true,2017-06-24 23:03:32 UTC,Manneken Pis - A
+802,Ashley,181,false,2017-06-24 23:03:32 UTC,Alabanda - B
+803,Dad,54,false,2017-06-24 23:47:15 UTC,Ourouk - B
+803,Tausha,59,false,2017-06-24 23:47:15 UTC,Bassai - B
+803,Dottie,173,true,2017-06-24 23:47:15 UTC,Abu Simbel - B
+803,Ashley,41,false,2017-06-24 23:47:15 UTC,Alabanda - B
+804,Dad,80,false,2017-06-25 00:35:56 UTC,Samarkande - B
+804,Tausha,111,true,2017-06-25 00:35:56 UTC,Abu Simbel - A
+804,Dottie,51,false,2017-06-25 00:35:56 UTC,Our - A
+804,Ashley,80,false,2017-06-25 00:35:56 UTC,Epidaurou - B
+805,Randy,71,false,2017-07-02 00:54:41 UTC,Alexandria - B
+805,Dad,56,false,2017-07-02 00:54:41 UTC,Rhodos - B
+805,Tausha,79,false,2017-07-02 00:54:41 UTC,Manneken Pis - A
+805,Dottie,211,true,2017-07-02 00:54:41 UTC,Khattousa - B
+806,Dad,55,false,2017-07-02 01:47:48 UTC,Peiraieus - B
+806,Tausha,72,false,2017-07-02 01:47:48 UTC,Zeugma - B
+806,Randy,74,true,2017-07-02 01:47:48 UTC,Pompei - A
+807,Dad,56,false,2017-07-09 00:03:34 UTC,Sinope - B
+807,Ashley,85,true,2017-07-09 00:03:34 UTC,Catan - B
+807,Tausha,52,false,2017-07-09 00:03:34 UTC,Argolida - A
+808,Dad,56,false,2017-07-09 01:25:34 UTC,Epidaurou - A
+808,Ashley,74,true,2017-07-09 01:25:34 UTC,Samothraki - A
+808,Randy,61,false,2017-07-09 01:25:34 UTC,Catan - B
+809,Dad,60,false,2017-07-16 00:33:54 UTC,Corropolis - B
+809,Ashley,80,false,2017-07-16 00:33:54 UTC,Olympia - B
+809,Tausha,82,true,2017-07-16 00:33:54 UTC,Abudos - B
+809,Ryan,64,false,2017-07-16 00:33:54 UTC,Cloud City - A
+810,Dad,59,false,2017-07-16 01:21:06 UTC,Stonehenge - B
+810,Tausha,72,true,2017-07-16 01:21:06 UTC,Delphoi - B
+810,Randy,43,false,2017-07-16 01:21:06 UTC,Manneken Pis - B
+811,Dad,73,true,2017-07-22 22:17:56 UTC,Stonehenge - B
+811,Tausha,52,false,2017-07-22 22:17:56 UTC,Agbatana - B
+811,Ashley,64,false,2017-07-22 22:17:56 UTC,Pasargadon - B
+812,Dad,77,false,2017-07-22 22:53:36 UTC,Epidaurou - B
+812,Tausha,89,true,2017-07-22 22:53:36 UTC,Abu Simbel - A
+812,Ashley,81,false,2017-07-22 22:53:36 UTC,Delphoi - B
+813,Dad,49,false,2017-07-22 23:46:30 UTC,Abu Simbel - A
+813,Tausha,70,true,2017-07-22 23:46:30 UTC,Stonehenge - A
+813,Ashley,53,false,2017-07-22 23:46:30 UTC,Jedi Temple - B
+813,Ryan,60,false,2017-07-22 23:46:30 UTC,Pompei - B
+814,Dad,56,false,2017-07-23 00:20:28 UTC,Tiryntha - B
+814,Tausha,60,false,2017-07-23 00:20:28 UTC,Issos - B
+814,Ashley,92,true,2017-07-23 00:20:28 UTC,Alabanda - B
+814,Ryan,83,false,2017-07-23 00:20:28 UTC,Thebai - B
+815,Dad,69,false,2017-07-23 01:04:30 UTC,Korinthos - B
+815,Tausha,75,true,2017-07-23 01:04:30 UTC,Gaza - A
+815,Ashley,66,false,2017-07-23 01:04:30 UTC,Yeriho - A
+815,Ryan,65,false,2017-07-23 01:04:30 UTC,Epidaurou - B
+816,Dad,79,false,2017-07-23 01:50:18 UTC,Samothraki - B
+816,Tausha,69,false,2017-07-23 01:50:18 UTC,Cloud City - B
+816,Ashley,87,true,2017-07-23 01:50:18 UTC,Kappadokia - B
+817,Dad,60,false,2017-09-10 00:47:35 UTC,R’lyeh - B
+817,Ashley,74,false,2017-09-10 00:47:35 UTC,Chichen Itza - B
+817,Tausha,78,true,2017-09-10 00:47:35 UTC,Machu Picchu - A
+817,Dottie,60,false,2017-09-10 00:47:35 UTC,Babel - B
+818,Dad,66,false,2017-09-10 01:21:43 UTC,Beiping - B
+818,Ashley,72,false,2017-09-10 01:21:43 UTC,Atlantis - A
+818,Tausha,61,false,2017-09-10 01:21:43 UTC,Brigadoon - B
+818,Dottie,117,true,2017-09-10 01:21:43 UTC,Abu Simbel - A
+819,Dad,83,true,2017-09-10 02:21:16 UTC,Brigadoon - A
+819,Ashley,68,false,2017-09-10 02:21:16 UTC,Beiping - A
+819,Tausha,62,false,2017-09-10 02:21:16 UTC,Babel - A
+819,Dottie,63,false,2017-09-10 02:21:16 UTC,Machu Picchu - B
+820,Randy,62,false,2017-10-08 01:22:15 UTC,R’lyeh - B
+820,Dad,57,false,2017-10-08 01:22:16 UTC,Machu Picchu - A
+820,Ashley,94,true,2017-10-08 01:22:17 UTC,Atlantis - B
+820,Tausha,60,false,2017-10-08 01:22:17 UTC,Beiping - B
+820,Ryan,63,false,2017-10-08 01:22:17 UTC,Euboia - A
+820,Norman,61,false,2017-10-08 01:22:17 UTC,Delos - A
+821,Dad,93,true,2017-10-08 02:27:13 UTC,Samothraki - B
+821,Ashley,70,false,2017-10-08 02:27:13 UTC,Babel - A
+821,Tausha,81,false,2017-10-08 02:27:13 UTC,Atlantis - B
+821,Randy,56,false,2017-10-08 02:27:13 UTC,Beiping - A
+821,Ryan,71,false,2017-10-08 02:27:13 UTC,Ostia - A
+821,Norman,62,false,2017-10-08 02:27:13 UTC,Euboia - B
+822,Randy,68,false,2017-10-15 01:29:55 UTC,Beiping - B
+822,Dad,68,false,2017-10-15 01:29:55 UTC,Atlantis - A
+822,Ashley,77,true,2017-10-15 01:29:55 UTC,R’lyeh - A
+822,Tausha,68,false,2017-10-15 01:29:55 UTC,Brigadoon - A
+822,Ryan,66,false,2017-10-15 01:29:55 UTC,Phasis - A
+822,Norman,68,false,2017-10-15 01:29:55 UTC,Jedi Temple - B
+823,Randy,71,true,2017-10-21 03:34:44 UTC,Atlantis - B
+823,Norman,46,false,2017-10-21 03:34:44 UTC,Babylon - B
+823,Dakota,41,false,2017-10-21 03:34:44 UTC,Koptos - B
+824,Randy,57,true,2017-10-21 04:33:02 UTC,Brigadoon - B
+824,Norman,42,false,2017-10-21 04:33:02 UTC,Akko - A
+824,Dakota,41,false,2017-10-21 04:33:02 UTC,Beiping - B
+825,Randy,70,true,2017-10-22 00:24:46 UTC,R’lyeh - A
+825,Dad,38,false,2017-10-22 00:24:46 UTC,Beiping - A
+825,Ashley,61,false,2017-10-22 00:24:46 UTC,Machu Picchu - B
+825,Norman,60,false,2017-10-22 00:24:46 UTC,Abu Simbel - B
+826,Randy,56,false,2017-10-22 01:12:17 UTC,Babel - B
+826,Dad,77,false,2017-10-22 01:12:17 UTC,Chichen Itza - A
+826,Ashley,84,true,2017-10-22 01:12:17 UTC,Beiping - B
+826,Norman,66,false,2017-10-22 01:12:17 UTC,Khattousa - B
+827,Randy,60,false,2017-10-22 01:58:28 UTC,Chichen Itza - A
+827,Dad,77,false,2017-10-22 01:58:28 UTC,Babel - A
+827,Ashley,115,true,2017-10-22 01:58:28 UTC,Alabanda - B
+827,Norman,85,false,2017-10-22 01:58:28 UTC,Delphoi - A
+828,Randy,74,true,2017-10-22 20:26:04 UTC,Atlantis - A
+828,Norman,61,false,2017-10-22 20:26:04 UTC,Koptos - A
+828,Dakota,60,false,2017-10-22 20:26:04 UTC,Phasis - A
+829,Randy,61,true,2017-10-22 22:21:13 UTC,Babel - A
+829,Norman,56,false,2017-10-22 22:21:13 UTC,Our - A
+829,Dakota,53,false,2017-10-22 22:21:13 UTC,Beiping - B
+829,Bob,49,false,2017-10-22 22:21:13 UTC,Roma - B
+830,Randy,44,false,2017-10-22 23:17:46 UTC,Machu Picchu - B
+830,Norman,67,false,2017-10-22 23:17:46 UTC,Catan - B
+830,Dakota,78,true,2017-10-22 23:17:46 UTC,Gordion - B
+830,Bob,49,false,2017-10-22 23:17:46 UTC,R’lyeh - B
+831,Randy,46,false,2017-10-23 00:40:36 UTC,Brigadoon - A
+831,Norman,61,false,2017-10-23 00:40:36 UTC,Gizah - B
+831,Dakota,66,false,2017-10-23 00:40:36 UTC,Agbatana - A
+831,Bob,72,true,2017-10-23 00:40:36 UTC,Sinope - A
+832,Randy,56,false,2017-11-05 01:24:03 UTC,Chichen Itza - B
+832,Dad,70,false,2017-11-05 01:24:03 UTC,Atlantis - B
+832,Ashley,83,true,2017-11-05 01:24:03 UTC,Brigadoon - A
+833,Randy,53,false,2017-11-05 01:53:08 UTC,Machu Picchu - A
+833,Dad,74,false,2017-11-05 01:53:08 UTC,Babel - B
+833,Ashley,92,true,2017-11-05 01:53:08 UTC,Brigadoon - B
+834,Randy,68,false,2017-11-11 22:52:06 UTC,Yeriho - A
+834,Dad,68,false,2017-11-11 22:52:06 UTC,Chichen Itza - B
+834,Ashley,85,true,2017-11-11 22:52:06 UTC,Babel - B
+835,Randy,57,false,2017-11-13 01:07:33 UTC,Thira - A
+835,Norman,69,true,2017-11-13 01:07:33 UTC,R’lyeh - B
+835,Dakota,51,false,2017-11-13 01:07:33 UTC,Epidaurou - B
+835,Bob,61,false,2017-11-13 01:07:33 UTC,Amathous - B
+836,Randy,53,false,2017-11-13 02:08:10 UTC,Beiping - B
+836,Norman,68,false,2017-11-13 02:08:10 UTC,Byblos - A
+836,Dakota,72,true,2017-11-13 02:08:10 UTC,Chichen Itza - A
+836,Bob,58,false,2017-11-13 02:08:10 UTC,Kappadokia - A
+837,Randy,67,true,2017-11-13 03:00:32 UTC,Catan - A
+837,Norman,65,false,2017-11-13 03:00:32 UTC,Zeugma - A
+837,Dakota,65,false,2017-11-13 03:00:32 UTC,Cloud City - B
+837,Bob,46,false,2017-11-13 03:00:32 UTC,Epidaurou - B
+838,Randy,72,true,2017-11-13 03:40:27 UTC,Argolida - A
+838,Norman,46,false,2017-11-13 03:40:27 UTC,Catan - A
+838,Dakota,64,false,2017-11-13 03:40:27 UTC,Knosos - A
+838,Bob,55,false,2017-11-13 03:40:27 UTC,Alexandria - A
+839,Dad,75,true,2017-11-18 23:22:15 UTC,R’lyeh - A
+839,Ashley,72,false,2017-11-18 23:22:15 UTC,Machu Picchu - A
+839,Nobody,47,false,2017-11-18 23:22:15 UTC,Atlantis - B
+840,Dad,59,false,2017-11-19 00:07:56 UTC,Brigadoon - B
+840,Ashley,66,true,2017-11-19 00:07:57 UTC,R’lyeh - B
+840,Nobody,40,false,2017-11-19 00:07:58 UTC,Alexandria - A
+841,Dad,70,false,2017-11-19 00:46:48 UTC,Machu Picchu - B
+841,Ashley,74,true,2017-11-19 00:46:48 UTC,Chichen Itza - A
+841,Nobody,38,false,2017-11-19 00:46:48 UTC,Rhodos - B
+842,Dad,48,false,2017-11-19 01:38:50 UTC,Urusalim - B
+842,Ashley,49,false,2017-11-19 01:38:50 UTC,Kurene - A
+842,Nobody,53,true,2017-11-19 01:38:50 UTC,Kadesh - A
+843,Dad,56,false,2017-11-19 02:17:12 UTC,Khattousa - A
+843,Ashley,93,true,2017-11-19 02:17:12 UTC,Alexandria - B
+843,Ryan,58,false,2017-11-19 02:17:12 UTC,Issos - A
+844,Dad,68,false,2017-11-19 03:05:23 UTC,Akko - A
+844,Ashley,104,true,2017-11-19 03:05:23 UTC,Alabanda - B
+844,Ryan,52,false,2017-11-19 03:05:23 UTC,Oasis Siba - A
+845,Randy,90,true,2017-12-03 02:54:36 UTC,Arkadia - B
+845,Dad,46,false,2017-12-03 02:54:36 UTC,Tarsos - B
+845,Ashley,76,false,2017-12-03 02:54:36 UTC,Issos - A
+845,Tausha,67,false,2017-12-03 02:54:36 UTC,Machu Picchu - B
+845,Ryan,70,false,2017-12-03 02:54:36 UTC,Elioupolis - A
+846,Randy,81,false,2017-12-03 03:31:35 UTC,Philippopolis - A
+846,Dad,52,false,2017-12-03 03:31:35 UTC,Gaza - A
+846,Ashley,105,true,2017-12-03 03:31:35 UTC,Alabanda - B
+847,Dad,83,true,2017-12-17 02:35:51 UTC,Urusalim - B
+847,Ashley,78,false,2017-12-17 02:35:51 UTC,Machu Picchu - B
+847,Ryan,51,false,2017-12-17 02:35:51 UTC,Tiryntha - A
+847,Randy,48,false,2017-12-17 02:35:51 UTC,Yeriho - B
+847,Tausha,81,false,2017-12-17 02:35:51 UTC,Atlantis - A
+848,Dad,63,false,2017-12-17 03:28:53 UTC,Khattousa - B
+848,Ashley,112,true,2017-12-17 03:28:53 UTC,Alabanda - B
+848,Ryan,77,false,2017-12-17 03:28:53 UTC,Agbatana - B
+849,Randy,66,false,2017-12-24 00:27:13 UTC,Alexandria - B
+849,Dad,70,false,2017-12-24 00:27:13 UTC,Sardis - B
+849,Ashley,78,true,2017-12-24 00:27:13 UTC,Atlantis - B
+849,Tausha,76,false,2017-12-24 00:27:13 UTC,Chichen Itza - A
+849,Dottie,54,false,2017-12-24 00:27:13 UTC,Beiping - A
+850,Randy,42,false,2017-12-24 01:34:13 UTC,Arbela - B
+850,Dad,67,false,2017-12-24 01:34:13 UTC,Euboia - A
+850,Ashley,92,true,2017-12-24 01:34:13 UTC,Ourouk - A
+850,Tausha,67,false,2017-12-24 01:34:13 UTC,Turos - A
+850,Dottie,70,false,2017-12-24 01:34:13 UTC,Brigadoon - B
+851,Randy,53,false,2017-12-24 02:19:46 UTC,Abu Simbel - A
+851,Dad,71,false,2017-12-24 02:19:46 UTC,Kurene - A
+851,Ashley,70,false,2017-12-24 02:19:46 UTC,Karthago - B
+851,Tausha,65,false,2017-12-24 02:19:46 UTC,Babel - B
+851,Dottie,106,true,2017-12-24 02:19:46 UTC,Atlantis - B
+852,Randy,80,true,2017-12-24 03:02:43 UTC,Catan - A
+852,Dad,64,false,2017-12-24 03:02:43 UTC,Stonehenge - B
+852,Tausha,74,false,2017-12-24 03:02:43 UTC,Chichen Itza - B
+852,Dottie,68,false,2017-12-24 03:02:43 UTC,Atlantis - A
+853,Randy,33,false,2018-01-28 03:07:42 UTC,Ios - B
+853,Dad,64,false,2018-01-28 03:07:42 UTC,Arkadia - B
+853,Ashley,84,true,2018-01-28 03:07:42 UTC,Yeriho - B
+853,Tausha,61,false,2018-01-28 03:07:42 UTC,R’lyeh - A
+853,Ryan,80,false,2018-01-28 03:07:42 UTC,Atlantis - B
+854,Randy,65,false,2018-02-04 02:21:32 UTC,Bassai - B
+854,Dad,99,true,2018-02-04 02:21:32 UTC,The Great Wall - A
+854,Dottie,76,false,2018-02-04 02:21:32 UTC,Alabanda - B
+855,Randy,69,true,2018-02-04 02:54:54 UTC,Byblos - A
+855,Dad,58,false,2018-02-04 02:54:54 UTC,Roma - B
+855,Dottie,60,false,2018-02-04 02:54:54 UTC,Babel - A
+856,Randy,59,false,2018-03-11 00:49:43 UTC,Alexandria - A
+856,Dad,75,true,2018-03-11 00:49:43 UTC,Mykenai - B
+856,Ashley,67,false,2018-03-11 00:49:43 UTC,Jedi Temple - B
+856,Tausha,62,false,2018-03-11 00:49:43 UTC,Beiping - A
+857,Randy,69,false,2018-03-11 01:36:31 UTC,Petra - A
+857,Dad,71,true,2018-03-11 01:36:31 UTC,Gordion - A
+857,Tausha,69,false,2018-03-11 01:36:31 UTC,R’lyeh - B
+858,Randy,53,false,2018-03-11 02:29:45 UTC,Amathous - B
+858,Dad,87,true,2018-03-11 02:29:45 UTC,Issos - B
+858,Tausha,81,false,2018-03-11 02:29:45 UTC,Sousa - B
+859,Dad,74,false,2018-03-24 23:37:10 UTC,Ephesos - B
+859,Ashley,79,true,2018-03-24 23:37:10 UTC,Atlantis - B
+859,Tausha,73,false,2018-03-24 23:37:10 UTC,Oasis Siba - A
+859,Dottie,59,false,2018-03-24 23:37:10 UTC,Beiping - B
+860,Dad,44,false,2018-03-25 00:42:00 UTC,Alexandria - A
+860,Ashley,74,true,2018-03-25 00:42:00 UTC,Byzantium - B
+860,Tausha,54,false,2018-03-25 00:42:00 UTC,Gaza - B
+860,Dottie,69,false,2018-03-25 00:42:00 UTC,R’lyeh - A
+861,Dad,79,true,2018-03-25 01:44:53 UTC,Urusalim - B
+861,Ashley,75,false,2018-03-25 01:44:53 UTC,Babel - A
+861,Tausha,78,false,2018-03-25 01:44:53 UTC,Babylon - A
+861,Dottie,54,false,2018-03-25 01:44:53 UTC,Chichen Itza - A
+862,Dad,90,false,2018-03-25 02:24:01 UTC,Urusalim - B
+862,Ashley,91,true,2018-03-25 02:24:01 UTC,Alabanda - B
+862,Dottie,46,false,2018-03-25 02:24:01 UTC,Machu Picchu - A
+863,Randy,51,false,2018-04-01 01:42:16 UTC,Arbela - B
+863,Dad,67,true,2018-04-01 01:42:16 UTC,Philippopolis - A
+863,Ashley,62,false,2018-04-01 01:42:16 UTC,Mykenai - A
+863,Tausha,67,true,2018-04-01 01:42:16 UTC,Ourouk - A
+864,Dad,40,false,2018-04-15 00:53:48 UTC,Beiping - A
+864,Ashley,64,true,2018-04-15 00:53:48 UTC,Alabanda - B
+864,Randy,63,false,2018-04-15 00:53:48 UTC,Alexandria - B
+865,Dad,67,true,2018-04-15 01:30:45 UTC,Yeriho - B
+865,Ashley,67,true,2018-04-15 01:30:45 UTC,Stonehenge - B
+865,Randy,62,false,2018-04-15 01:30:45 UTC,Phasis - B
+866,Dad,84,false,2018-04-15 01:55:56 UTC,Thapsakos - A
+866,Ashley,100,true,2018-04-15 01:55:56 UTC,Alabanda - B
+866,Randy,68,false,2018-04-15 01:55:56 UTC,Elioupolis - A
+867,Dad,77,false,2018-04-22 00:47:53 UTC,Ostia - A
+867,Ashley,83,true,2018-04-22 00:47:53 UTC,Abu Simbel - A
+867,Randy,58,false,2018-04-22 00:47:53 UTC,Chichen Itza - B
+868,Dad,77,true,2018-04-22 01:39:12 UTC,Urusalim - B
+868,Ashley,74,false,2018-04-22 01:39:12 UTC,Phasis - B
+868,Randy,70,false,2018-04-22 01:39:12 UTC,Alexandria - B
+869,Randy,55,false,2018-07-07 01:08:19 UTC,Issos - B
+869,Dad,76,true,2018-07-07 01:08:19 UTC,Alexandria - A
+869,Ashley,74,false,2018-07-07 01:08:19 UTC,R’lyeh - A
+869,Tausha,74,false,2018-07-07 01:08:19 UTC,Catan - A
+870,Randy,53,false,2018-07-07 01:58:06 UTC,Oasis Siba - B
+870,Dad,83,true,2018-07-07 01:58:06 UTC,Urusalim - B
+870,Ashley,72,false,2018-07-07 01:58:06 UTC,Agbatana - A
+870,Tausha,56,false,2018-07-07 01:58:06 UTC,Argolida - A
+871,Randy,61,false,2018-07-07 02:43:28 UTC,Korinthos - A
+871,Dad,72,false,2018-07-07 02:43:28 UTC,Ostia - A
+871,Ashley,106,true,2018-07-07 02:43:28 UTC,Tarsos - B
+871,Tausha,65,false,2018-07-07 02:43:28 UTC,Sardis - B
+872,Randy,53,false,2018-07-07 03:25:05 UTC,Phasis - B
+872,Dad,70,false,2018-07-07 03:25:05 UTC,Kalakh - A
+872,Ashley,86,true,2018-07-07 03:25:05 UTC,Bassai - B
+872,Tausha,83,false,2018-07-07 03:25:05 UTC,Zeugma - B
+873,Randy,56,false,2018-07-29 00:36:50 UTC,Agbatana - A
+873,Dad,75,true,2018-07-29 00:36:50 UTC,Rhodos - B
+873,Ashley,67,false,2018-07-29 00:36:50 UTC,Alexandria - A
+874,Randy,51,false,2018-07-29 01:24:20 UTC,Sardis - A
+874,Dad,63,true,2018-07-29 01:24:20 UTC,Alexandria - B
+874,Ashley,51,false,2018-07-29 01:24:20 UTC,Arkadia - A
+875,Randy,63,false,2018-07-29 02:12:26 UTC,Alexandria - B
+875,Dad,58,false,2018-07-29 02:12:26 UTC,Machu Picchu - B
+875,Ashley,93,true,2018-07-29 02:12:26 UTC,Koptos - B
+876,Randy,50,false,2018-09-01 23:30:15 UTC,Our - A
+876,Tausha,64,false,2018-09-01 23:30:15 UTC,Machu Picchu - A
+876,Ashley,77,true,2018-09-01 23:30:15 UTC,Petra - A
+876,Dad,64,false,2018-09-01 23:30:15 UTC,Urusalim - B
+877,Randy,53,false,2018-09-02 00:25:13 UTC,Our - A
+877,Tausha,66,false,2018-09-02 00:25:13 UTC,Ephesos - B
+877,Ashley,92,true,2018-09-02 00:25:13 UTC,Euboia - B
+877,Dad,74,false,2018-09-02 00:25:13 UTC,Agbatana - A
+878,Randy,45,false,2018-09-02 01:53:04 UTC,Corropolis - A
+878,Tausha,89,false,2018-09-02 01:53:04 UTC,Cloud City - A
+878,Ashley,110,true,2018-09-02 01:53:04 UTC,Alabanda - B
+878,Dad,76,false,2018-09-02 01:53:04 UTC,Delos - A
+879,Randy,72,false,2018-10-20 23:36:38 UTC,Gordion - B
+879,Tausha,73,false,2018-10-20 23:36:38 UTC,Koptos - A
+879,Ashley,77,true,2018-10-20 23:36:38 UTC,Delphoi - A
+879,Dad,66,false,2018-10-20 23:36:38 UTC,Phasis - A
+880,Randy,74,false,2018-10-21 00:45:02 UTC,Machu Picchu - B
+880,Tausha,65,false,2018-10-21 00:45:02 UTC,Urusalim - B
+880,Ashley,108,true,2018-10-21 00:45:02 UTC,Alabanda - B
+880,Dad,44,false,2018-10-21 00:45:02 UTC,Agbatana - B
+881,Randy,50,false,2018-10-21 01:38:20 UTC,Alexandria - B
+881,Tausha,80,true,2018-10-21 01:38:20 UTC,Pasargadon - B
+881,Ashley,69,false,2018-10-21 01:38:20 UTC,Karthago - A
+881,Dad,74,false,2018-10-21 01:38:20 UTC,Zeugma - B
+882,Randy,81,true,2018-12-23 00:19:48 UTC,Pasargadon - A
+882,Tausha,50,false,2018-12-23 00:19:48 UTC,Ourouk - B
+882,Dad,64,false,2018-12-23 00:19:48 UTC,Samothraki - A
+883,Randy,64,false,2018-12-23 01:08:39 UTC,Phasis - B
+883,Tausha,60,false,2018-12-23 01:08:39 UTC,Tiryntha - B
+883,Dad,82,true,2018-12-23 01:08:39 UTC,Agbatana - A
+884,Randy,71,true,2018-12-23 01:43:44 UTC,Abudos - A
+884,Tausha,67,false,2018-12-23 01:43:44 UTC,Kurene - A
+884,Dad,62,false,2018-12-23 01:43:44 UTC,Philippopolis - B
+885,Randy,53,false,2018-12-23 02:32:57 UTC,Amathous - B
+885,Tausha,69,false,2018-12-23 02:32:57 UTC,Petra - B
+885,Dad,103,true,2018-12-23 02:32:57 UTC,Gaza - B
+886,Randy,70,true,2018-12-24 03:16:41 UTC,Alexandria - B
+886,Norman,60,false,2018-12-24 03:16:41 UTC,Arbela - B
+886,Bob,44,false,2018-12-24 03:16:41 UTC,Our - B
+886,Dakota,41,false,2018-12-24 03:16:41 UTC,Ephesos - B
+887,Randy,64,true,2018-12-24 04:34:55 UTC,R’lyeh - A
+887,Norman,32,false,2018-12-24 04:34:55 UTC,Knosos - B
+887,Bob,54,false,2018-12-24 04:34:55 UTC,Akko - A
+887,Dakota,32,false,2018-12-24 04:34:55 UTC,Samothraki - B
+888,Randy,71,false,2018-12-24 05:29:00 UTC,Manneken Pis - A
+888,Norman,57,false,2018-12-24 05:29:00 UTC,Ostia - A
+888,Bob,78,true,2018-12-24 05:29:00 UTC,Gizah - A
+888,Dakota,60,false,2018-12-24 05:29:00 UTC,Tarsos - A
+889,Randy,60,false,2018-12-24 06:42:54 UTC,Turos - B
+889,Norman,38,false,2018-12-24 06:42:54 UTC,Samarkande - B
+889,Bob,69,true,2018-12-24 06:42:54 UTC,Cloud City - A
+889,Dakota,57,false,2018-12-24 06:42:54 UTC,Yeriho - A
+890,Randy,67,false,2019-02-03 00:05:36 UTC,Oasis Siba - A
+890,Tausha,76,false,2019-02-03 00:05:36 UTC,Phasis - A
+890,Dad,89,true,2019-02-03 00:05:36 UTC,Brigadoon - A
+891,Randy,54,false,2019-02-03 00:57:06 UTC,Corropolis - B
+891,Tausha,65,true,2019-02-03 00:57:06 UTC,Salamina - B
+891,Dad,60,false,2019-02-03 00:57:06 UTC,Byzantium - A
+892,Randy,68,false,2019-02-03 01:39:40 UTC,Olympia - A
+892,Tausha,68,false,2019-02-03 01:39:40 UTC,Cloud City - A
+892,Dad,70,true,2019-02-03 01:39:40 UTC,Machu Picchu - B
+893,Randy,62,false,2019-02-03 02:18:06 UTC,Agbatana - A
+893,Tausha,67,true,2019-02-03 02:18:06 UTC,Korinthos - A
+893,Dad,67,true,2019-02-03 02:18:06 UTC,Delphoi - B
+894,Randy,58,false,2019-02-03 02:49:59 UTC,Alexandria - B
+894,Tausha,70,true,2019-02-03 02:49:59 UTC,Gaza - B
+894,Dad,51,false,2019-02-03 02:49:59 UTC,Gordion - B

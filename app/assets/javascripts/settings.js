@@ -31,7 +31,7 @@ $(document).on("click", ".remove_player", function(){
                 active: false
             }
         });
-        $(location).attr('href', "/settings/players");
+        //$(location).attr('href', "/settings/players");
 
 	} else {
     // Do nothing!
