@@ -19,7 +19,7 @@ class GroupPlayer < ApplicationRecord
   	emptyGroups.each do |eg|
   		gpArray.push(eg)
   	end
-  	gpArray
+    gpArray
   end
 
   def playersNotInGroup(allPlayers, groupPlayers)

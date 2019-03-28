@@ -9,7 +9,7 @@
 			<br>
 			
 			<% if @playerBoards.size > 0 %>
-				<%= form_tag(games_seven_wonders_path, method: "post") do  %>
+				<%= form_tag(seven_wonders_path, method: "post") do  %>
 					<% @playerBoards.each do |b| %>
 						<%= label_tag "#{b[0]}: " %>
 						<%= text_field_tag "name[]", b[0], readonly: true, hidden: true %>

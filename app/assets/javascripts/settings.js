@@ -214,6 +214,25 @@ $(document).on("click", ".confirm-expansions", function(){
     });
 });
 
+//stats
+$(document).on("click", ".select-stat-group", function(){
+    allStats = $('.stat-info').data('stats');
+    records = $('.stat-info').data('records');
+    groupNames = allStats[0];
+    groupPlayers = allStats[1];
+    columns = allStats[2];
+    groupName = $.trim($(this).text());
+    selectedGroup = -1;
+    for(var i=0; i<groupNames.length; i++){
+        if (groupName == groupNames[i]){
+            selectedGroup = i;
+        }
+    }
+    generateStatsHTML(groupNames[selectedGroup], groupPlayers[selectedGroup], columns);
+    generateRecordsHTML(records[selectedGroup]);
+    generateHistoryHTML(history);
+});
+
 //used to show the players assigned to a group
 //status "edit" is used on the settings screen to add or remove players from groups
 //status "select" is used on the players select screen of the games, does not add the edit buttons
@@ -241,6 +260,35 @@ function generateCurrentPlayersHTML(currentPlayers, status) {
     document.getElementById("current-players").innerHTML = htmlString;
  }
 
+function generateStatsHTML(groupName, players, columns){
+    var htmlString = "<table style=\"width: 100%\"><tr>";
+    for(c=0; c<columns.length; c++){
+        htmlString += "<th style=\"text-align: center;\">";
+        htmlString += columns[c];
+        htmlString += "</th>"
+    }    
+    for(p=0; p<players.length; p++){
+        htmlString += "<tr>"
+        for(d=0; d<columns.length; d++){
+            htmlString += "<td>"
+            htmlString += players[p][d]
+            htmlString += "</td>"
+        }
+        htmlString += "</tr>"
+    }
+    htmlString += "</tr></table>"
+
+    document.getElementById("player-stats").innerHTML = htmlString;
+}
+
+function generateRecordsHTML(records){
+    var htmlString = "";
+    for(i=0; i<records.length; i++){
+        htmlString += records[i][2] + " " + records[i][0] + " - " + records[i][1];
+        htmlString += "<br>"
+    }
+    document.getElementById("player-records").innerHTML = htmlString;   
+}
 
 
 //used to show the available players not currently assigned to a group

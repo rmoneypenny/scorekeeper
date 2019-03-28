@@ -1,0 +1,36 @@
+<div class="container">
+	<div class = "col" style="text-align: center">
+		<div class="col-sm-2" style="min-height: 260px; height: auto; border: solid">
+			Select Group
+			<% @allGroups.each do |g| %>
+				<div class="blue-bordered highlight-blue select-stat-group">
+					<%= g.name %>
+					<br>
+				</div>
+			<% end %>			
+		</div>
+		<div class="col-sm-6" style="min-height: 260px; height: auto; border: solid">
+			Stats
+			<br>
+			<div id="player-stats">
+
+			</div>
+		</div>
+		<div class="col-sm-4" style="min-height: 260px; height: auto; border: solid">
+			Records
+			<div id="player-records">
+
+			</div>			
+		</div>
+	</div>
+	<div class = "col" style="text-align: center">
+		<div class="col-sm-12" style="min-height: 260px; height: auto; border: solid">
+			Last 10 Games
+			<br>
+				<% @history.each do |h| %>
+					<%= "#{h[0]} - #{h[1] ? ("win") : ("lose")} - #{h[2]} - #{h[3]} - #{h[4]}" %>
+					<br>
+				<% end %>			
+		</div>
+	</div>
+</div>
