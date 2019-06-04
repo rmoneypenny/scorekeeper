@@ -56,7 +56,7 @@ class GroupPlayer < ApplicationRecord
   	gp = GroupPlayer.where(group_id: group.id)
   	gp.destroy_all
   	players.each do |p|
-  		player = Player.where(name: p).first
+  		player = Player.where(name: p, admin_id: current_admin).first
   		player.groups << group
   	end
 

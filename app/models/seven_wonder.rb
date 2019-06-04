@@ -7,8 +7,8 @@ require 'csv'
 		#add group id
 		p = Player.new
 		b = SevenWonderBoard.new
-		gameNumber = self.getGameNumber
-		playerIDs = p.getPlayerID(names)		
+		gameNumber = self.getGameNumber(admin)
+		playerIDs = p.getPlayerID(names, admin)		
 		boardIDs = b.getBoardIDs(boards)
 		standings = self.getStandings(scores)
 		datetime = DateTime.now.in_time_zone('Eastern Time (US & Canada)')
@@ -19,11 +19,11 @@ require 'csv'
 		end
 	end
 
-	def getGameNumber
-		if SevenWonder.all.count == 0
+	def getGameNumber(admin)
+		if SevenWonder.where(admin_id: admin).all.count == 0
 			1
 		else
-			SevenWonder.last.game_number + 1
+			SevenWonder.where(admin_id).last.game_number + 1
 		end
 	end
 
@@ -67,7 +67,7 @@ require 'csv'
 	end
 
 	#return [groupName[name, highestScore, win%, gamesPlayed]]
-	def getStats(groups)
+	def getStats(groups, admin)
 		allStats = []
 		groupNames = []
 		groupStats = []
@@ -79,8 +79,8 @@ require 'csv'
 			GroupPlayer.where(group_id: g.id).each do |p|
 				playerStats = []
 				#puts Sev.exists?(p.player_id)
-				if SevenWonder.exists?(player_id: p.player_id)
-					player = Player.find_by(id: p.player_id)
+				if SevenWonder.exists?(player_id: p.player_id, admin_id: admin)
+					player = Player.find_by(id: p.player_id, admin_id: admin)
 					playerStats.push(player.name)
 					playerStats.push(self.getHighScore(player))
 					playerStats.push(self.getWinPercentage(player))
@@ -95,7 +95,7 @@ require 'csv'
 		allStats
 	end
 
-	def getRecords(groups)
+	def getRecords(groups, admin)
 		records = []
 		groupRecords = []
 		groups.each do |g|
@@ -103,8 +103,8 @@ require 'csv'
 			highestWinPercentage = ["No One", 0]
 			mostGamesPlayed = ["No One", 0]
 			GroupPlayer.where(group_id: g.id).each do |p|
-				if SevenWonder.exists?(player_id: p.player_id)
-					player = Player.find_by(id: p.player_id)
+				if SevenWonder.exists?(player_id: p.player_id, admin_id: admin)
+					player = Player.find_by(id: p.player_id, admin_id: admin)
 					score = self.getHighScore(player) 
 					score > highestScore[1] ? (highestScore = [player.name, score, "Score: "]) : (nil)
 					winPer = self.getWinPercentage(player)
@@ -120,13 +120,17 @@ require 'csv'
 
 	def getHistory(admin)
 		allRecords = SevenWonder.where(admin_id: admin)
-		lastGameNumber = allRecords.last.game_number
-		history = []
-		lastTen = SevenWonder.where(game_number: (lastGameNumber-10)..lastGameNumber)
-		lastTen.each do |t|
-			history.push([t.game_number, t.win, Player.find_by(id: t.player_id).name, t.score, t.datetime])
+		if allRecords.count > 0 
+			lastGameNumber = allRecords.last.game_number 
+			history = []
+			lastTen = allRecords.where(game_number: (lastGameNumber-10)..lastGameNumber)
+			lastTen.each do |t|
+				history.push([t.game_number, t.win, Player.find_by(id: t.player_id).name, t.score, t.datetime])
+			end
+			history
+		else
+			history = []
 		end
-		history
 	end
 
 	def getWinPercentage(player)

@@ -25,8 +25,8 @@ class SevenWondersController < ApplicationController
 		@allGroups = Group.where(admin_id: current_admin.id)
 		playerGroups = GroupPlayer.new
 		sw = SevenWonder.new
-		@stats = sw.getStats(@allGroups)
-		@records = sw.getRecords(@allGroups)
+		@stats = sw.getStats(@allGroups, current_admin.id)
+		@records = sw.getRecords(@allGroups, current_admin.id)
 		@history = sw.getHistory(current_admin.id)
 	end
 
