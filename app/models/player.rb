@@ -5,6 +5,7 @@ class Player < ApplicationRecord
 
 	validates :name, presence: true, uniqueness: { case_sensitive: false, :scope => :admin_id}
 
+	require 'csv'
 
 	def getPlayerID(names, admin)
 		ids = []
@@ -17,6 +18,16 @@ class Player < ApplicationRecord
 	#check if player has played any games
 	def gameCheck
 		SevenWonder.where(player_id: self.id).count
+	end
+
+
+	def exportData(admin)
+		exportPlayers = []
+		players = Player.where(admin_id: admin)
+		players.each do |p|
+			exportPlayers.push(p.name)
+		end
+		exportPlayers
 	end
 
 end

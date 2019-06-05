@@ -153,23 +153,24 @@ require 'csv'
 		scores.last
 	end
 
-	#data from an older version of the app
-    def convertOldData(admin)
-		file = File.join('lib', 'seeds', 'oldData.csv')
-		CSV.foreach(file) do |line|
-			gameNumber = line[0].to_i
-			playerID = Player.find_by(name: line[1]).id
-			score = line[2].to_i
-			wins = false
-			line[3] == "true" ? (wins = true) : (nil)
-			datetime = DateTime.parse(line[4])
-			boardname = line[5].split(" - ")
-			boardID = 0
-			line[5] == "Unknown" ? (nil) : (boardID = SevenWonderBoard.find_by(name: boardname[0]).id)
-			SevenWonder.create(game_number: gameNumber, player_id: playerID, board_id: boardID, win: wins, score: score, datetime: datetime, admin_id: admin)
+
+	def exportData(admin)
+		exportSevenWonder = []
+		swData = SevenWonder.where(admin_id: admin)
+		swData.each do |sw|
+			singleRecord = []
+			player = Player.find_by(id: sw.player_id, admin_id: admin)
+			board = "Unknown"
+			sw.board_id == 0 ? (nil) : (board = SevenWonderBoard.find(sw.board_id).name)
+			singleRecord.push(sw.game_number.to_s)
+			singleRecord.push(player.name)
+			singleRecord.push(board)
+			singleRecord.push(sw.win.to_s)
+			singleRecord.push(sw.score.to_s)
+			singleRecord.push(sw.datetime.to_s)
+			exportSevenWonder.push(singleRecord)
 		end
-
-
+		exportSevenWonder
 	end
 
 end
