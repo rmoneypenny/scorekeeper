@@ -125,9 +125,10 @@ require 'csv'
 			history = []
 			lastTen = allRecords.where(game_number: (lastGameNumber-10)..lastGameNumber)
 			lastTen.each do |t|
-				history.push([t.game_number, t.win, Player.find_by(id: t.player_id).name, t.score, t.datetime])
+				history.push([t.game_number, t.win, Player.find_by(id: t.player_id).name, t.score, t.datetime.in_time_zone("Eastern Time (US & Canada)").strftime("%A %-m/%d/%y %l:%M%P")])
 			end
-			history
+			history.sort!{|x,y| x[0] <=> y[0]}
+			history.reverse
 		else
 			history = []
 		end

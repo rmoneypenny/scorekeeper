@@ -16,6 +16,8 @@ class Admin < ApplicationRecord
 				flag = "p"
 			elsif line.include?("Seven Wonders Data")
 				flag = "s"
+			elsif line.include?("Power Grid Data")
+				flag = "g"
 			end
 			
 			if flag == "p" && !line.include?("Players")
@@ -31,6 +33,17 @@ class Admin < ApplicationRecord
 				score = line[4].to_i
 				datetime = DateTime.parse(line[5])
 				SevenWonder.create(game_number: gameNumber, player_id: playerID, board_id: boardID, win: wins, score: score, datetime: datetime, admin_id: admin)		
+			elsif flag == "g" && !line.include?("Power Grid Data")
+				gameNumber = line[0].to_i
+				playerID = Player.find_by(name: line[1], admin_id: admin).id
+				mapID = 0
+				line[2] == "Unknown" ? (nil) : (mapID = PowerGridMap.find_by(name: line[2]).id)
+				win = false
+				line[3] == "true" ? (wins = true) : (nil)
+				score = line[4].to_i
+				money = line[5].to_i
+				dateTime = DateTime.parse(line[6])
+				PowerGrid.create(game_number: gameNumber, player_id: playerID, map_id: mapID, win: win, score: score, money: money, admin_id: admin, datetime: dateTime)
 			end
 		end		
 	end
