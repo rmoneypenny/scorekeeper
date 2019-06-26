@@ -1,5 +1,9 @@
 class PowerGrid < ApplicationRecord
 
+	def getExpansions
+		["test", "test2", "test3", "test4"]
+	end
+
 	def exportData(admin)
 		exportPowerGrid = []
 		pgData = PowerGrid.where(admin_id: admin)

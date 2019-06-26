@@ -8,6 +8,13 @@ class GameController < ApplicationController
 			redirect_to seven_wonders_path
 		end
 
+		if params[:game] == "PowerGrid"
+			pgm = PowerGridMap.new
+			session[:mapExpansion] = pgm.getRandomMap(params[:finalExpansions])
+			session[:players] = params[:players] 
+			redirect_to power_grid_path
+		end
+
 	end
 
 	def stats

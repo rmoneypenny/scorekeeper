@@ -1,0 +1,33 @@
+<%= content_tag :div, class: "temp_information", data: {temp: @gpArray, exp: @expansions, game: "PowerGrid"} do %>
+<% end %>
+
+<%= render 'shared/game_setup' %>
+
+<div class="container">
+	<div class = "col" style="text-align: left">
+		<div class="col-sm-6" style="min-height: 260px; height: auto; border: solid">
+			<% if @players.size > 0 %> 
+				Map: <%= @mapExpansion[0] %>
+				<br>
+				Expansion: <%= @mapExpansion[1] %>
+				<br>
+				<% @players.each do |p| %>
+					<%= p %>
+					<br>
+				<% end %>
+			<% end %>
+		</div>
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
+			<br>
+			Results
+
+		</div>
+		<div class="col-sm-3" style="min-height: 260px; height: auto; border: solid">
+			<br>
+			Winners
+
+		</div>
+	</div>
+</div>
+
+

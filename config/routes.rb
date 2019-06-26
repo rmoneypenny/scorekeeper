@@ -29,4 +29,7 @@ Rails.application.routes.draw do
   post 'seven_wonders', to: 'seven_wonders#create'
   get 'seven_wonders/stats', to: 'seven_wonders#stats'
 
+  get 'power_grid', to: 'power_grids#show'
+  
+
 end
